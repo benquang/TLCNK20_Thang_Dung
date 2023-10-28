@@ -244,7 +244,7 @@ class CrawlmatchSpider(scrapy.Spider):
             away_squad['player_name'] = name
             away_squad['player_kitnum'] = away_kitnum
             away_squad['team'] = away_stats['team']
-            away_squad['is_home_team'] = 'Yes'
+            away_squad['is_home_team'] = 'No'
             if index > 10:
                 away_squad['is_sub'] = 'Yes'
             else:   away_squad['is_sub'] = 'No'
