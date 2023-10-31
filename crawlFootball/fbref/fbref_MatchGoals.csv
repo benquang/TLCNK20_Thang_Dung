@@ -1,6 +1,5 @@
 ﻿fbrefMatchId,is_home_team,minute,player_name,team,type_of_goal
 db4d7668,Yes,46 ,Gerard Deulofeu,Watford,Normal
-db4d7668,Yes,48 ,José Holebas,Watford,Normal
 db4d7668,No,15,Mark Noble,West Ham United,Normal
 db4d7668,No,39,Manuel Lanzini,West Ham United,Normal
 db4d7668,No,71,Marko Arnautović,West Ham United,Normal
@@ -23,16 +22,13 @@ a3f59c8e,No,84,Jack Grealish,Aston Villa,Normal
 9099d1e5,Yes,90 ,Kevin De Bruyne,Manchester City,Normal
 61616d45,Yes,53 ,Jeffrey Schlupp,Crystal Palace,Normal
 61616d45,No,13,Harry Kane,Tottenham Hotspur,Normal
-5ecaeb4b,Yes,5 ,Pierre-Emerick Aubameyang,Arsenal,Penalty
 5ecaeb4b,Yes,24 ,Kieran Tierney,Arsenal,Normal
 5ecaeb4b,Yes,33 ,Pierre-Emerick Aubameyang,Arsenal,Normal
 5ecaeb4b,No,43,Troy Deeney,Watford,Penalty
 5ecaeb4b,No,66,Danny Welbeck,Watford,Normal
 3e5b45b7,Yes,50 ,Che Adams,Southampton,Normal
 3e5b45b7,Yes,71 ,Che Adams,Southampton,Normal
-3e5b45b7,Yes,84 ,Danny Ings,Southampton,Penalty
 3e5b45b7,No,26,John Lundstram,Sheffield United,Normal
-3873cc78,Yes,90+4 ,Jonny Evans,Leicester City,Normal
 3873cc78,No,71,Bruno Fernandes,Manchester United,Penalty
 3873cc78,No,90+8,Jesse Lingard,Manchester United,Normal
 2a3b8f05,Yes,41 ,Moise Kean,Everton,Normal
@@ -57,13 +53,10 @@ ca0b21bc,Yes,27 ,Trézéguet,Aston Villa,Normal
 70598e52,Yes,41 ,Daniel Podence,Wolverhampton Wanderers,Normal
 70598e52,Yes,68 ,Jonny Castro,Wolverhampton Wanderers,Normal
 d2e788d0,No,46,Richarlison,Everton,Normal
-d4ce66f6,Yes,6 ,James Justin,Tottenham Hotspur,Own Goal
 d4ce66f6,Yes,37 ,Harry Kane,Tottenham Hotspur,Normal
 d4ce66f6,Yes,40 ,Harry Kane,Tottenham Hotspur,Normal
 bbd4160f,No,41,Danny Ings,Southampton,Normal
 bbd4160f,No,90+8,Che Adams,Southampton,Normal
-9594e0b4,Yes,35 ,Emi Buendía,Norwich City,Normal
-9594e0b4,Yes,45+3 ,Josip Drmić,Norwich City,Normal
 9594e0b4,No,45+5,Chris Wood,Burnley,Normal
 9594e0b4,No,80,Ben Godfrey,Burnley,Own Goal
 249bbdaa,Yes,6 ,Michail Antonio,West Ham United,Normal
@@ -84,7 +77,6 @@ f855bc55,No,72,Ezri Konsa,Aston Villa,Normal
 eff6988f,Yes,6 ,David Silva,Manchester City,Normal
 eff6988f,Yes,39 ,Gabriel Jesus,Manchester City,Normal
 eff6988f,No,88,David Brooks,Bournemouth,Normal
-a7c5d31f,Yes,90+6 ,Chris Wood,Burnley,Penalty
 a7c5d31f,No,76,Raúl Jiménez,Wolverhampton Wanderers,Normal
 21cbea56,Yes,56 ,Matt Ritchie,Newcastle United,Normal
 21cbea56,No,27,Son Heung-min,Tottenham Hotspur,Normal
@@ -95,9 +87,7 @@ a7c5d31f,No,76,Raúl Jiménez,Wolverhampton Wanderers,Normal
 668c9423,Yes,23 ,Anthony Martial,Manchester United,Normal
 668c9423,No,12,Stuart Armstrong,Southampton,Normal
 668c9423,No,90+6,Michael Obafemi,Southampton,Normal
-d2adf574,Yes,66 ,Junior Stanislas,Bournemouth,Penalty
 d2adf574,Yes,67 ,Dominic Solanke,Bournemouth,Normal
-d2adf574,Yes,83 ,Jonny Evans,Bournemouth,Own Goal
 d2adf574,Yes,87 ,Dominic Solanke,Bournemouth,Normal
 d2adf574,No,23,Jamie Vardy,Leicester City,Normal
 d2adf574,No,67,Çağlar Söyüncü,Leicester City,Normal
@@ -107,7 +97,6 @@ d2adf574,No,67,Çağlar Söyüncü,Leicester City,Normal
 b30bf2e8,Yes,45+4 ,Trézéguet,Aston Villa,Normal
 b30bf2e8,Yes,59 ,Trézéguet,Aston Villa,Normal
 b30bf2e8,No,90+6,Christian Benteke,Crystal Palace,Normal
-476e8583,Yes,45+2 ,Raúl Jiménez,Wolverhampton Wanderers,Penalty
 476e8583,Yes,46 ,Leander Dendoncker,Wolverhampton Wanderers,Normal
 476e8583,Yes,74 ,Diogo Jota,Wolverhampton Wanderers,Normal
 a24d3d6b,No,21,Raheem Sterling,Manchester City,Normal
@@ -120,8 +109,6 @@ a24d3d6b,No,81,Raheem Sterling,Manchester City,Normal
 3f83499d,Yes,77 ,David McGoldrick,Sheffield United,Normal
 267d7e78,Yes,34 ,Andrew Robertson,Liverpool,Normal
 267d7e78,No,69,Jay Rodriguez,Burnley,Normal
-ae59ff28,Yes,52 ,Troy Deeney,Watford,Penalty
-ae59ff28,Yes,82 ,Troy Deeney,Watford,Penalty
 ae59ff28,No,23,Dwight Gayle,Newcastle United,Normal
 1f633005,No,11,Michail Antonio,West Ham United,Normal
 1f633005,No,45+1,Michail Antonio,West Ham United,Normal
@@ -140,11 +127,9 @@ f898c8ea,Yes,90+3 ,John Egan,Sheffield United,Normal
 5c57bea6,No,38,Jay Rodriguez,Burnley,Normal
 426dcb15,Yes,10 ,Gabriel Jesus,Manchester City,Normal
 426dcb15,Yes,21 ,Riyad Mahrez,Manchester City,Normal
-426dcb15,Yes,58 ,Federico Fernández,Manchester City,Own Goal
 426dcb15,Yes,65 ,David Silva,Manchester City,Normal
 426dcb15,Yes,90+1 ,Raheem Sterling,Manchester City,Normal
 a26b0a22,Yes,21 ,Pierre-Emerick Aubameyang,Arsenal,Normal
-a26b0a22,Yes,75 ,Eddie Nketiah,Arsenal,Normal
 a26b0a22,No,84,Jamie Vardy,Leicester City,Normal
 7e51a0cb,Yes,10 ,Craig Dawson,Watford,Normal
 7e51a0cb,Yes,55 ,Danny Welbeck,Watford,Normal
@@ -154,7 +139,6 @@ a26b0a22,No,84,Jamie Vardy,Leicester City,Normal
 61407f3d,No,6,Olivier Giroud,Chelsea,Normal
 61407f3d,No,27,Christian Pulisic,Chelsea,Normal
 61407f3d,No,71,Tammy Abraham,Chelsea,Normal
-ba9fd89a,Yes,24 ,Michael Keane,Tottenham Hotspur,Own Goal
 260c5c31,Yes,16 ,Che Adams,Southampton,Normal
 c2481cad,Yes,71 ,Sadio Mané,Liverpool,Normal
 c2481cad,Yes,89 ,Curtis Jones,Liverpool,Normal
@@ -165,12 +149,10 @@ c2481cad,Yes,89 ,Curtis Jones,Liverpool,Normal
 c2378113,Yes,43 ,James Tarkowski,Burnley,Normal
 c2378113,No,80,John Egan,Sheffield United,Normal
 ee7944f1,Yes,28 ,Olivier Giroud,Chelsea,Normal
-ee7944f1,Yes,43 ,Willian,Chelsea,Penalty
 ee7944f1,Yes,90+2 ,Ross Barkley,Chelsea,Normal
 df13ee5b,No,43,Bukayo Saka,Arsenal,Normal
 df13ee5b,No,86,Alexandre Lacazette,Arsenal,Normal
 8bed0062,Yes,29 ,Mason Greenwood,Manchester United,Normal
-8bed0062,Yes,35 ,Marcus Rashford,Manchester United,Penalty
 8bed0062,Yes,45+2 ,Anthony Martial,Manchester United,Normal
 8bed0062,Yes,54 ,Mason Greenwood,Manchester United,Normal
 8bed0062,Yes,59 ,Bruno Fernandes,Manchester United,Normal
@@ -180,10 +162,8 @@ df13ee5b,No,86,Alexandre Lacazette,Arsenal,Normal
 88e800c1,Yes,77 ,Jamie Vardy,Leicester City,Normal
 88e800c1,Yes,90+4 ,Jamie Vardy,Leicester City,Normal
 aa3a3540,No,25,Leandro Trossard,Brighton & Hove Albion,Normal
-5dffd237,Yes,25 ,Kevin De Bruyne,Manchester City,Penalty
 5dffd237,Yes,35 ,Raheem Sterling,Manchester City,Normal
 5dffd237,Yes,45 ,Phil Foden,Manchester City,Normal
-5dffd237,Yes,66 ,Alex Oxlade-Chamberlain,Manchester City,Own Goal
 70507f3c,Yes,31 ,Sander Berge,Sheffield United,Normal
 70507f3c,Yes,69 ,Lys Mousset,Sheffield United,Normal
 70507f3c,Yes,84 ,Oliver McBurnie,Sheffield United,Normal
@@ -198,7 +178,6 @@ cb52b4c8,Yes,37 ,Granit Xhaka,Arsenal,Normal
 cb52b4c8,Yes,67 ,Pierre-Emerick Aubameyang,Arsenal,Normal
 cb52b4c8,Yes,81 ,Cédric Soares,Arsenal,Normal
 c2c7ebbf,Yes,10 ,Richarlison,Everton,Normal
-c2c7ebbf,Yes,16 ,Gylfi Sigurðsson,Everton,Penalty
 c2c7ebbf,No,51,Kelechi Iheanacho,Leicester City,Normal
 92aaad57,Yes,90+4 ,Dan Gosling,Bournemouth,Normal
 92aaad57,No,5,Dwight Gayle,Newcastle United,Normal
@@ -209,17 +188,14 @@ be321c59,No,16,Mason Greenwood,Manchester United,Normal
 be321c59,No,29,Bruno Fernandes,Manchester United,Normal
 be321c59,No,50,Bruno Fernandes,Manchester United,Normal
 d7661a5f,No,62,Ben Mee,Burnley,Normal
-37720dc3,Yes,79 ,Jan Bednarek,Watford,Own Goal
 37720dc3,No,16,Danny Ings,Southampton,Normal
 37720dc3,No,70,Danny Ings,Southampton,Normal
 37720dc3,No,82,James Ward-Prowse,Southampton,Normal
 b4483d72,No,62,Leander Dendoncker,Wolverhampton Wanderers,Normal
 bc237647,Yes,36 ,Christian Pulisic,Chelsea,Normal
-bc237647,Yes,78 ,Willian,Chelsea,Penalty
 bc237647,No,55,Kevin De Bruyne,Manchester City,Normal
 bc237647,No,77,Fernandinho,Manchester City,Normal
 965fbb94,Yes,73 ,Jay Rodriguez,Burnley,Normal
-38757aa1,Yes,85 ,Jack Stephens,Southampton,Normal
 38757aa1,No,20,Eddie Nketiah,Arsenal,Normal
 38757aa1,No,86,Joe Willock,Arsenal,Normal
 c486cf76,Yes,23 ,Trent Alexander-Arnold,Liverpool,Normal
@@ -233,11 +209,9 @@ c486cf76,Yes,69 ,Sadio Mané,Liverpool,Normal
 54cdce8b,Yes,74 ,Anthony Martial,Manchester United,Normal
 4f61e5af,Yes,60 ,Raúl Jiménez,Wolverhampton Wanderers,Normal
 49724d90,No,55,Michael Keane,Everton,Normal
-8fc12d99,Yes,64 ,Tomáš Souček,Tottenham Hotspur,Own Goal
 8fc12d99,Yes,82 ,Harry Kane,Tottenham Hotspur,Normal
 b1d3ebde,Yes,22 ,Phil Foden,Manchester City,Normal
 b1d3ebde,Yes,43 ,Riyad Mahrez,Manchester City,Normal
-b1d3ebde,Yes,45+3 ,Riyad Mahrez,Manchester City,Penalty
 b1d3ebde,Yes,51 ,David Silva,Manchester City,Normal
 b1d3ebde,Yes,63 ,Phil Foden,Manchester City,Normal
 827d4651,Yes,43 ,Kortney Hause,Aston Villa,Normal
@@ -262,11 +236,9 @@ d659cbdf,No,49,Danny Ings,Southampton,Normal
 d659cbdf,No,54,Stuart Armstrong,Southampton,Normal
 d659cbdf,No,79,Nathan Redmond,Southampton,Normal
 5825b217,Yes,45+2 ,Raheem Sterling,Manchester City,Normal
-5825b217,Yes,51 ,Kevin De Bruyne,Manchester City,Penalty
 5825b217,Yes,90+1 ,Phil Foden,Manchester City,Normal
 5825b217,No,49,David Luiz,Arsenal,Normal
 76f492dc,Yes,40 ,Harvey Barnes,Leicester City,Normal
-76f492dc,Yes,63 ,Jamie Vardy,Leicester City,Penalty
 76f492dc,Yes,79 ,Jamie Vardy,Leicester City,Normal
 76f492dc,Yes,85 ,Harvey Barnes,Leicester City,Normal
 04416d35,Yes,30 ,Anthony Martial,Manchester United,Normal
@@ -279,7 +251,6 @@ c062bff0,Yes,54 ,Olivier Giroud,Chelsea,Normal
 1b4c17ec,No,50,Dele Alli,Tottenham Hotspur,Penalty
 fcdf913d,Yes,36 ,Billy Sharp,Sheffield United,Normal
 bf382825,Yes,78 ,Alexandre Lacazette,Arsenal,Normal
-947a04e9,Yes,28 ,Moussa Djenepo,Southampton,Normal
 947a04e9,No,79,Allan Saint-Maximin,Newcastle United,Normal
 7535d777,Yes,28 ,Jordan Ayew,Crystal Palace,Normal
 a24ed8fc,Yes,25 ,Mohamed Salah,Liverpool,Normal
@@ -315,7 +286,6 @@ aeb979e2,No,70,Jordan Ayew,Crystal Palace,Normal
 485003ed,Yes,46 ,Pierre-Emerick Aubameyang,Arsenal,Normal
 485003ed,No,1,Dominic Calvert-Lewin,Everton,Normal
 485003ed,No,45+4,Richarlison,Everton,Normal
-835d0c36,Yes,42 ,Bruno Fernandes,Manchester United,Penalty
 835d0c36,Yes,58 ,Anthony Martial,Manchester United,Normal
 835d0c36,Yes,75 ,Mason Greenwood,Manchester United,Normal
 09ec6552,Yes,19 ,Diogo Jota,Wolverhampton Wanderers,Normal
@@ -325,7 +295,6 @@ aeb979e2,No,70,Jordan Ayew,Crystal Palace,Normal
 c24b02bd,Yes,26 ,Enda Stevens,Sheffield United,Normal
 c24b02bd,No,30,Neal Maupay,Brighton & Hove Albion,Normal
 bcdc3fb0,Yes,53 ,Matěj Vydra,Burnley,Normal
-bcdc3fb0,Yes,61 ,Jay Rodriguez,Burnley,Penalty
 bcdc3fb0,Yes,87 ,Dwight McNeil,Burnley,Normal
 66823ac4,Yes,8 ,Shane Long,Southampton,Normal
 66823ac4,Yes,90+5 ,Stuart Armstrong,Southampton,Normal
@@ -342,7 +311,6 @@ bc091e86,Yes,62 ,Kevin De Bruyne,Manchester City,Normal
 6ce374b0,Yes,57 ,Nicolas Pépé,Arsenal,Normal
 6ce374b0,Yes,90 ,Mesut Özil,Arsenal,Normal
 6ce374b0,Yes,90+5 ,Alexandre Lacazette,Arsenal,Normal
-ebfe971d,Yes,9 ,Toby Alderweireld,Aston Villa,Own Goal
 ebfe971d,Yes,53 ,Björn Engels,Aston Villa,Normal
 ebfe971d,No,27,Toby Alderweireld,Tottenham Hotspur,Normal
 ebfe971d,No,45+2,Son Heung-min,Tottenham Hotspur,Normal
@@ -355,7 +323,6 @@ a11273b7,No,76,Hamza Choudhury,Leicester City,Normal
 9dbc60d4,Yes,45+2 ,Billy Sharp,Sheffield United,Normal
 9dbc60d4,Yes,84 ,John Lundstram,Sheffield United,Normal
 9dbc60d4,No,13,Callum Wilson,Bournemouth,Normal
-111b8b45,Yes,78 ,Adrian Mariappa,Brighton & Hove Albion,Own Goal
 111b8b45,No,19,Abdoulaye Doucouré,Watford,Normal
 4e620966,Yes,18 ,Bernard,Everton,Normal
 4e620966,Yes,58 ,Richarlison,Everton,Normal
@@ -366,7 +333,6 @@ e98d8736,Yes,71 ,Son Heung-min,Tottenham Hotspur,Normal
 e98d8736,No,60,Oleksandr Zinchenko,Manchester City,Normal
 db21a88a,Yes,37 ,Philip Billing,Bournemouth,Normal
 db21a88a,Yes,44 ,Nathan Aké,Bournemouth,Normal
-db21a88a,Yes,51 ,Jefferson Lerma,Bournemouth,Normal
 db21a88a,No,70,Mbwana Samatta,Aston Villa,Normal
 ab9e9e23,Yes,47 ,Alex Oxlade-Chamberlain,Liverpool,Normal
 ab9e9e23,Yes,60 ,Jordan Henderson,Liverpool,Normal
@@ -401,16 +367,13 @@ b36a7b4d,Yes,79 ,Son Heung-min,Tottenham Hotspur,Normal
 b36a7b4d,No,70,Teemu Pukki,Norwich City,Penalty
 354b03ac,Yes,24 ,Harvey Barnes,Leicester City,Normal
 354b03ac,Yes,45+5 ,Ricardo Pereira,Leicester City,Normal
-354b03ac,Yes,81 ,Ayoze Pérez,Leicester City,Penalty
 354b03ac,Yes,88 ,Ayoze Pérez,Leicester City,Normal
 354b03ac,No,50,Mark Noble,West Ham United,Penalty
-38d058ad,Yes,28 ,Jorginho,Chelsea,Penalty
 38d058ad,Yes,84 ,César Azpilicueta,Chelsea,Normal
 38d058ad,No,26,David Luiz,Arsenal,Normal
 38d058ad,No,63,Gabriel Martinelli,Arsenal,Normal
 38d058ad,No,87,Héctor Bellerín,Arsenal,Normal
 ba03a070,Yes,36 ,Harry Wilson,Bournemouth,Normal
-ba03a070,Yes,41 ,Pascal Groß,Bournemouth,Own Goal
 ba03a070,Yes,74 ,Callum Wilson,Bournemouth,Normal
 ba03a070,No,81,Aaron Mooy,Brighton & Hove Albion,Normal
 ae7cb0c2,No,73,Sergio Agüero,Manchester City,Normal
@@ -442,12 +405,9 @@ bd044bad,No,75,Jack Grealish,Aston Villa,Normal
 4572cd0e,Yes,87 ,Sergio Agüero,Manchester City,Normal
 4572cd0e,No,39,Cenk Tosun,Crystal Palace,Normal
 4572cd0e,No,90,Fernandinho,Crystal Palace,Own Goal
-2550abdc,Yes,33 ,Teemu Pukki,Norwich City,Penalty
-2550abdc,Yes,76 ,Ben Godfrey,Norwich City,Normal
 2550abdc,No,31,Steve Cook,Bournemouth,Normal
 0333a4b6,Yes,45 ,Gabriel Martinelli,Arsenal,Normal
 0333a4b6,No,83,John Fleck,Sheffield United,Normal
-ffb4946c,Yes,90+1 ,Anwar El Ghazi,Aston Villa,Penalty
 ffb4946c,No,18,Riyad Mahrez,Manchester City,Normal
 ffb4946c,No,24,Riyad Mahrez,Manchester City,Normal
 ffb4946c,No,28,Sergio Agüero,Manchester City,Normal
@@ -459,7 +419,6 @@ ffb4946c,No,81,Sergio Agüero,Manchester City,Normal
 76ce7bd8,No,90+2,Roberto Pereyra,Watford,Normal
 39432697,No,37,Roberto Firmino,Liverpool,Normal
 db192bf5,Yes,27 ,Marcus Rashford,Manchester United,Normal
-db192bf5,Yes,52 ,Marcus Rashford,Manchester United,Penalty
 db192bf5,Yes,54 ,Anthony Martial,Manchester United,Normal
 db192bf5,Yes,76 ,Mason Greenwood,Manchester United,Normal
 d5b1eda9,Yes,14 ,Leander Dendoncker,Wolverhampton Wanderers,Normal
@@ -468,7 +427,6 @@ bf752bf7,Yes,14 ,Dennis Praet,Leicester City,Normal
 bf752bf7,No,19,Stuart Armstrong,Southampton,Normal
 bf752bf7,No,81,Danny Ings,Southampton,Normal
 61cc2ca5,Yes,38 ,Richarlison,Everton,Normal
-17a5a8ef,Yes,27 ,Jorginho,Chelsea,Penalty
 17a5a8ef,Yes,38 ,Tammy Abraham,Chelsea,Normal
 17a5a8ef,Yes,49 ,Callum Hudson-Odoi,Chelsea,Normal
 e1fdc1f9,Yes,54 ,Jordan Ayew,Crystal Palace,Normal
@@ -484,13 +442,11 @@ ed58271e,Yes,58 ,Gabriel Jesus,Manchester City,Normal
 ed58271e,No,71,Richarlison,Everton,Normal
 9ae01aab,Yes,17 ,Mark Noble,West Ham United,Normal
 9ae01aab,Yes,25 ,Sébastien Haller,West Ham United,Normal
-9ae01aab,Yes,35 ,Mark Noble,West Ham United,Penalty
 9ae01aab,Yes,66 ,Felipe Anderson,West Ham United,Normal
 5bbec2c4,Yes,4 ,Todd Cantwell,Norwich City,Normal
 5bbec2c4,No,85,Connor Wickham,Crystal Palace,Normal
 dc2a86e8,Yes,30 ,Gerard Deulofeu,Watford,Normal
 dc2a86e8,Yes,49 ,Abdoulaye Doucouré,Watford,Normal
-dc2a86e8,Yes,71 ,Christian Kabasele,Watford,Normal
 dc2a86e8,No,60,Pedro Neto,Wolverhampton Wanderers,Normal
 ce2fad1e,Yes,17 ,Danny Ings,Southampton,Normal
 a7902bb1,No,36,Ayoze Pérez,Leicester City,Normal
@@ -510,7 +466,6 @@ aaada016,Yes,82 ,Kevin De Bruyne,Manchester City,Normal
 f66bbb03,No,44,Anthony Martial,Manchester United,Normal
 f66bbb03,No,90+5,Marcus Rashford,Manchester United,Normal
 a6e8ab71,Yes,18 ,Mario Vrančić,Norwich City,Normal
-a6e8ab71,Yes,61 ,Serge Aurier,Norwich City,Own Goal
 a6e8ab71,No,55,Christian Eriksen,Tottenham Hotspur,Normal
 a6e8ab71,No,83,Harry Kane,Tottenham Hotspur,Penalty
 1f2bd890,Yes,45 ,Pablo Fornals,West Ham United,Normal
@@ -522,8 +477,6 @@ a8ab1213,No,50,James Tomkins,Crystal Palace,Normal
 6edbd555,No,13,Dominic Calvert-Lewin,Everton,Normal
 6edbd555,No,64,Dominic Calvert-Lewin,Everton,Normal
 36dc1eb8,Yes,42 ,Troy Deeney,Watford,Normal
-36dc1eb8,Yes,57 ,Adrian Mariappa,Watford,Normal
-36dc1eb8,Yes,67 ,Troy Deeney,Watford,Penalty
 36dc1eb8,Yes,71 ,Ismaila Sarr,Watford,Normal
 d7b72d7f,Yes,3 ,Alireza Jahanbakhsh,Brighton & Hove Albion,Normal
 d7b72d7f,Yes,79 ,Aaron Mooy,Brighton & Hove Albion,Normal
@@ -545,7 +498,6 @@ b3d5292f,No,17,Matthew Longstaff,Newcastle United,Normal
 d9a73d72,No,31,Michael Obafemi,Southampton,Normal
 d9a73d72,No,73,Nathan Redmond,Southampton,Normal
 b23c6c90,Yes,80 ,Dominic Calvert-Lewin,Everton,Normal
-960ce979,Yes,36 ,Oliver Norwood,Sheffield United,Penalty
 960ce979,No,27,Gerard Deulofeu,Watford,Normal
 5b1ecf02,Yes,35 ,Dan Gosling,Bournemouth,Normal
 5b1ecf02,No,63,Pierre-Emerick Aubameyang,Arsenal,Normal
@@ -556,13 +508,10 @@ b23c6c90,Yes,80 ,Dominic Calvert-Lewin,Everton,Normal
 eebe09b9,Yes,53 ,Harry Kane,Tottenham Hotspur,Normal
 eebe09b9,Yes,72 ,Dele Alli,Tottenham Hotspur,Normal
 eebe09b9,No,37,Adam Webster,Brighton & Hove Albion,Normal
-a1a20337,Yes,62 ,Son Heung-min,Tottenham Hotspur,Normal
 a1a20337,No,12,Willian,Chelsea,Normal
 a1a20337,No,45+4,Willian,Chelsea,Penalty
 a58df282,Yes,50 ,Ismaila Sarr,Watford,Normal
-a58df282,Yes,54 ,Troy Deeney,Watford,Penalty
 733c0243,Yes,30 ,Riyad Mahrez,Manchester City,Normal
-733c0243,Yes,43 ,İlkay Gündoğan,Manchester City,Penalty
 733c0243,Yes,69 ,Gabriel Jesus,Manchester City,Normal
 733c0243,No,22,Jamie Vardy,Leicester City,Normal
 e8b74ca0,No,89,Jay Rodriguez,Burnley,Normal
@@ -590,7 +539,6 @@ b75094e0,No,84,Dan Gosling,Bournemouth,Normal
 b1b5e590,Yes,50 ,John Fleck,Sheffield United,Normal
 b1b5e590,Yes,73 ,John Fleck,Sheffield United,Normal
 4c3c57fa,Yes,58 ,Chris Wood,Burnley,Normal
-3b2eb152,Yes,38 ,Tim Krul,Leicester City,Own Goal
 3b2eb152,No,26,Teemu Pukki,Norwich City,Normal
 f33bb4b3,Yes,38 ,Mohamed Salah,Liverpool,Normal
 f33bb4b3,Yes,90 ,Mohamed Salah,Liverpool,Normal
@@ -640,10 +588,8 @@ de0ec650,Yes,45 ,Sadio Mané,Liverpool,Normal
 de0ec650,Yes,90 ,Georginio Wijnaldum,Liverpool,Normal
 de0ec650,No,21,Michael Keane,Everton,Normal
 de0ec650,No,45+3,Richarlison,Everton,Normal
-8b04b0d5,Yes,55 ,Jamie Vardy,Leicester City,Penalty
 8b04b0d5,Yes,90+5 ,James Maddison,Leicester City,Normal
 614c7c1f,Yes,6 ,Marcus Rashford,Manchester United,Normal
-614c7c1f,Yes,49 ,Marcus Rashford,Manchester United,Penalty
 614c7c1f,No,39,Dele Alli,Tottenham Hotspur,Normal
 3f316110,Yes,24 ,Tammy Abraham,Chelsea,Normal
 3f316110,Yes,48 ,Mason Mount,Chelsea,Normal
@@ -658,9 +604,7 @@ de0ec650,No,45+3,Richarlison,Everton,Normal
 4d718594,No,50,Gabriel Jesus,Manchester City,Normal
 4d718594,No,68,Rodri,Manchester City,Normal
 4d718594,No,87,Riyad Mahrez,Manchester City,Normal
-fd541a1f,Yes,19 ,Mamadou Sakho,Crystal Palace,Normal
 fd541a1f,Yes,76 ,Jeffrey Schlupp,Crystal Palace,Normal
-e88d9028,Yes,42 ,Tom Heaton,Manchester United,Own Goal
 e88d9028,Yes,64 ,Victor Lindelöf,Manchester United,Normal
 e88d9028,No,11,Jack Grealish,Aston Villa,Normal
 e88d9028,No,66,Tyrone Mings,Aston Villa,Normal
@@ -681,7 +625,6 @@ aa1ff9cd,No,48,Aaron Cresswell,West Ham United,Normal
 86428aca,No,78,Jeffrey Schlupp,Crystal Palace,Normal
 2c240ae6,Yes,18 ,Virgil van Dijk,Liverpool,Normal
 2c240ae6,Yes,24 ,Virgil van Dijk,Liverpool,Normal
-2c240ae6,Yes,76 ,Alisson,Liverpool,Normal
 2c240ae6,No,79,Lewis Dunk,Brighton & Hove Albion,Normal
 1722ba52,Yes,21 ,Dele Alli,Tottenham Hotspur,Normal
 1722ba52,Yes,50 ,Dele Alli,Tottenham Hotspur,Normal
@@ -710,7 +653,6 @@ d0f6bac9,No,64,Ayoze Pérez,Leicester City,Normal
 d0f6bac9,No,82,Jamie Vardy,Leicester City,Penalty
 464461f5,No,54,Todd Cantwell,Norwich City,Normal
 464461f5,No,90+2,Dennis Srbeny,Norwich City,Normal
-219643bc,Yes,37 ,Simon Francis,Bournemouth,Normal
 219643bc,Yes,59 ,Steve Cook,Bournemouth,Normal
 219643bc,No,21,João Moutinho,Wolverhampton Wanderers,Normal
 219643bc,No,31,Raúl Jiménez,Wolverhampton Wanderers,Normal
@@ -746,7 +688,6 @@ ec70bb2c,No,78,George Baldock,Sheffield United,Normal
 698f846d,No,14,Harry Wilson,Bournemouth,Normal
 559f666e,Yes,11 ,Ashley Barnes,Burnley,Normal
 559f666e,Yes,44 ,Chris Wood,Burnley,Normal
-559f666e,Yes,54 ,Roberto,Burnley,Own Goal
 553c5b11,Yes,50 ,Danny Ings,Southampton,Normal
 553c5b11,No,4,Tom Davies,Everton,Normal
 553c5b11,No,75,Richarlison,Everton,Normal
@@ -760,7 +701,6 @@ efe9c8f4,No,63,Dele Alli,Tottenham Hotspur,Normal
 efe9c8f4,No,79,Son Heung-min,Tottenham Hotspur,Normal
 25d28387,No,57,Çağlar Söyüncü,Leicester City,Normal
 25d28387,No,88,Jamie Vardy,Leicester City,Normal
-0b8b7f66,Yes,80 ,Gerard Deulofeu,Watford,Penalty
 0b8b7f66,No,5,Tammy Abraham,Chelsea,Normal
 0b8b7f66,No,55,Christian Pulisic,Chelsea,Normal
 afbdd3aa,Yes,70 ,Sergio Agüero,Manchester City,Normal
@@ -787,14 +727,12 @@ a31a1d67,No,21,Scott McTominay,Manchester United,Normal
 a31a1d67,No,30,Marcus Rashford,Manchester United,Normal
 a31a1d67,No,73,Anthony Martial,Manchester United,Normal
 16f28685,Yes,52 ,Jordan Henderson,Liverpool,Normal
-16f28685,Yes,75 ,Mohamed Salah,Liverpool,Penalty
 16f28685,No,1,Harry Kane,Tottenham Hotspur,Normal
 077b30ff,Yes,7 ,Sokratis Papastathopoulos,Arsenal,Normal
 077b30ff,Yes,9 ,David Luiz,Arsenal,Normal
 077b30ff,No,32,Luka Milivojević,Crystal Palace,Penalty
 077b30ff,No,52,Jordan Ayew,Crystal Palace,Normal
 efe2b576,Yes,37 ,Jamaal Lascelles,Newcastle United,Normal
-efe2b576,Yes,82 ,Sean Longstaff,Newcastle United,Normal
 efe2b576,No,73,Jonny Castro,Wolverhampton Wanderers,Normal
 082dc9ef,Yes,86 ,Jay Rodriguez,Burnley,Normal
 082dc9ef,Yes,89 ,Dwight McNeil,Burnley,Normal
@@ -803,8 +741,6 @@ efe2b576,No,73,Jonny Castro,Wolverhampton Wanderers,Normal
 082dc9ef,No,56,Christian Pulisic,Chelsea,Normal
 082dc9ef,No,58,Willian,Chelsea,Normal
 f728ceea,Yes,15 ,Pascal Groß,Brighton & Hove Albion,Normal
-f728ceea,Yes,80 ,Neal Maupay,Brighton & Hove Albion,Penalty
-f728ceea,Yes,90+4 ,Lucas Digne,Brighton & Hove Albion,Own Goal
 f728ceea,No,20,Adam Webster,Everton,Own Goal
 f728ceea,No,74,Dominic Calvert-Lewin,Everton,Normal
 43aa7711,Yes,44 ,Robert Snodgrass,West Ham United,Normal
@@ -812,8 +748,6 @@ f728ceea,No,74,Dominic Calvert-Lewin,Everton,Normal
 e0a4db2d,Yes,46 ,Raheem Sterling,Manchester City,Normal
 e0a4db2d,Yes,65 ,David Silva,Manchester City,Normal
 e0a4db2d,Yes,70 ,İlkay Gündoğan,Manchester City,Normal
-e0a4db2d,Yes,87 ,Fernandinho,Manchester City,Normal
-3e9712d7,Yes,12 ,Ryan Bertrand,Southampton,Normal
 3e9712d7,No,10,Ben Chilwell,Leicester City,Normal
 3e9712d7,No,17,Youri Tielemans,Leicester City,Normal
 3e9712d7,No,19,Ayoze Pérez,Leicester City,Normal
@@ -829,7 +763,6 @@ f63044fd,Yes,30 ,Lys Mousset,Sheffield United,Normal
 f334b1dc,No,39,Gabriel Jesus,Manchester City,Normal
 f334b1dc,No,41,David Silva,Manchester City,Normal
 c17538b0,Yes,73 ,Marcos Alonso,Chelsea,Normal
-644a3723,Yes,61 ,Raúl Jiménez,Wolverhampton Wanderers,Penalty
 644a3723,No,53,Danny Ings,Southampton,Normal
 4df24be7,Yes,86 ,Dele Alli,Tottenham Hotspur,Normal
 4df24be7,No,6,Abdoulaye Doucouré,Watford,Normal
@@ -861,7 +794,6 @@ e50b8e5b,No,49,Jack Grealish,Aston Villa,Normal
 e50b8e5b,No,61,Conor Hourihane,Aston Villa,Normal
 e50b8e5b,No,83,Douglas Luiz,Aston Villa,Normal
 aaed1c4e,Yes,40 ,Sadio Mané,Liverpool,Normal
-aaed1c4e,Yes,90+5 ,James Milner,Liverpool,Penalty
 aaed1c4e,No,80,James Maddison,Leicester City,Normal
 2f9439d0,Yes,72 ,Jeff Hendrick,Burnley,Normal
 2f9439d0,No,56,Séamus Coleman,Everton,Normal
@@ -872,7 +804,6 @@ ce7501cd,Yes,45 ,Scott McTominay,Manchester United,Normal
 ce7501cd,No,58,Pierre-Emerick Aubameyang,Arsenal,Normal
 40d77688,Yes,16 ,Ricardo Pereira,Leicester City,Normal
 40d77688,Yes,54 ,Jamie Vardy,Leicester City,Normal
-40d77688,Yes,57 ,Paul Dummett,Leicester City,Own Goal
 40d77688,Yes,64 ,Jamie Vardy,Leicester City,Normal
 40d77688,Yes,90 ,Wilfred Ndidi,Leicester City,Normal
 40d77688,No,43,Isaac Hayden,Newcastle United,Normal
@@ -885,22 +816,16 @@ ce7501cd,No,58,Pierre-Emerick Aubameyang,Arsenal,Normal
 704e536e,No,10,Andriy Yarmolenko,West Ham United,Normal
 704e536e,No,74,Aaron Cresswell,West Ham United,Normal
 4c088365,Yes,18 ,Matt Doherty,Wolverhampton Wanderers,Normal
-4c088365,Yes,61 ,Daryl Janmaat,Wolverhampton Wanderers,Own Goal
-3b180c0d,Yes,21 ,Luka Milivojević,Crystal Palace,Penalty
 3b180c0d,Yes,90+2 ,Andros Townsend,Crystal Palace,Normal
 37a51188,Yes,33 ,Anwar El Ghazi,Aston Villa,Normal
 37a51188,Yes,79 ,John McGinn,Aston Villa,Normal
 37a51188,No,68,Jay Rodriguez,Burnley,Normal
 37a51188,No,81,Chris Wood,Burnley,Normal
 23ec5db0,Yes,24 ,Tanguy Ndombele,Tottenham Hotspur,Normal
-23ec5db0,Yes,31 ,Serge Aurier,Tottenham Hotspur,Normal
 23ec5db0,Yes,43 ,Harry Kane,Tottenham Hotspur,Normal
 23ec5db0,No,39,Danny Ings,Southampton,Normal
-1d4b5564,Yes,50 ,Jorginho,Chelsea,Penalty
 1d4b5564,Yes,76 ,Willian,Chelsea,Normal
 1224c8ae,No,70,Georginio Wijnaldum,Liverpool,Normal
-d5fa0563,Yes,41 ,Ainsley Maitland-Niles,Arsenal,Normal
-d5fa0563,Yes,59 ,Nicolas Pépé,Arsenal,Penalty
 d5fa0563,Yes,81 ,Calum Chambers,Arsenal,Normal
 d5fa0563,Yes,84 ,Pierre-Emerick Aubameyang,Arsenal,Normal
 d5fa0563,No,20,John McGinn,Aston Villa,Normal
@@ -910,7 +835,6 @@ d5fa0563,No,60,Wesley Moraes,Aston Villa,Normal
 02e3ae79,No,30,Roberto Firmino,Liverpool,Normal
 fe3e2bec,Yes,44 ,Andriy Yarmolenko,West Ham United,Normal
 fe3e2bec,Yes,84 ,Aaron Cresswell,West Ham United,Normal
-d76eb681,Yes,46 ,Leander Dendoncker,Crystal Palace,Own Goal
 d76eb681,No,73,Romain Saïss,Wolverhampton Wanderers,Normal
 d76eb681,No,90+5,Diogo Jota,Wolverhampton Wanderers,Normal
 f97b0ce8,Yes,10 ,Chris Wood,Burnley,Normal
@@ -918,7 +842,6 @@ f97b0ce8,Yes,14 ,Chris Wood,Burnley,Normal
 707ee0eb,No,40,Yerry Mina,Sheffield United,Own Goal
 707ee0eb,No,79,Lys Mousset,Sheffield United,Normal
 4672d0d7,Yes,1 ,David Silva,Manchester City,Normal
-4672d0d7,Yes,7 ,Sergio Agüero,Manchester City,Penalty
 4672d0d7,Yes,12 ,Riyad Mahrez,Manchester City,Normal
 4672d0d7,Yes,15 ,Bernardo Silva,Manchester City,Normal
 4672d0d7,Yes,18 ,Nicolás Otamendi,Manchester City,Normal
@@ -928,13 +851,11 @@ f97b0ce8,Yes,14 ,Chris Wood,Burnley,Normal
 e30adc4b,Yes,69 ,Ricardo Pereira,Leicester City,Normal
 e30adc4b,Yes,85 ,James Maddison,Leicester City,Normal
 e30adc4b,No,29,Harry Kane,Tottenham Hotspur,Normal
-ebbb65f5,Yes,53 ,James Ward-Prowse,Southampton,Penalty
 ebbb65f5,No,10,Nathan Aké,Bournemouth,Normal
 ebbb65f5,No,35,Harry Wilson,Bournemouth,Normal
 ebbb65f5,No,90+5,Callum Wilson,Bournemouth,Normal
 b26df467,No,67,Arthur Masuaku,West Ham United,Normal
 8257eda8,Yes,53 ,Tom Cleverley,Watford,Normal
-8257eda8,Yes,81 ,Roberto Pereyra,Watford,Penalty
 8257eda8,No,21,Pierre-Emerick Aubameyang,Arsenal,Normal
 8257eda8,No,32,Pierre-Emerick Aubameyang,Arsenal,Normal
 886c59ae,Yes,23 ,Callum Wilson,Bournemouth,Normal
@@ -946,16 +867,12 @@ b26df467,No,67,Arthur Masuaku,West Ham United,Normal
 1c7bccd4,Yes,50 ,Teemu Pukki,Norwich City,Normal
 1c7bccd4,No,45,Sergio Agüero,Manchester City,Normal
 1c7bccd4,No,88,Rodri,Manchester City,Normal
-e5f9905d,Yes,85 ,Billy Sharp,Sheffield United,Normal
 e5f9905d,No,66,Moussa Djenepo,Southampton,Normal
-6d0266a1,Yes,8 ,Marcus Rashford,Manchester United,Penalty
 1d812c17,Yes,10 ,Son Heung-min,Tottenham Hotspur,Normal
-1d812c17,Yes,21 ,Patrick van Aanholt,Tottenham Hotspur,Own Goal
 1d812c17,Yes,23 ,Son Heung-min,Tottenham Hotspur,Normal
 1d812c17,Yes,42 ,Érik Lamela,Tottenham Hotspur,Normal
 1d3bbc27,Yes,51 ,Neal Maupay,Brighton & Hove Albion,Normal
 1d3bbc27,No,90+1,Jeff Hendrick,Burnley,Normal
-0fa0a658,Yes,69 ,Tammy Abraham,Wolverhampton Wanderers,Own Goal
 0fa0a658,Yes,85 ,Patrick Cutrone,Wolverhampton Wanderers,Normal
 0fa0a658,No,31,Fikayo Tomori,Chelsea,Normal
 0fa0a658,No,34,Tammy Abraham,Chelsea,Normal
@@ -998,20 +915,16 @@ af072d61,No,80,Roberto Firmino,Liverpool,Normal
 164148a8,Yes,24 ,Sébastien Haller,West Ham United,Normal
 164148a8,Yes,56 ,Andriy Yarmolenko,West Ham United,Normal
 bfd4d929,Yes,58 ,Jannik Vestergaard,Southampton,Normal
-bfd4d929,Yes,73 ,Kevin Danso,Southampton,Normal
 bfd4d929,No,10,Daniel James,Manchester United,Normal
 c224d1e8,No,27,Joelinton,Newcastle United,Normal
-16119ef2,Yes,90+7 ,Raúl Jiménez,Wolverhampton Wanderers,Penalty
 16119ef2,No,13,Ashley Barnes,Burnley,Normal
 7728bd7e,Yes,45+3 ,Harry Wilson,Bournemouth,Normal
 7728bd7e,No,15,Sergio Agüero,Manchester City,Normal
 7728bd7e,No,43,Raheem Sterling,Manchester City,Normal
 7728bd7e,No,64,Sergio Agüero,Manchester City,Normal
 102b241e,Yes,41 ,Joël Matip,Liverpool,Normal
-102b241e,Yes,49 ,Mohamed Salah,Liverpool,Penalty
 102b241e,Yes,58 ,Mohamed Salah,Liverpool,Normal
 102b241e,No,85,Lucas Torreira,Arsenal,Normal
-baece203,Yes,30 ,Florin Andone,Brighton & Hove Albion,Normal
 baece203,No,55,Moussa Djenepo,Southampton,Normal
 baece203,No,90+1,Nathan Redmond,Southampton,Normal
 89fbf2a3,Yes,17 ,Andre Gray,Watford,Normal
@@ -1056,7 +969,6 @@ b2a48847,No,71,Roberto Firmino,Liverpool,Normal
 ff7eda21,Yes,13 ,Alexandre Lacazette,Arsenal,Normal
 ff7eda21,Yes,64 ,Pierre-Emerick Aubameyang,Arsenal,Normal
 ff7eda21,No,43,Ashley Barnes,Burnley,Normal
-d0583d0d,Yes,18 ,Marcus Rashford,Manchester United,Penalty
 d0583d0d,Yes,65 ,Anthony Martial,Manchester United,Normal
 d0583d0d,Yes,67 ,Marcus Rashford,Manchester United,Normal
 d0583d0d,Yes,81 ,Daniel James,Manchester United,Normal
@@ -1079,7 +991,6 @@ a802f51e,No,76,Morgan Schneiderlin,Everton,Normal
 71c8a43e,No,75,Raheem Sterling,Manchester City,Normal
 71c8a43e,No,86,Sergio Agüero,Manchester City,Penalty
 71c8a43e,No,90+1,Raheem Sterling,Manchester City,Normal
-928467bd,Yes,7 ,Grant Hanley,Liverpool,Own Goal
 928467bd,Yes,19 ,Mohamed Salah,Liverpool,Normal
 928467bd,Yes,28 ,Virgil van Dijk,Liverpool,Normal
 928467bd,Yes,42 ,Divock Origi,Liverpool,Normal
@@ -1102,7 +1013,6 @@ c183610d,No,90,Salomón Rondón,Newcastle United,Normal
 302b231e,No,90+4,Eddie Nketiah,Arsenal,Normal
 23ad3530,Yes,24 ,Michy Batshuayi,Crystal Palace,Normal
 23ad3530,Yes,32 ,Michy Batshuayi,Crystal Palace,Normal
-23ad3530,Yes,37 ,Jack Simpson,Crystal Palace,Own Goal
 23ad3530,Yes,65 ,Patrick van Aanholt,Crystal Palace,Normal
 23ad3530,Yes,80 ,Andros Townsend,Crystal Palace,Normal
 23ad3530,No,45,Jefferson Lerma,Bournemouth,Normal
@@ -1116,7 +1026,6 @@ c183610d,No,90,Salomón Rondón,Newcastle United,Normal
 06832a45,Yes,41 ,Nathan Redmond,Southampton,Normal
 06832a45,No,55,Alex Pritchard,Huddersfield Town,Normal
 7c779d41,Yes,70 ,Vincent Kompany,Manchester City,Normal
-0fdf10d7,Yes,9 ,Pierre-Emerick Aubameyang,Arsenal,Penalty
 0fdf10d7,No,61,Glenn Murray,Brighton & Hove Albion,Penalty
 bdf4e58c,Yes,48 ,Ruben Loftus-Cheek,Chelsea,Normal
 bdf4e58c,Yes,51 ,David Luiz,Chelsea,Normal
@@ -1128,7 +1037,6 @@ bdf4e58c,Yes,75 ,Gonzalo Higuaín,Chelsea,Normal
 0faa6fe4,No,13,Virgil van Dijk,Liverpool,Normal
 0faa6fe4,No,28,Mohamed Salah,Liverpool,Normal
 0faa6fe4,No,86,Divock Origi,Liverpool,Normal
-521ebfbb,Yes,31 ,Martin Kelly,Cardiff City,Own Goal
 521ebfbb,Yes,90 ,Bobby Reid,Cardiff City,Normal
 521ebfbb,No,28,Wilfried Zaha,Crystal Palace,Normal
 521ebfbb,No,39,Michy Batshuayi,Crystal Palace,Normal
@@ -1140,7 +1048,6 @@ bdf4e58c,Yes,75 ,Gonzalo Higuaín,Chelsea,Normal
 a6d84ca8,Yes,90+1 ,Nathan Aké,Bournemouth,Normal
 a6d84ca8,No,43,Son Heung-min,Tottenham Hotspur,Normal
 a6d84ca8,No,48,Juan Foyth,Tottenham Hotspur,Normal
-f9a6ed1d,Yes,17 ,Ben Mee,Everton,Own Goal
 f9a6ed1d,Yes,20 ,Séamus Coleman,Everton,Normal
 b7a64fc3,Yes,11 ,Juan Mata,Manchester United,Normal
 b7a64fc3,No,43,Marcos Alonso,Chelsea,Normal
@@ -1206,7 +1113,6 @@ d0b13a22,No,80,Gerard Deulofeu,Watford,Normal
 82b40b35,Yes,5 ,Phil Foden,Manchester City,Normal
 b6ce8e80,No,22,Nathaniel Mendez-Laing,Cardiff City,Normal
 b6ce8e80,No,50,Sean Morrison,Cardiff City,Normal
-b3f8966d,Yes,11 ,Troy Deeney,Watford,Normal
 b3f8966d,No,10,Pierre-Emerick Aubameyang,Arsenal,Normal
 bcd4eb6f,Yes,51 ,Sadio Mané,Liverpool,Normal
 bcd4eb6f,Yes,53 ,Mohamed Salah,Liverpool,Normal
@@ -1214,10 +1120,7 @@ bcd4eb6f,Yes,53 ,Mohamed Salah,Liverpool,Normal
 839faa70,No,15,Raheem Sterling,Manchester City,Normal
 839faa70,No,63,Raheem Sterling,Manchester City,Normal
 839faa70,No,90,Gabriel Jesus,Manchester City,Normal
-a5ed2a65,Yes,19 ,Paul Pogba,Manchester United,Penalty
-a5ed2a65,Yes,80 ,Paul Pogba,Manchester United,Penalty
 a5ed2a65,No,49,Felipe Anderson,West Ham United,Normal
-eb6b53ba,Yes,68 ,Anthony Knockaert,Brighton & Hove Albion,Normal
 eb6b53ba,No,33,Dan Gosling,Bournemouth,Normal
 eb6b53ba,No,55,Ryan Fraser,Bournemouth,Normal
 eb6b53ba,No,74,David Brooks,Bournemouth,Normal
@@ -1240,11 +1143,9 @@ e3e6e456,No,32,Ayoze Pérez,Newcastle United,Normal
 5c469753,Yes,90 ,Eden Hazard,Chelsea,Normal
 2da6911d,Yes,10 ,Phil Jagielka,Everton,Normal
 dfbc30ce,No,81,Luka Milivojević,Crystal Palace,Penalty
-c48c3132,Yes,4 ,Ashley Barnes,Bournemouth,Own Goal
 c48c3132,No,18,Chris Wood,Burnley,Normal
 c48c3132,No,20,Ashley Westwood,Burnley,Normal
 c48c3132,No,56,Ashley Barnes,Burnley,Normal
-adf9a17a,Yes,52 ,Aaron Mooy,Huddersfield Town,Penalty
 adf9a17a,No,24,Youri Tielemans,Leicester City,Normal
 adf9a17a,No,48,Jamie Vardy,Leicester City,Normal
 adf9a17a,No,79,James Maddison,Leicester City,Normal
@@ -1266,13 +1167,11 @@ e112b3a5,Yes,63 ,Ruben Loftus-Cheek,Chelsea,Normal
 76199a18,Yes,75 ,Kiko Femenía,Watford,Normal
 76199a18,No,33,Ryan Babel,Fulham,Normal
 658e6ed1,Yes,25 ,Diogo Jota,Wolverhampton Wanderers,Normal
-658e6ed1,Yes,77 ,Chris Smalling,Wolverhampton Wanderers,Own Goal
 658e6ed1,No,13,Scott McTominay,Manchester United,Normal
 658e6ed1,No,57,Ashley Young,Manchester United,Normal
 5bf58a42,Yes,30 ,Aaron Ramsey,Arsenal,Normal
 5bf58a42,Yes,83 ,Alexandre Lacazette,Arsenal,Normal
 ea0b32eb,Yes,16 ,Roberto Firmino,Liverpool,Normal
-ea0b32eb,Yes,90 ,Toby Alderweireld,Liverpool,Own Goal
 ea0b32eb,No,70,Lucas Moura,Tottenham Hotspur,Normal
 2aac7103,Yes,46 ,Víctor Camarasa,Cardiff City,Normal
 2aac7103,No,84,César Azpilicueta,Chelsea,Normal
@@ -1285,9 +1184,7 @@ e1e4e2be,No,90,Abdoulaye Doucouré,Watford,Normal
 b3ee7e21,No,53,Pierre Højbjerg,Southampton,Normal
 a89c7915,Yes,11 ,Wes Morgan,Leicester City,Normal
 a89c7915,Yes,82 ,Jamie Vardy,Leicester City,Normal
-9de9e8e3,Yes,76 ,Luka Milivojević,Crystal Palace,Penalty
 9de9e8e3,Yes,88 ,Patrick van Aanholt,Crystal Palace,Normal
-1b9e6483,Yes,2 ,Conor Coady,Burnley,Own Goal
 1b9e6483,Yes,77 ,Dwight McNeil,Burnley,Normal
 b5d358d9,No,5,Bernardo Silva,Manchester City,Normal
 b5d358d9,No,27,Sergio Agüero,Manchester City,Normal
@@ -1296,7 +1193,6 @@ b5d358d9,No,27,Sergio Agüero,Manchester City,Normal
 d8db9418,Yes,74 ,Ryan Babel,Fulham,Normal
 d8db9418,No,26,Sadio Mané,Liverpool,Normal
 d8db9418,No,81,James Milner,Liverpool,Penalty
-a27275d9,Yes,48 ,Joshua King,Bournemouth,Penalty
 a27275d9,Yes,81 ,Joshua King,Bournemouth,Normal
 a27275d9,No,45+5,Salomón Rondón,Newcastle United,Normal
 a27275d9,No,90+4,Matt Ritchie,Newcastle United,Normal
@@ -1304,7 +1200,6 @@ a27275d9,No,90+4,Matt Ritchie,Newcastle United,Normal
 91a19d8e,No,4,Harry Maguire,Leicester City,Normal
 91a19d8e,No,33,James Maddison,Leicester City,Normal
 91a19d8e,No,90,Wes Morgan,Leicester City,Normal
-879fa3c2,Yes,15 ,Mark Noble,West Ham United,Penalty
 879fa3c2,Yes,75 ,Angelo Ogbonna,West Ham United,Normal
 879fa3c2,Yes,84 ,Javier Hernández,West Ham United,Normal
 879fa3c2,Yes,90+1 ,Javier Hernández,West Ham United,Normal
@@ -1312,7 +1207,6 @@ a27275d9,No,90+4,Matt Ritchie,Newcastle United,Normal
 879fa3c2,No,30,Karlan Grant,Huddersfield Town,Normal
 879fa3c2,No,65,Karlan Grant,Huddersfield Town,Normal
 6a9904c8,Yes,12 ,Granit Xhaka,Arsenal,Normal
-6a9904c8,Yes,69 ,Pierre-Emerick Aubameyang,Arsenal,Penalty
 e39bc237,Yes,90+2 ,Eden Hazard,Chelsea,Normal
 e39bc237,No,56,Raúl Jiménez,Wolverhampton Wanderers,Normal
 d4a6df35,Yes,19 ,Roberto Firmino,Liverpool,Normal
@@ -1341,7 +1235,6 @@ f3bf8c42,No,26,Harry Kane,Tottenham Hotspur,Normal
 09e7b1a1,Yes,84 ,Ayoze Pérez,Newcastle United,Normal
 09e7b1a1,No,18,Dominic Calvert-Lewin,Everton,Normal
 09e7b1a1,No,32,Richarlison,Everton,Normal
-64a4127a,Yes,50 ,Luka Milivojević,Crystal Palace,Penalty
 64a4127a,No,19,Glenn Murray,Brighton & Hove Albion,Normal
 64a4127a,No,74,Anthony Knockaert,Brighton & Hove Albion,Normal
 3a56d413,Yes,27 ,Calum Chambers,Fulham,Normal
@@ -1351,7 +1244,6 @@ f3bf8c42,No,26,Harry Kane,Tottenham Hotspur,Normal
 7c1b902f,Yes,90+2 ,Andre Gray,Watford,Normal
 7c1b902f,No,75,Jamie Vardy,Leicester City,Normal
 7d4fcb12,Yes,7 ,Declan Rice,West Ham United,Normal
-7d4fcb12,Yes,42 ,Mark Noble,West Ham United,Penalty
 fbfb16e5,Yes,90 ,Ashley Barnes,Burnley,Normal
 fbfb16e5,No,15,Phil Bardsley,Crystal Palace,Own Goal
 fbfb16e5,No,48,Michy Batshuayi,Crystal Palace,Normal
@@ -1365,17 +1257,14 @@ e34a25b2,Yes,79 ,Florin Andone,Brighton & Hove Albion,Normal
 0e3e4be7,Yes,88 ,Romelu Lukaku,Manchester United,Normal
 0e3e4be7,No,26,Yan Valery,Southampton,Normal
 0e3e4be7,No,75,James Ward-Prowse,Southampton,Normal
-72ed853c,Yes,74 ,Harry Kane,Tottenham Hotspur,Penalty
 72ed853c,No,16,Aaron Ramsey,Arsenal,Normal
 72ed853c,No,90+5,Lucas Torreira,Arsenal,Normal
-db370521,Yes,59 ,Sergio Agüero,Manchester City,Penalty
 b34f9ff8,Yes,9 ,Sadio Mané,Liverpool,Normal
 b34f9ff8,Yes,20 ,Sadio Mané,Liverpool,Normal
 b34f9ff8,Yes,66 ,Divock Origi,Liverpool,Normal
 b34f9ff8,Yes,79 ,Virgil van Dijk,Liverpool,Normal
 b34f9ff8,Yes,82 ,Virgil van Dijk,Liverpool,Normal
 99ebf266,Yes,57 ,Pedro,Chelsea,Normal
-99ebf266,Yes,84 ,Kieran Trippier,Chelsea,Own Goal
 35dcf161,Yes,66 ,Joel Ward,Crystal Palace,Normal
 35dcf161,No,33,Romelu Lukaku,Manchester United,Normal
 35dcf161,No,52,Romelu Lukaku,Manchester United,Normal
@@ -1407,7 +1296,6 @@ b34f9ff8,Yes,82 ,Virgil van Dijk,Liverpool,Normal
 fc5c6132,Yes,46 ,Salomón Rondón,Newcastle United,Normal
 fc5c6132,Yes,52 ,Ayoze Pérez,Newcastle United,Normal
 fc5c6132,No,20,Tommy Smith,Huddersfield Town,Normal
-9b38c79c,Yes,14 ,Joshua King,Bournemouth,Penalty
 9b38c79c,No,83,Raúl Jiménez,Wolverhampton Wanderers,Penalty
 a4f29e38,Yes,57 ,Chris Wood,Burnley,Normal
 a4f29e38,Yes,83 ,Ashley Barnes,Burnley,Normal
@@ -1428,7 +1316,6 @@ c3bbcee6,No,56,Isaac Hayden,Newcastle United,Normal
 5ec57dbe,Yes,13 ,Sergio Agüero,Manchester City,Normal
 5ec57dbe,Yes,19 ,Sergio Agüero,Manchester City,Normal
 5ec57dbe,Yes,25 ,İlkay Gündoğan,Manchester City,Normal
-5ec57dbe,Yes,56 ,Sergio Agüero,Manchester City,Penalty
 5ec57dbe,Yes,80 ,Raheem Sterling,Manchester City,Normal
 b53789c9,Yes,33 ,Davinson Sánchez,Tottenham Hotspur,Normal
 b53789c9,Yes,63 ,Christian Eriksen,Tottenham Hotspur,Normal
@@ -1438,7 +1325,6 @@ b53789c9,No,76,Jamie Vardy,Leicester City,Normal
 2572aa9b,No,26,Chris Wood,Burnley,Normal
 2572aa9b,No,61,Chris Wood,Burnley,Normal
 2572aa9b,No,74,Ashley Barnes,Burnley,Penalty
-99562ab3,Yes,90+3 ,Sead Kolašinac,Huddersfield Town,Own Goal
 99562ab3,No,16,Alex Iwobi,Arsenal,Normal
 99562ab3,No,44,Alexandre Lacazette,Arsenal,Normal
 541f34a4,Yes,65 ,Andre Gray,Watford,Normal
@@ -1463,18 +1349,14 @@ dba05e48,Yes,44 ,Sergio Agüero,Manchester City,Normal
 dba05e48,Yes,61 ,Sergio Agüero,Manchester City,Normal
 dba05e48,No,11,Laurent Koscielny,Arsenal,Normal
 5877794a,No,9,Marcus Rashford,Manchester United,Normal
-6e1f303b,Yes,5 ,Bobby Reid,Cardiff City,Penalty
 6e1f303b,Yes,46 ,Bobby Reid,Cardiff City,Normal
-f0a48fd0,Yes,25 ,Luka Milivojević,Crystal Palace,Penalty
 f0a48fd0,Yes,87 ,Jeffrey Schlupp,Crystal Palace,Normal
-98d13ff1,Yes,90+4 ,Ashley Barnes,Burnley,Penalty
 98d13ff1,No,55,Nathan Redmond,Southampton,Normal
 34c9e9bf,Yes,27 ,André Gomes,Everton,Normal
 34c9e9bf,No,7,Rúben Neves,Wolverhampton Wanderers,Penalty
 34c9e9bf,No,45,Raúl Jiménez,Wolverhampton Wanderers,Normal
 34c9e9bf,No,66,Leander Dendoncker,Wolverhampton Wanderers,Normal
 1faef710,Yes,16 ,Gonzalo Higuaín,Chelsea,Normal
-1faef710,Yes,45+1 ,Eden Hazard,Chelsea,Penalty
 1faef710,Yes,66 ,Eden Hazard,Chelsea,Normal
 1faef710,Yes,69 ,Gonzalo Higuaín,Chelsea,Normal
 1faef710,Yes,86 ,David Luiz,Chelsea,Normal
@@ -1491,14 +1373,11 @@ ba17c290,No,87,Wilfried Zaha,Crystal Palace,Normal
 44f162ae,Yes,63 ,David Brooks,Bournemouth,Normal
 44f162ae,Yes,74 ,Joshua King,Bournemouth,Normal
 44f162ae,Yes,90+5 ,Charlie Daniels,Bournemouth,Normal
-e32699c0,Yes,87 ,Paul Pogba,Manchester United,Penalty
 e32699c0,Yes,90+2 ,Victor Lindelöf,Manchester United,Normal
 e32699c0,No,51,Ashley Barnes,Burnley,Normal
 e32699c0,No,81,Chris Wood,Burnley,Normal
 d705415d,Yes,66 ,Salomón Rondón,Newcastle United,Normal
-d705415d,Yes,80 ,Matt Ritchie,Newcastle United,Penalty
 d705415d,No,1,Sergio Agüero,Manchester City,Normal
-f37ab33c,Yes,66 ,Pierre-Emerick Aubameyang,Arsenal,Penalty
 f37ab33c,Yes,83 ,Alexandre Lacazette,Arsenal,Normal
 f37ab33c,No,90+3,Nathaniel Mendez-Laing,Cardiff City,Normal
 d8569596,Yes,66 ,Romain Saïss,Wolverhampton Wanderers,Normal
@@ -1512,7 +1391,6 @@ d8569596,Yes,86 ,Raúl Jiménez,Wolverhampton Wanderers,Normal
 3f50a3f4,Yes,79 ,Luciano Vietto,Fulham,Normal
 3f50a3f4,No,3,Glenn Murray,Brighton & Hove Albion,Normal
 3f50a3f4,No,17,Glenn Murray,Brighton & Hove Albion,Normal
-10bcde09,Yes,17 ,Fernando Llorente,Fulham,Own Goal
 10bcde09,No,51,Dele Alli,Tottenham Hotspur,Normal
 10bcde09,No,90+3,Harry Winks,Tottenham Hotspur,Normal
 cf851bd2,No,18,Danilo,Manchester City,Normal
@@ -1523,15 +1401,12 @@ edb777b6,Yes,39 ,Laurent Koscielny,Arsenal,Normal
 98ecfb34,Yes,46 ,Mohamed Salah,Liverpool,Normal
 98ecfb34,Yes,53 ,Roberto Firmino,Liverpool,Normal
 98ecfb34,Yes,75 ,Mohamed Salah,Liverpool,Normal
-98ecfb34,Yes,89 ,James Milner,Liverpool,Normal
 98ecfb34,Yes,90+3 ,Sadio Mané,Liverpool,Normal
 98ecfb34,No,34,Andros Townsend,Crystal Palace,Normal
 98ecfb34,No,65,James Tomkins,Crystal Palace,Normal
 98ecfb34,No,90+5,Max Meyer,Crystal Palace,Normal
 88a05211,Yes,50 ,James Ward-Prowse,Southampton,Normal
-88a05211,Yes,64 ,Lucas Digne,Southampton,Own Goal
 88a05211,No,90+1,Gylfi Sigurðsson,Everton,Normal
-806cb036,Yes,27 ,Paul Pogba,Manchester United,Penalty
 806cb036,Yes,42 ,Marcus Rashford,Manchester United,Normal
 806cb036,No,72,Pascal Groß,Brighton & Hove Albion,Normal
 79bd2498,Yes,24 ,Fabian Schär,Newcastle United,Normal
@@ -1547,8 +1422,6 @@ edb777b6,Yes,39 ,Laurent Koscielny,Arsenal,Normal
 0bc77d83,No,51,Conor Coady,Leicester City,Own Goal
 0bc77d83,No,87,Wes Morgan,Leicester City,Normal
 de53db7d,Yes,10 ,Gabriel Jesus,Manchester City,Normal
-de53db7d,Yes,39 ,Gabriel Jesus,Manchester City,Penalty
-de53db7d,Yes,78 ,Conor Coady,Manchester City,Own Goal
 de53db7d,No,19,Willy Boly,Wolverhampton Wanderers,Normal
 89a76ba1,No,44,Marcus Rashford,Manchester United,Normal
 be4ed705,Yes,61 ,Kurt Zouma,Everton,Normal
@@ -1560,12 +1433,10 @@ fd573a6a,Yes,58 ,Wilfred Ndidi,Leicester City,Normal
 fd573a6a,No,11,James Ward-Prowse,Southampton,Penalty
 fd573a6a,No,45,Yan Valery,Southampton,Normal
 fd573a6a,No,45+2,Shane Long,Southampton,Normal
-e14b5d85,Yes,38 ,Craig Cathcart,Crystal Palace,Own Goal
 e14b5d85,No,67,Craig Cathcart,Watford,Normal
 e14b5d85,No,74,Tom Cleverley,Watford,Normal
 d50a51c0,No,50,Mohamed Salah,Liverpool,Penalty
 07bf1373,Yes,20 ,Jeff Hendrick,Burnley,Normal
-07bf1373,Yes,23 ,Denis Odoi,Burnley,Own Goal
 07bf1373,No,2,André Schürrle,Fulham,Normal
 3e57e4cd,Yes,48 ,Declan Rice,West Ham United,Normal
 22b630df,Yes,40 ,Sergio Agüero,Manchester City,Normal
@@ -1574,7 +1445,6 @@ d50a51c0,No,50,Mohamed Salah,Liverpool,Penalty
 412fe1c7,No,64,Romelu Lukaku,Manchester United,Normal
 412fe1c7,No,80,Marcus Rashford,Manchester United,Normal
 c9e1c9f0,Yes,33 ,Steve Mounié,Huddersfield Town,Normal
-c9e1c9f0,Yes,41 ,Christopher Schindler,Huddersfield Town,Normal
 c9e1c9f0,No,40,Chris Wood,Burnley,Normal
 c9e1c9f0,No,74,Ashley Barnes,Burnley,Normal
 c9e1c9f0,No,90,Robbie Brady,Burnley,Normal
@@ -1603,12 +1473,10 @@ eac5074c,No,26,Son Heung-min,Tottenham Hotspur,Normal
 4c4766d0,Yes,33 ,Paul Pogba,Manchester United,Normal
 4c4766d0,Yes,45 ,Marcus Rashford,Manchester United,Normal
 4c4766d0,Yes,72 ,Romelu Lukaku,Manchester United,Normal
-4c4766d0,Yes,79 ,Eric Bailly,Manchester United,Normal
 4c4766d0,No,45+2,Nathan Aké,Bournemouth,Normal
 ac412bcf,Yes,15 ,Chris Wood,Burnley,Normal
 ac412bcf,Yes,34 ,Dwight McNeil,Burnley,Normal
 75424968,Yes,37 ,Pierre Højbjerg,Southampton,Normal
-75424968,Yes,85 ,Pierre Højbjerg,Southampton,Normal
 75424968,No,10,David Silva,Manchester City,Normal
 75424968,No,45,James Ward-Prowse,Manchester City,Own Goal
 75424968,No,45+3,Sergio Agüero,Manchester City,Normal
@@ -1616,8 +1484,6 @@ ac412bcf,Yes,34 ,Dwight McNeil,Burnley,Normal
 33716a25,Yes,14 ,Roberto Firmino,Liverpool,Normal
 33716a25,Yes,16 ,Roberto Firmino,Liverpool,Normal
 33716a25,Yes,32 ,Sadio Mané,Liverpool,Normal
-33716a25,Yes,45+2 ,Mohamed Salah,Liverpool,Penalty
-33716a25,Yes,65 ,Roberto Firmino,Liverpool,Penalty
 33716a25,No,11,Ainsley Maitland-Niles,Arsenal,Normal
 d72c42c6,Yes,22 ,Harry Kane,Tottenham Hotspur,Normal
 d72c42c6,No,72,Willy Boly,Wolverhampton Wanderers,Normal
@@ -1646,7 +1512,6 @@ b815d126,No,90+2,Víctor Camarasa,Cardiff City,Normal
 56a793f1,No,14,Bernardo Silva,Manchester City,Normal
 56a793f1,No,89,Fabian Delph,Manchester City,Normal
 3d252639,Yes,11 ,Dejan Lovren,Liverpool,Normal
-3d252639,Yes,47 ,Mohamed Salah,Liverpool,Penalty
 3d252639,Yes,79 ,Xherdan Shaqiri,Liverpool,Normal
 3d252639,Yes,85 ,Fabinho,Liverpool,Normal
 1eacf9b2,Yes,28 ,Nemanja Matić,Manchester United,Normal
@@ -1669,7 +1534,6 @@ b815d126,No,90+2,Víctor Camarasa,Cardiff City,Normal
 31157c7c,No,48,Christian Eriksen,Tottenham Hotspur,Normal
 31157c7c,No,61,Son Heung-min,Tottenham Hotspur,Normal
 31157c7c,No,74,Harry Kane,Tottenham Hotspur,Normal
-7d45c66e,Yes,38 ,Víctor Camarasa,Cardiff City,Penalty
 7d45c66e,No,3,Marcus Rashford,Manchester United,Normal
 7d45c66e,No,29,Ander Herrera,Manchester United,Normal
 7d45c66e,No,41,Anthony Martial,Manchester United,Normal
@@ -1729,7 +1593,6 @@ e05a45bf,Yes,90+6 ,Lucas Digne,Everton,Normal
 e05a45bf,No,63,Séamus Coleman,Watford,Own Goal
 e05a45bf,No,65,Abdoulaye Doucouré,Watford,Normal
 3fabd313,Yes,23 ,Ayoze Pérez,Newcastle United,Normal
-3fabd313,Yes,57 ,DeAndre Yedlin,Newcastle United,Normal
 3fabd313,No,17,Diogo Jota,Wolverhampton Wanderers,Normal
 3fabd313,No,90+4,Matt Doherty,Wolverhampton Wanderers,Normal
 703d629f,No,45+1,Son Heung-min,Tottenham Hotspur,Normal
@@ -1779,8 +1642,6 @@ bc25da05,No,51,Riyad Mahrez,Manchester City,Normal
 98f1ef21,Yes,5 ,Callum Wilson,Bournemouth,Normal
 98f1ef21,Yes,22 ,Ryan Fraser,Bournemouth,Normal
 98f1ef21,No,38,Terence Kongolo,Huddersfield Town,Normal
-07d048d9,Yes,24 ,Glenn Murray,Brighton & Hove Albion,Penalty
-07d048d9,Yes,28 ,Shane Duffy,Brighton & Hove Albion,Normal
 07d048d9,Yes,31 ,Leon Balogun,Brighton & Hove Albion,Normal
 07d048d9,Yes,45+4 ,Florin Andone,Brighton & Hove Albion,Normal
 07d048d9,No,81,Luka Milivojević,Crystal Palace,Penalty
@@ -1789,7 +1650,6 @@ bc25da05,No,51,Riyad Mahrez,Manchester City,Normal
 044b4b5a,Yes,61 ,Michail Antonio,West Ham United,Normal
 044b4b5a,No,90+5,Josh Murphy,Cardiff City,Normal
 1f2c2385,Yes,90+6 ,Divock Origi,Liverpool,Normal
-2ddc7388,Yes,10 ,Pierre-Emerick Aubameyang,Arsenal,Penalty
 2ddc7388,Yes,56 ,Pierre-Emerick Aubameyang,Arsenal,Normal
 2ddc7388,Yes,74 ,Alexandre Lacazette,Arsenal,Normal
 2ddc7388,Yes,77 ,Lucas Torreira,Arsenal,Normal
@@ -1806,11 +1666,9 @@ f54cc2e1,Yes,16 ,Bernardo Silva,Manchester City,Normal
 f54cc2e1,Yes,57 ,Raheem Sterling,Manchester City,Normal
 f54cc2e1,Yes,79 ,İlkay Gündoğan,Manchester City,Normal
 f54cc2e1,No,44,Callum Wilson,Bournemouth,Normal
-db20d5d7,Yes,12 ,Jamie Vardy,Leicester City,Penalty
 db20d5d7,Yes,23 ,James Maddison,Leicester City,Normal
 db20d5d7,No,90,Étienne Capoue,Watford,Normal
 c4b81247,Yes,1 ,Mathias Jørgensen,Huddersfield Town,Normal
-c4b81247,Yes,32 ,Steve Mounié,Huddersfield Town,Normal
 c4b81247,No,45+4,Shane Duffy,Brighton & Hove Albion,Normal
 c4b81247,No,69,Florin Andone,Brighton & Hove Albion,Normal
 5fb5a6c9,Yes,16 ,James McArthur,Crystal Palace,Normal
@@ -1870,20 +1728,16 @@ da20ac20,Yes,28 ,Callum Paterson,Cardiff City,Normal
 da20ac20,Yes,90 ,Sol Bamba,Cardiff City,Normal
 da20ac20,No,6,Lewis Dunk,Brighton & Hove Albion,Normal
 da20ac20,No,34,Dale Stephens,Brighton & Hove Albion,Normal
-f7cf0ef1,Yes,29 ,Timothy Fosu-Mensah,Huddersfield Town,Own Goal
 e7d32534,Yes,32 ,Álvaro Morata,Chelsea,Normal
 e7d32534,Yes,65 ,Álvaro Morata,Chelsea,Normal
 e7d32534,Yes,70 ,Pedro,Chelsea,Normal
 e7d32534,No,53,Andros Townsend,Crystal Palace,Normal
-7fcb3ecd,Yes,6 ,Wesley Hoedt,Manchester City,Own Goal
 7fcb3ecd,Yes,12 ,Sergio Agüero,Manchester City,Normal
 7fcb3ecd,Yes,18 ,David Silva,Manchester City,Normal
 7fcb3ecd,Yes,45+2 ,Raheem Sterling,Manchester City,Normal
 7fcb3ecd,Yes,67 ,Raheem Sterling,Manchester City,Normal
 7fcb3ecd,Yes,90+1 ,Leroy Sané,Manchester City,Normal
 7fcb3ecd,No,30,Danny Ings,Southampton,Penalty
-b8b6baee,Yes,68 ,Rúben Neves,Wolverhampton Wanderers,Penalty
-b8b6baee,Yes,79 ,Raúl Jiménez,Wolverhampton Wanderers,Penalty
 b8b6baee,No,27,Érik Lamela,Tottenham Hotspur,Normal
 b8b6baee,No,30,Lucas Moura,Tottenham Hotspur,Normal
 b8b6baee,No,61,Harry Kane,Tottenham Hotspur,Normal
@@ -1908,8 +1762,6 @@ e14699cb,No,90+2,Marcus Rashford,Manchester United,Normal
 746d865f,Yes,27 ,Paul Pogba,Manchester United,Normal
 746d865f,Yes,49 ,Anthony Martial,Manchester United,Normal
 746d865f,No,77,Gylfi Sigurðsson,Everton,Penalty
-9113792c,Yes,45+1 ,Luka Milivojević,Crystal Palace,Penalty
-9113792c,Yes,83 ,Luka Milivojević,Crystal Palace,Penalty
 9113792c,No,51,Granit Xhaka,Arsenal,Normal
 9113792c,No,56,Pierre-Emerick Aubameyang,Arsenal,Normal
 69381f97,No,22,Álvaro Morata,Chelsea,Normal
@@ -1927,7 +1779,6 @@ af65625b,Yes,80 ,Isaac Success,Watford,Normal
 8df7e453,Yes,84 ,Xherdan Shaqiri,Liverpool,Normal
 8df7e453,Yes,87 ,Sadio Mané,Liverpool,Normal
 8df7e453,No,77,Callum Paterson,Cardiff City,Normal
-51c18906,Yes,73 ,Kevin McDonald,Fulham,Normal
 51c18906,No,14,Callum Wilson,Bournemouth,Penalty
 51c18906,No,72,David Brooks,Bournemouth,Normal
 51c18906,No,85,Callum Wilson,Bournemouth,Normal
@@ -1973,7 +1824,6 @@ af4e1f4f,No,90+1,Pierre-Emerick Aubameyang,Arsenal,Normal
 1c869de5,No,7,Kenedy,Newcastle United,Normal
 1c869de5,No,10,Yoshinori Mutō,Newcastle United,Normal
 e4ee9373,No,56,Matt Doherty,Wolverhampton Wanderers,Normal
-c3a37856,Yes,32 ,Christian Kabasele,Watford,Normal
 c3a37856,No,14,David Brooks,Bournemouth,Normal
 c3a37856,No,33,Joshua King,Bournemouth,Penalty
 c3a37856,No,45,Joshua King,Bournemouth,Normal
@@ -1983,12 +1833,10 @@ c3a37856,No,47,Callum Wilson,Bournemouth,Normal
 60ecfc10,Yes,20 ,Sam Vokes,Burnley,Normal
 60ecfc10,No,66,Christopher Schindler,Huddersfield Town,Normal
 1be8f2f0,Yes,40 ,Ricardo Pereira,Leicester City,Normal
-1be8f2f0,Yes,63 ,Wes Morgan,Leicester City,Normal
 1be8f2f0,No,7,Richarlison,Everton,Normal
 1be8f2f0,No,77,Gylfi Sigurðsson,Everton,Normal
 cf0741b9,Yes,25 ,Glenn Murray,Brighton & Hove Albion,Normal
 82f2e66c,Yes,5 ,David Brooks,Bournemouth,Normal
-82f2e66c,Yes,87 ,Junior Stanislas,Bournemouth,Penalty
 82f2e66c,No,55,Patrick van Aanholt,Crystal Palace,Normal
 a9b46822,Yes,60 ,Josh Murphy,Cardiff City,Normal
 a9b46822,No,51,Jóhann Berg Guðmundsson,Burnley,Normal
@@ -1999,7 +1847,6 @@ de08a7f1,No,25,Harry Kane,Tottenham Hotspur,Normal
 de08a7f1,No,34,Harry Kane,Tottenham Hotspur,Penalty
 d64da66e,Yes,29 ,Raheem Sterling,Manchester City,Normal
 d64da66e,Yes,65 ,Sergio Agüero,Manchester City,Normal
-d51c2069,Yes,81 ,Craig Cathcart,Arsenal,Own Goal
 d51c2069,Yes,83 ,Mesut Özil,Arsenal,Normal
 85cb9e4e,Yes,79 ,Ivan Cavaleiro,Wolverhampton Wanderers,Normal
 85cb9e4e,Yes,87 ,Jonny Castro,Wolverhampton Wanderers,Normal
@@ -2009,7 +1856,6 @@ d51c2069,Yes,83 ,Mesut Özil,Arsenal,Normal
 0fe30564,No,30,Jamie Vardy,Leicester City,Penalty
 0fe30564,No,73,Harry Maguire,Leicester City,Normal
 f6e0fe6b,Yes,5 ,Felipe Anderson,West Ham United,Normal
-f6e0fe6b,Yes,43 ,Victor Lindelöf,West Ham United,Own Goal
 f6e0fe6b,Yes,74 ,Marko Arnautović,West Ham United,Normal
 f6e0fe6b,No,71,Marcus Rashford,Manchester United,Normal
 a1fb6176,Yes,56 ,Alexandre Lacazette,Arsenal,Normal
@@ -2027,7 +1873,6 @@ b16f9070,No,5,Mathias Jørgensen,Huddersfield Town,Normal
 7685b966,Yes,41 ,Aaron Lennon,Burnley,Normal
 7685b966,Yes,83 ,Ashley Barnes,Burnley,Normal
 7685b966,Yes,88 ,Ashley Barnes,Burnley,Normal
-65050401,Yes,10 ,Wesley Hoedt,Liverpool,Own Goal
 65050401,Yes,21 ,Joël Matip,Liverpool,Normal
 65050401,Yes,45+3 ,Mohamed Salah,Liverpool,Normal
 41dde04a,No,32,Sergio Agüero,Manchester City,Normal
@@ -2038,7 +1883,6 @@ b16f9070,No,5,Mathias Jørgensen,Huddersfield Town,Normal
 cf44aa9f,Yes,78 ,Aleksandar Mitrović,Fulham,Normal
 cf44aa9f,No,2,Andre Gray,Watford,Normal
 7f31aba2,Yes,35 ,Pierre Højbjerg,Southampton,Normal
-7f31aba2,Yes,65 ,Danny Ings,Southampton,Penalty
 7f31aba2,No,67,Shane Duffy,Brighton & Hove Albion,Normal
 7f31aba2,No,90+1,Glenn Murray,Brighton & Hove Albion,Penalty
 d7a7d583,Yes,45+2 ,Gylfi Sigurðsson,Everton,Normal
@@ -2052,12 +1896,10 @@ b05c0b05,No,38,Chris Smalling,Manchester United,Normal
 b05c0b05,No,90+3,Nemanja Matić,Manchester United,Normal
 f82c343c,Yes,37 ,Eden Hazard,Chelsea,Normal
 f82c343c,Yes,44 ,Eden Hazard,Chelsea,Normal
-f82c343c,Yes,80 ,Eden Hazard,Chelsea,Penalty
 f82c343c,Yes,83 ,Willian,Chelsea,Normal
 f82c343c,No,16,Sol Bamba,Cardiff City,Normal
 ed9bdfa8,Yes,19 ,Ryan Fraser,Bournemouth,Normal
 ed9bdfa8,Yes,37 ,Ryan Fraser,Bournemouth,Normal
-ed9bdfa8,Yes,41 ,Joshua King,Bournemouth,Penalty
 ed9bdfa8,Yes,81 ,Adam Smith,Bournemouth,Normal
 ed9bdfa8,No,69,Wes Morgan,Leicester City,Normal
 ed9bdfa8,No,88,James Maddison,Leicester City,Penalty
@@ -2092,7 +1934,6 @@ a3a1e07f,No,34,Philip Billing,Huddersfield Town,Normal
 95fc9c84,Yes,72 ,Pedro,Chelsea,Normal
 95fc9c84,Yes,85 ,Eden Hazard,Chelsea,Normal
 51055c21,Yes,67 ,Glenn Murray,Brighton & Hove Albion,Normal
-51055c21,Yes,84 ,Glenn Murray,Brighton & Hove Albion,Penalty
 51055c21,No,43,André Schürrle,Fulham,Normal
 51055c21,No,62,Aleksandar Mitrović,Fulham,Normal
 2909fa0b,No,47,Danny Ings,Southampton,Normal
@@ -2116,29 +1957,22 @@ e8521900,No,87,DeAndre Yedlin,Chelsea,Own Goal
 6ad36993,Yes,71 ,José Holebas,Watford,Normal
 6ad36993,No,78,Wilfried Zaha,Crystal Palace,Normal
 db5e61cc,Yes,23 ,Mohamed Salah,Liverpool,Normal
-b9a56747,Yes,61 ,Adam Smith,Bournemouth,Normal
-b9a56747,Yes,75 ,Joshua King,Bournemouth,Penalty
 b9a56747,Yes,79 ,Nathan Aké,Bournemouth,Normal
 b9a56747,No,41,Richarlison,Everton,Normal
 b9a56747,No,56,Theo Walcott,Everton,Normal
 b9a56747,No,66,Michael Keane,Everton,Normal
-846881a8,Yes,63 ,Jonathan Hogg,Huddersfield Town,Normal
 4e5f55cb,Yes,52 ,Ryan Bertrand,Southampton,Normal
-4e5f55cb,Yes,77 ,Pierre Højbjerg,Southampton,Normal
 4e5f55cb,No,56,Demarai Gray,Leicester City,Normal
 4e5f55cb,No,90+2,Harry Maguire,Leicester City,Normal
 0014076a,Yes,30 ,Nacho Monreal,Arsenal,Normal
-0014076a,Yes,70 ,Issa Diop,Arsenal,Own Goal
 0014076a,Yes,90+2 ,Danny Welbeck,Arsenal,Normal
 0014076a,No,25,Marko Arnautović,West Ham United,Normal
 a25a3f33,Yes,57 ,Willy Boly,Wolverhampton Wanderers,Normal
 a25a3f33,No,69,Aymeric Laporte,Manchester City,Normal
-24e4536f,Yes,75 ,Aaron Wan-Bissaka,Crystal Palace,Normal
 24e4536f,No,45,James Milner,Liverpool,Penalty
 24e4536f,No,90+3,Sadio Mané,Liverpool,Normal
 620ebbfd,Yes,25 ,Glenn Murray,Brighton & Hove Albion,Normal
 620ebbfd,Yes,27 ,Shane Duffy,Brighton & Hove Albion,Normal
-620ebbfd,Yes,44 ,Pascal Groß,Brighton & Hove Albion,Penalty
 620ebbfd,No,34,Romelu Lukaku,Manchester United,Normal
 620ebbfd,No,90+5,Paul Pogba,Manchester United,Penalty
 64ee90d5,Yes,25 ,Sergio Agüero,Manchester City,Normal
@@ -2146,7 +1980,6 @@ a25a3f33,No,69,Aymeric Laporte,Manchester City,Normal
 64ee90d5,Yes,35 ,Sergio Agüero,Manchester City,Normal
 64ee90d5,Yes,48 ,David Silva,Manchester City,Normal
 64ee90d5,Yes,75 ,Sergio Agüero,Manchester City,Normal
-64ee90d5,Yes,84 ,Terence Kongolo,Manchester City,Own Goal
 64ee90d5,No,43,Jon Gorenc Stanković,Huddersfield Town,Normal
 5f6c378d,Yes,6 ,James Tarkowski,Burnley,Normal
 5f6c378d,No,3,Andre Gray,Watford,Normal
@@ -2161,13 +1994,10 @@ aa8f0365,Yes,43 ,Lucas Moura,Tottenham Hotspur,Normal
 aa8f0365,Yes,74 ,Kieran Trippier,Tottenham Hotspur,Normal
 aa8f0365,Yes,77 ,Harry Kane,Tottenham Hotspur,Normal
 aa8f0365,No,52,Aleksandar Mitrović,Fulham,Normal
-8088d605,Yes,29 ,Matt Doherty,Leicester City,Own Goal
 8088d605,Yes,45 ,James Maddison,Leicester City,Normal
-8088d605,Yes,66 ,Jamie Vardy,Leicester City,Normal
 7b877ffd,Yes,15 ,Theo Walcott,Everton,Normal
 7b877ffd,Yes,31 ,Richarlison,Everton,Normal
 7b877ffd,No,54,Danny Ings,Southampton,Normal
-19d6b566,Yes,33 ,Marko Arnautović,West Ham United,Penalty
 19d6b566,No,60,Callum Wilson,Bournemouth,Normal
 19d6b566,No,66,Steve Cook,Bournemouth,Normal
 8b9218b2,No,66,Isaac Hayden,Newcastle United,Normal
@@ -2194,7 +2024,6 @@ b3a7c703,Yes,54 ,Roberto Pereyra,Watford,Normal
 dce15e01,Yes,11 ,Joselu,Newcastle United,Normal
 dce15e01,No,8,Jan Vertonghen,Tottenham Hotspur,Normal
 dce15e01,No,18,Dele Alli,Tottenham Hotspur,Normal
-3ae83896,Yes,3 ,Paul Pogba,Manchester United,Penalty
 3ae83896,Yes,83 ,Luke Shaw,Manchester United,Normal
 3ae83896,No,90+2,Jamie Vardy,Leicester City,Normal
 f966eee0,No,23,Joe Willock,Newcastle United,Normal
@@ -2223,7 +2052,6 @@ ad4ac82b,No,60,Callum Wilson,Newcastle United,Normal
 70a81794,Yes,80 ,Pascal Groß,Brighton & Hove Albion,Normal
 70a81794,Yes,90+2 ,Danny Welbeck,Brighton & Hove Albion,Normal
 70a81794,No,40,Michail Antonio,West Ham United,Normal
-4100d195,Yes,27 ,Gabriel Martinelli,Arsenal,Penalty
 4100d195,Yes,31 ,Eddie Nketiah,Arsenal,Normal
 4100d195,Yes,56 ,Cédric Soares,Arsenal,Normal
 4100d195,Yes,59 ,Gabriel Dos Santos,Arsenal,Normal
@@ -2236,7 +2064,6 @@ ad4ac82b,No,60,Callum Wilson,Newcastle United,Normal
 16e2761e,Yes,90+6 ,Ayoze Pérez,Leicester City,Normal
 16e2761e,No,79,James Ward-Prowse,Southampton,Penalty
 076ca089,Yes,78 ,Sergi Canós,Brentford,Normal
-076ca089,Yes,80 ,Sergi Canós,Brentford,Normal
 076ca089,No,56,Raphinha,Leeds United,Penalty
 076ca089,No,90+4,Jack Harrison,Leeds United,Normal
 75d8f6e0,Yes,34 ,Marcos Alonso,Chelsea,Normal
@@ -2252,12 +2079,8 @@ bc4f902e,No,90+1,Matthew Lowton,Burnley,Normal
 733409b2,Yes,13 ,Nathan Redmond,Southampton,Normal
 733409b2,No,27,Takumi Minamino,Liverpool,Normal
 733409b2,No,67,Joël Matip,Liverpool,Normal
-a3b3a0d5,Yes,55 ,Ben White,Newcastle United,Own Goal
 a3b3a0d5,Yes,85 ,Bruno Guimarães,Newcastle United,Normal
 1b07c16e,Yes,10 ,Dominic Calvert-Lewin,Everton,Normal
-1b07c16e,Yes,18 ,Jarrad Branthwaite,Everton,Normal
-1b07c16e,Yes,45+2 ,Richarlison,Everton,Penalty
-1b07c16e,Yes,88 ,Salomón Rondón,Everton,Normal
 1b07c16e,No,37,Séamus Coleman,Brentford,Own Goal
 1b07c16e,No,62,Yoane Wissa,Brentford,Normal
 1b07c16e,No,64,Rico Henry,Brentford,Normal
@@ -2277,8 +2100,6 @@ d2e9e9e3,No,81,Jeffrey Schlupp,Crystal Palace,Normal
 5a142f6f,No,86,Harvey Barnes,Leicester City,Normal
 1ca898da,Yes,90+2 ,Pascal Struijk,Leeds United,Normal
 1ca898da,No,21,Danny Welbeck,Brighton & Hove Albion,Normal
-1d0f7282,Yes,45+8 ,Harry Kane,Tottenham Hotspur,Penalty
-607d0562,Yes,22 ,Harry Kane,Tottenham Hotspur,Penalty
 607d0562,Yes,37 ,Harry Kane,Tottenham Hotspur,Normal
 607d0562,Yes,47 ,Son Heung-min,Tottenham Hotspur,Normal
 607d0562,No,33,Rob Holding,Arsenal,Normal
@@ -2291,7 +2112,6 @@ a93c0c92,No,84,Raheem Sterling,Manchester City,Normal
 2ae05ae6,Yes,54 ,Jamie Vardy,Leicester City,Normal
 2ae05ae6,Yes,62 ,Jamie Vardy,Leicester City,Normal
 2ae05ae6,Yes,70 ,James Maddison,Leicester City,Normal
-6f225dc6,Yes,24 ,Daniel James,Leeds United,Normal
 6f225dc6,No,4,Mason Mount,Chelsea,Normal
 6f225dc6,No,55,Christian Pulisic,Chelsea,Normal
 6f225dc6,No,83,Romelu Lukaku,Chelsea,Normal
@@ -2324,17 +2144,14 @@ c1dc9202,Yes,90+1 ,Maxwel Cornet,Burnley,Normal
 c1dc9202,No,7,Danny Ings,Aston Villa,Normal
 c1dc9202,No,31,Emi Buendía,Aston Villa,Normal
 c1dc9202,No,52,Ollie Watkins,Aston Villa,Normal
-7c8a79d2,Yes,56 ,Romelu Lukaku,Chelsea,Penalty
 7c8a79d2,Yes,58 ,Romelu Lukaku,Chelsea,Normal
 7c8a79d2,No,79,Francisco Trincão,Wolverhampton Wanderers,Normal
 7c8a79d2,No,90+7,Conor Coady,Wolverhampton Wanderers,Normal
 74a74729,Yes,13 ,Pontus Jansson,Brentford,Normal
 74a74729,Yes,14 ,Yoane Wissa,Brentford,Normal
 74a74729,Yes,79 ,Kristoffer Ajer,Brentford,Normal
-1206a1df,Yes,31 ,Wilfried Zaha,Crystal Palace,Penalty
 1206a1df,No,69,Hassane Kamara,Watford,Normal
 c9b4c96a,Yes,9 ,Bruno Fernandes,Manchester United,Normal
-c9b4c96a,Yes,61 ,Cristiano Ronaldo,Manchester United,Penalty
 c9b4c96a,Yes,72 ,Raphaël Varane,Manchester United,Normal
 5290c2da,Yes,45 ,Jarrod Bowen,West Ham United,Normal
 5290c2da,No,38,Rob Holding,Arsenal,Normal
@@ -2356,7 +2173,6 @@ bf7873f2,Yes,90+3 ,Danny Ings,Aston Villa,Normal
 b800c4ba,No,42,Alexis Mac Allister,Brighton & Hove Albion,Penalty
 b800c4ba,No,70,Leandro Trossard,Brighton & Hove Albion,Normal
 b800c4ba,No,86,Yves Bissouma,Brighton & Hove Albion,Normal
-81ac72d8,Yes,8 ,James Tarkowski,Watford,Own Goal
 81ac72d8,No,83,Jack Cork,Burnley,Normal
 81ac72d8,No,86,Josh Brownhill,Burnley,Normal
 d736eab8,No,19,Naby Keïta,Liverpool,Normal
@@ -2368,7 +2184,6 @@ cfcd90ed,Yes,90 ,Christian Pulisic,Chelsea,Normal
 cfcd90ed,No,86,Craig Dawson,West Ham United,Normal
 99d0fee1,Yes,62 ,Matěj Vydra,Burnley,Normal
 32a11932,Yes,2 ,Danny Welbeck,Brighton & Hove Albion,Normal
-32a11932,Yes,44 ,Mohammed Salisu,Brighton & Hove Albion,Own Goal
 32a11932,No,45+4,James Ward-Prowse,Southampton,Normal
 32a11932,No,54,James Ward-Prowse,Southampton,Normal
 f6a877bb,No,35,Joelinton,Newcastle United,Normal
@@ -2377,11 +2192,9 @@ f6a877bb,No,49,Bruno Guimarães,Newcastle United,Normal
 af522ca3,Yes,4 ,Gabriel Jesus,Manchester City,Normal
 af522ca3,Yes,23 ,Gabriel Jesus,Manchester City,Normal
 af522ca3,Yes,34 ,Rodri,Manchester City,Normal
-af522ca3,Yes,49 ,Gabriel Jesus,Manchester City,Penalty
 af522ca3,Yes,53 ,Gabriel Jesus,Manchester City,Normal
 af522ca3,No,28,Hassane Kamara,Watford,Normal
 b9f7c065,Yes,3 ,Nuno Tavares,Arsenal,Normal
-b9f7c065,Yes,32 ,Bukayo Saka,Arsenal,Penalty
 b9f7c065,Yes,70 ,Granit Xhaka,Arsenal,Normal
 b9f7c065,No,34,Cristiano Ronaldo,Manchester United,Normal
 73ef622b,Yes,12 ,Connor Roberts,Burnley,Normal
@@ -2445,7 +2258,6 @@ b18deecf,No,85,Jack Harrison,Leeds United,Normal
 37ddcda6,No,28,Leandro Trossard,Brighton & Hove Albion,Normal
 37ddcda6,No,66,Enock Mwepu,Brighton & Hove Albion,Normal
 f976e20a,Yes,27 ,Anthony Gordon,Everton,Normal
-739d8264,Yes,72 ,Chris Wood,Newcastle United,Penalty
 8ee025e7,Yes,12 ,Nathan Collins,Burnley,Normal
 8ee025e7,Yes,57 ,Jay Rodriguez,Burnley,Normal
 8ee025e7,Yes,85 ,Maxwel Cornet,Burnley,Normal
@@ -2453,7 +2265,6 @@ f976e20a,Yes,27 ,Anthony Gordon,Everton,Normal
 8ee025e7,No,41,Richarlison,Everton,Penalty
 d96b144a,Yes,16 ,Jean-Philippe Mateta,Crystal Palace,Normal
 d96b144a,Yes,24 ,Jordan Ayew,Crystal Palace,Normal
-d96b144a,Yes,74 ,Wilfried Zaha,Crystal Palace,Penalty
 6f8a2207,Yes,43 ,Ben Davies,Tottenham Hotspur,Normal
 6f8a2207,Yes,48 ,Matt Doherty,Tottenham Hotspur,Normal
 6f8a2207,Yes,54 ,Son Heung-min,Tottenham Hotspur,Normal
@@ -2476,11 +2287,8 @@ c0037074,No,87,Yoane Wissa,Brentford,Normal
 abc88be4,Yes,29 ,Jack Harrison,Leeds United,Normal
 abc88be4,No,49,James Ward-Prowse,Southampton,Normal
 320d3dfe,Yes,7 ,Jonny Castro,Wolverhampton Wanderers,Normal
-320d3dfe,Yes,36 ,Ashley Young,Wolverhampton Wanderers,Own Goal
 320d3dfe,No,86,Ollie Watkins,Aston Villa,Penalty
 8e05e22c,Yes,22 ,Diogo Jota,Liverpool,Normal
-8e05e22c,Yes,89 ,Fabinho,Liverpool,Penalty
-5fb752fa,Yes,9 ,Kurt Zouma,Tottenham Hotspur,Own Goal
 5fb752fa,Yes,24 ,Son Heung-min,Tottenham Hotspur,Normal
 5fb752fa,Yes,88 ,Son Heung-min,Tottenham Hotspur,Normal
 5fb752fa,No,35,Saïd Benrahma,West Ham United,Normal
@@ -2490,22 +2298,18 @@ c8c7dd9b,No,85,Yoane Wissa,Brentford,Normal
 0cb74761,No,30,Bukayo Saka,Arsenal,Normal
 1c402923,Yes,26 ,Jonny Castro,Wolverhampton Wanderers,Normal
 1c402923,Yes,45+11 ,Francisco Trincão,Wolverhampton Wanderers,Normal
-1c402923,Yes,53 ,Raúl Jiménez,Wolverhampton Wanderers,Normal
 1c402923,No,63,Jack Harrison,Leeds United,Normal
 1c402923,No,66,Rodrigo,Leeds United,Normal
 1c402923,No,90+1,Luke Ayling,Leeds United,Normal
-029e5f94,Yes,83 ,Allan,Everton,Normal
 029e5f94,Yes,90+9 ,Alex Iwobi,Everton,Normal
 8ef5cc6b,No,54,Diogo Jota,Liverpool,Normal
 8ef5cc6b,No,62,Roberto Firmino,Liverpool,Normal
 59b3ee40,No,37,Cristian Romero,Tottenham Hotspur,Normal
 59b3ee40,No,57,Harry Kane,Tottenham Hotspur,Normal
 47ea9ab2,Yes,11 ,Thomas Partey,Arsenal,Normal
-47ea9ab2,Yes,59 ,Alexandre Lacazette,Arsenal,Penalty
 b13fb9b9,Yes,14 ,Rodrigo,Leeds United,Normal
 b13fb9b9,Yes,90+4 ,Joe Gelhardt,Leeds United,Normal
 b13fb9b9,No,90+1,Kenny McLean,Norwich City,Normal
-9e5d1f93,Yes,78 ,Jonjoe Kenny,Everton,Normal
 9e5d1f93,No,49,Conor Coady,Wolverhampton Wanderers,Normal
 81f2f022,Yes,70 ,Andriy Yarmolenko,West Ham United,Normal
 81f2f022,Yes,82 ,Pablo Fornals,West Ham United,Normal
@@ -2520,14 +2324,12 @@ e5e7becb,Yes,81 ,Cristiano Ronaldo,Manchester United,Normal
 e5e7becb,No,35,Harry Kane,Tottenham Hotspur,Penalty
 e5e7becb,No,72,Harry Maguire,Tottenham Hotspur,Own Goal
 9718a901,Yes,85 ,Ivan Toney,Brentford,Normal
-9718a901,Yes,90+4 ,Ivan Toney,Brentford,Penalty
 9718a901,No,90+2,Nathan Collins,Burnley,Normal
 4d3331bb,No,19,Luis Díaz,Liverpool,Normal
 4d3331bb,No,61,Mohamed Salah,Liverpool,Penalty
 79b8fb6e,No,22,Philippe Coutinho,Aston Villa,Normal
 79b8fb6e,No,65,Matty Cash,Aston Villa,Normal
 79b8fb6e,No,73,Calum Chambers,Aston Villa,Normal
-4371c286,Yes,69 ,Teemu Pukki,Norwich City,Penalty
 4371c286,No,3,Trevoh Chalobah,Chelsea,Normal
 4371c286,No,14,Mason Mount,Chelsea,Normal
 4371c286,No,90,Kai Havertz,Chelsea,Normal
@@ -2535,10 +2337,8 @@ e5e7becb,No,72,Harry Maguire,Tottenham Hotspur,Own Goal
 2d6fb488,No,32,Chris Wood,Newcastle United,Normal
 2d6fb488,No,52,Bruno Guimarães,Newcastle United,Normal
 d0ee0e9a,Yes,13 ,Raúl Jiménez,Wolverhampton Wanderers,Normal
-d0ee0e9a,Yes,18 ,Cucho,Wolverhampton Wanderers,Own Goal
 d0ee0e9a,Yes,21 ,Daniel Podence,Wolverhampton Wanderers,Normal
 d0ee0e9a,Yes,85 ,Rúben Neves,Wolverhampton Wanderers,Normal
-6e11eac6,Yes,14 ,Michael Keane,Tottenham Hotspur,Own Goal
 6e11eac6,Yes,17 ,Son Heung-min,Tottenham Hotspur,Normal
 6e11eac6,Yes,37 ,Harry Kane,Tottenham Hotspur,Normal
 6e11eac6,Yes,46 ,Sergio Reguilón,Tottenham Hotspur,Normal
@@ -2576,7 +2376,6 @@ a47f5f21,No,82,James Maddison,Leicester City,Normal
 a47f5f21,No,90,Jamie Vardy,Leicester City,Normal
 b1dcaf8d,Yes,59 ,Tomáš Souček,West Ham United,Normal
 ab729bd6,No,82,Phil Foden,Manchester City,Normal
-fd61d442,Yes,11 ,Josh Dasilva,Brentford,Normal
 fd61d442,No,33,Joelinton,Newcastle United,Normal
 fd61d442,No,44,Joe Willock,Newcastle United,Normal
 8cabd787,No,17,Matty Cash,Aston Villa,Normal
@@ -2590,11 +2389,8 @@ fd61d442,No,44,Joe Willock,Newcastle United,Normal
 17c79d36,Yes,36 ,Che Adams,Southampton,Normal
 17c79d36,Yes,88 ,Oriol Romeu,Southampton,Normal
 3c516ed6,Yes,82 ,Nicolas Pépé,Arsenal,Normal
-3c516ed6,Yes,90+5 ,José Sá,Arsenal,Own Goal
 3c516ed6,No,10,Hwang Hee-chan,Wolverhampton Wanderers,Normal
-6d0f3b48,Yes,15 ,Mohamed Salah,Liverpool,Penalty
 6d0f3b48,Yes,30 ,Joël Matip,Liverpool,Normal
-6d0f3b48,Yes,35 ,Mohamed Salah,Liverpool,Penalty
 6d0f3b48,Yes,80 ,Sadio Mané,Liverpool,Normal
 6d0f3b48,Yes,90 ,Sadio Mané,Liverpool,Normal
 6d0f3b48,Yes,90+3 ,Virgil van Dijk,Liverpool,Normal
@@ -2614,7 +2410,6 @@ f8d646cb,Yes,71 ,Ben Mee,Burnley,Normal
 002f0ff0,No,70,Fred,Manchester United,Normal
 002f0ff0,No,88,Anthony Elanga,Manchester United,Normal
 cd797899,Yes,33 ,İlkay Gündoğan,Manchester City,Normal
-cd797899,Yes,90+2 ,Riyad Mahrez,Manchester City,Penalty
 cd797899,No,4,Dejan Kulusevski,Tottenham Hotspur,Normal
 cd797899,No,59,Harry Kane,Tottenham Hotspur,Normal
 cd797899,No,90+5,Harry Kane,Tottenham Hotspur,Normal
@@ -2637,7 +2432,6 @@ b1df8cfd,No,69,Aaron Lennon,Burnley,Normal
 a1fb5fa2,Yes,51 ,Cristiano Ronaldo,Manchester United,Normal
 a1fb5fa2,Yes,90+7 ,Bruno Fernandes,Manchester United,Normal
 a1fb5fa2,No,54,Lewis Dunk,Brighton & Hove Albion,Normal
-c2c20295,Yes,45 ,Youri Tielemans,Leicester City,Penalty
 c2c20295,Yes,57 ,Ricardo Pereira,Leicester City,Normal
 c2c20295,No,10,Jarrod Bowen,West Ham United,Normal
 c2c20295,No,90+1,Craig Dawson,West Ham United,Normal
@@ -2663,22 +2457,18 @@ bf5f0f9e,No,69,Gabriel Martinelli,Arsenal,Normal
 f1e84229,Yes,30 ,Philippe Coutinho,Aston Villa,Normal
 f1e84229,Yes,38 ,Jacob Ramsey,Aston Villa,Normal
 f1e84229,Yes,43 ,Jacob Ramsey,Aston Villa,Normal
-f1e84229,Yes,87 ,Ezri Konsa,Aston Villa,Normal
 f1e84229,No,9,Daniel James,Leeds United,Normal
 f1e84229,No,45+2,Daniel James,Leeds United,Normal
 f1e84229,No,63,Diego Llorente,Leeds United,Normal
-3b077554,Yes,40 ,Riyad Mahrez,Manchester City,Penalty
 3b077554,Yes,69 ,Kevin De Bruyne,Manchester City,Normal
 22d9fbc9,Yes,1 ,Teemu Pukki,Norwich City,Normal
 22d9fbc9,No,60,Wilfried Zaha,Crystal Palace,Normal
-0613df22,Yes,18 ,Jan Bednarek,Tottenham Hotspur,Own Goal
 0613df22,Yes,70 ,Son Heung-min,Tottenham Hotspur,Normal
 0613df22,No,23,Armando Broja,Southampton,Normal
 0613df22,No,79,Mohamed Elyounoussi,Southampton,Normal
 0613df22,No,82,Che Adams,Southampton,Normal
 cb262ab8,Yes,47 ,Jay Rodriguez,Burnley,Normal
 cb262ab8,No,18,Paul Pogba,Manchester United,Normal
-fde8d97d,Yes,37 ,Mason Holgate,Newcastle United,Own Goal
 fde8d97d,Yes,56 ,Ryan Fraser,Newcastle United,Normal
 fde8d97d,Yes,80 ,Kieran Trippier,Newcastle United,Normal
 fde8d97d,No,36,Jamaal Lascelles,Everton,Own Goal
@@ -2699,7 +2489,6 @@ a28f6f69,No,82,Danny Welbeck,Brighton & Hove Albion,Normal
 7c23f694,Yes,90+3 ,Marcus Rashford,Manchester United,Normal
 07df6328,No,75,Jonjo Shelvey,Newcastle United,Normal
 83bac3da,No,45+3,Emi Buendía,Aston Villa,Normal
-5c592680,Yes,78 ,Emmanuel Dennis,Watford,Normal
 5c592680,No,51,Josh Sargent,Norwich City,Normal
 5c592680,No,74,Josh Sargent,Norwich City,Normal
 5c592680,No,90+2,Juraj Kucka,Norwich City,Own Goal
@@ -2726,22 +2515,18 @@ c8c457d6,Yes,77 ,Takumi Minamino,Liverpool,Normal
 745dc664,Yes,81 ,Philippe Coutinho,Aston Villa,Normal
 745dc664,No,6,Bruno Fernandes,Manchester United,Normal
 745dc664,No,67,Bruno Fernandes,Manchester United,Normal
-dd7b8b8b,Yes,37 ,Raúl Jiménez,Wolverhampton Wanderers,Penalty
 dd7b8b8b,Yes,59 ,Conor Coady,Wolverhampton Wanderers,Normal
 dd7b8b8b,Yes,90+1 ,Adama Traoré,Wolverhampton Wanderers,Normal
 dd7b8b8b,No,84,James Ward-Prowse,Southampton,Normal
 64dd3e3f,Yes,49 ,Allan Saint-Maximin,Newcastle United,Normal
 64dd3e3f,No,88,João Pedro,Watford,Normal
-4574a1a6,Yes,16 ,Michael Keane,Norwich City,Own Goal
 4574a1a6,Yes,18 ,Adam Idah,Norwich City,Normal
 4574a1a6,No,60,Richarlison,Everton,Normal
 febd7f38,Yes,70 ,Kevin De Bruyne,Manchester City,Normal
-96630936,Yes,87 ,Joachim Andersen,Brighton & Hove Albion,Own Goal
 96630936,No,69,Conor Gallagher,Crystal Palace,Normal
 7d53d1ea,Yes,42 ,Jarrod Bowen,West Ham United,Normal
 7d53d1ea,Yes,83 ,Jarrod Bowen,West Ham United,Normal
 0859817d,Yes,5 ,Jan Bednarek,Southampton,Normal
-0859817d,Yes,37 ,Álvaro Fernández,Southampton,Own Goal
 0859817d,Yes,49 ,Armando Broja,Southampton,Normal
 0859817d,Yes,70 ,Che Adams,Southampton,Normal
 0859817d,No,23,Vitaly Janelt,Brentford,Normal
@@ -2769,11 +2554,9 @@ b0b5cba6,No,25,Manuel Lanzini,West Ham United,Normal
 b0b5cba6,No,45+5,Manuel Lanzini,West Ham United,Penalty
 9c831c07,No,90+6,Davinson Sánchez,Tottenham Hotspur,Normal
 a9903a63,Yes,31 ,Bukayo Saka,Arsenal,Normal
-a9903a63,Yes,59 ,Gabriel Dos Santos,Arsenal,Normal
 a9903a63,No,57,Riyad Mahrez,Manchester City,Penalty
 a9903a63,No,90+3,Rodri,Manchester City,Normal
 bbfa96c9,Yes,8 ,Scott McTominay,Manchester United,Normal
-bbfa96c9,Yes,27 ,Ben Mee,Manchester United,Own Goal
 bbfa96c9,Yes,35 ,Cristiano Ronaldo,Manchester United,Normal
 bbfa96c9,No,38,Aaron Lennon,Burnley,Normal
 1a0df937,No,16,Phil Foden,Manchester City,Normal
@@ -2785,17 +2568,14 @@ b56fd899,No,27,Tomáš Souček,West Ham United,Normal
 b56fd899,No,29,Saïd Benrahma,West Ham United,Normal
 b56fd899,No,58,Mark Noble,West Ham United,Penalty
 b56fd899,No,90+2,Nikola Vlašić,West Ham United,Normal
-59ef01ea,Yes,8 ,Odsonne Édouard,Crystal Palace,Penalty
 59ef01ea,Yes,38 ,Jean-Philippe Mateta,Crystal Palace,Normal
 59ef01ea,Yes,42 ,Jeffrey Schlupp,Crystal Palace,Normal
 08d5ef01,Yes,25 ,James Ward-Prowse,Southampton,Normal
-08d5ef01,Yes,39 ,Mohammed Salisu,Southampton,Normal
 08d5ef01,No,41,Harry Kane,Tottenham Hotspur,Penalty
 f91fee43,Yes,7 ,Allan Saint-Maximin,Newcastle United,Normal
 f91fee43,No,71,Edinson Cavani,Manchester United,Normal
 1f64133b,Yes,34 ,Leandro Trossard,Brighton & Hove Albion,Normal
 1f64133b,Yes,42 ,Neal Maupay,Brighton & Hove Albion,Normal
-61396bd8,Yes,28 ,Reece James,Aston Villa,Own Goal
 61396bd8,No,34,Jorginho,Chelsea,Penalty
 61396bd8,No,56,Romelu Lukaku,Chelsea,Normal
 61396bd8,No,90+3,Jorginho,Chelsea,Penalty
@@ -2809,9 +2589,7 @@ ac4560d6,No,37,Wilfried Zaha,Crystal Palace,Normal
 83ce723b,No,84,Alexandre Lacazette,Arsenal,Penalty
 83ce723b,No,90+1,Emile Smith Rowe,Arsenal,Normal
 49e84e17,Yes,5 ,Kevin De Bruyne,Manchester City,Normal
-49e84e17,Yes,14 ,Riyad Mahrez,Manchester City,Penalty
 49e84e17,Yes,21 ,İlkay Gündoğan,Manchester City,Normal
-49e84e17,Yes,25 ,Raheem Sterling,Manchester City,Penalty
 49e84e17,Yes,69 ,Aymeric Laporte,Manchester City,Normal
 49e84e17,Yes,87 ,Raheem Sterling,Manchester City,Normal
 49e84e17,No,55,James Maddison,Leicester City,Normal
@@ -2831,7 +2609,6 @@ ac4560d6,No,37,Wilfried Zaha,Crystal Palace,Normal
 4d9bcee9,No,27,João Cancelo,Manchester City,Normal
 4d9bcee9,No,63,Riyad Mahrez,Manchester City,Normal
 4d9bcee9,No,86,Raheem Sterling,Manchester City,Normal
-53b542d8,Yes,75 ,Raphinha,Leeds United,Penalty
 53b542d8,No,16,Gabriel Martinelli,Arsenal,Normal
 53b542d8,No,28,Gabriel Martinelli,Arsenal,Normal
 53b542d8,No,42,Bukayo Saka,Arsenal,Normal
@@ -2863,24 +2640,18 @@ c78a1d7d,No,87,Ollie Watkins,Aston Villa,Normal
 02abf29a,Yes,62 ,James Tomkins,Crystal Palace,Normal
 02abf29a,Yes,90+3 ,Conor Gallagher,Crystal Palace,Normal
 02abf29a,No,70,Salomón Rondón,Everton,Normal
-8805978d,Yes,38 ,Youri Tielemans,Leicester City,Penalty
 8805978d,Yes,57 ,Patson Daka,Leicester City,Normal
 8805978d,Yes,81 ,Youri Tielemans,Leicester City,Normal
 8805978d,Yes,85 ,James Maddison,Leicester City,Normal
 11a67612,No,75,Cristiano Ronaldo,Manchester United,Penalty
 6ad3036b,Yes,42 ,Mason Mount,Chelsea,Normal
-6ad3036b,Yes,58 ,Jorginho,Chelsea,Penalty
-6ad3036b,Yes,90+4 ,Jorginho,Chelsea,Penalty
 6ad3036b,No,28,Raphinha,Leeds United,Penalty
 6ad3036b,No,83,Joe Gelhardt,Leeds United,Normal
 6a35f07c,Yes,21 ,Alexandre Lacazette,Arsenal,Normal
 6a35f07c,Yes,27 ,Martin Ødegaard,Arsenal,Normal
 6a35f07c,Yes,62 ,Gabriel Dos Santos,Arsenal,Normal
-678d7dca,Yes,67 ,Mohamed Salah,Liverpool,Penalty
-d46b4a18,Yes,66 ,Raheem Sterling,Manchester City,Penalty
 d46b4a18,No,45+2,Raúl Jiménez,Wolverhampton Wanderers,Normal
 49a36a4e,Yes,84 ,Pontus Jansson,Brentford,Normal
-49a36a4e,Yes,90+6 ,Bryan Mbeumo,Brentford,Penalty
 49a36a4e,No,24,Emmanuel Dennis,Watford,Normal
 5fdb6c19,Yes,80 ,Richarlison,Everton,Normal
 5fdb6c19,Yes,90+2 ,Demarai Gray,Everton,Normal
@@ -2904,17 +2675,14 @@ befb6648,No,63,Bernardo Silva,Manchester City,Normal
 27fd5d70,Yes,29 ,Armando Broja,Southampton,Normal
 27fd5d70,No,90+8,Neal Maupay,Brighton & Hove Albion,Normal
 11ed382d,Yes,40 ,Callum Wilson,Newcastle United,Normal
-776aa8ab,Yes,40 ,Manuel Lanzini,West Ham United,Penalty
 776aa8ab,Yes,56 ,Jarrod Bowen,West Ham United,Normal
 776aa8ab,Yes,87 ,Arthur Masuaku,West Ham United,Normal
 776aa8ab,No,28,Thiago Silva,Chelsea,Normal
 776aa8ab,No,44,Mason Mount,Chelsea,Normal
 4323a38f,Yes,44 ,Bruno Fernandes,Manchester United,Normal
 4323a38f,Yes,52 ,Cristiano Ronaldo,Manchester United,Normal
-4323a38f,Yes,70 ,Cristiano Ronaldo,Manchester United,Penalty
 4323a38f,No,13,Emile Smith Rowe,Arsenal,Normal
 4323a38f,No,54,Martin Ødegaard,Arsenal,Normal
-a80b3790,Yes,12 ,Sergi Canós,Tottenham Hotspur,Own Goal
 a80b3790,Yes,65 ,Son Heung-min,Tottenham Hotspur,Normal
 b46554fb,Yes,38 ,Demarai Gray,Everton,Normal
 b46554fb,No,9,Jordan Henderson,Liverpool,Normal
@@ -2933,11 +2701,7 @@ f475576b,No,72,Hakim Ziyech,Chelsea,Normal
 135f5959,Yes,34 ,Che Adams,Southampton,Normal
 135f5959,No,22,Jonny Evans,Leicester City,Normal
 135f5959,No,49,James Maddison,Leicester City,Normal
-b0ab4044,Yes,90+4 ,Raphinha,Leeds United,Penalty
-ce4d873f,Yes,9 ,Ciaran Clark,Newcastle United,Normal
-ce4d873f,Yes,61 ,Callum Wilson,Newcastle United,Penalty
 ce4d873f,No,79,Teemu Pukki,Norwich City,Normal
-08b3c5d8,Yes,69 ,Jorginho,Chelsea,Penalty
 08b3c5d8,No,50,Jadon Sancho,Manchester United,Normal
 c37446de,Yes,33 ,İlkay Gündoğan,Manchester City,Normal
 c37446de,Yes,90 ,Fernandinho,Manchester City,Normal
@@ -2948,7 +2712,6 @@ c2e426c8,Yes,42 ,Jamie Vardy,Leicester City,Normal
 c2e426c8,Yes,68 ,Ademola Lookman,Leicester City,Normal
 c2e426c8,No,30,Joshua King,Watford,Penalty
 c2e426c8,No,61,Emmanuel Dennis,Watford,Normal
-286c4c1c,Yes,24 ,Ivan Toney,Brentford,Penalty
 aa9b882d,Yes,2 ,Diogo Jota,Liverpool,Normal
 aa9b882d,Yes,32 ,Diogo Jota,Liverpool,Normal
 aa9b882d,Yes,37 ,Thiago Alcántara,Liverpool,Normal
@@ -2995,7 +2758,6 @@ adbf56bc,No,61,Jamaal Lascelles,Brentford,Own Goal
 2fd486d6,No,14,Antonio Rüdiger,Chelsea,Normal
 2fd486d6,No,28,N'Golo Kanté,Chelsea,Normal
 2fd486d6,No,71,Christian Pulisic,Chelsea,Normal
-63538dc7,Yes,4 ,Alisson,West Ham United,Own Goal
 63538dc7,Yes,67 ,Pablo Fornals,West Ham United,Normal
 63538dc7,Yes,74 ,Kurt Zouma,West Ham United,Normal
 63538dc7,No,41,Trent Alexander-Arnold,Liverpool,Normal
@@ -3004,9 +2766,6 @@ e0208fcf,Yes,56 ,Emile Smith Rowe,Arsenal,Normal
 e0208fcf,No,89,Juraj Kucka,Watford,Normal
 8fd004c6,Yes,26 ,Raphinha,Leeds United,Normal
 8fd004c6,No,28,Harvey Barnes,Leicester City,Normal
-224d1c99,Yes,90+2 ,Mason Holgate,Everton,Normal
-10d11999,Yes,24 ,Leandro Trossard,Brighton & Hove Albion,Penalty
-10d11999,Yes,90+2 ,Robert Sánchez,Brighton & Hove Albion,Normal
 10d11999,No,66,Isaac Hayden,Newcastle United,Normal
 3a2fff4d,Yes,61 ,Wilfried Zaha,Crystal Palace,Normal
 3a2fff4d,Yes,78 ,Conor Gallagher,Crystal Palace,Normal
@@ -3022,7 +2781,6 @@ c9ad66cc,Yes,28 ,Max Kilman,Wolverhampton Wanderers,Normal
 c9ad66cc,Yes,32 ,Raúl Jiménez,Wolverhampton Wanderers,Normal
 c9ad66cc,No,66,Alex Iwobi,Everton,Normal
 a62478a2,Yes,34 ,Ollie Watkins,Aston Villa,Normal
-a62478a2,Yes,50 ,Ezri Konsa,Aston Villa,Normal
 a62478a2,No,7,Ben Johnson,West Ham United,Normal
 a62478a2,No,38,Declan Rice,West Ham United,Normal
 a62478a2,No,80,Pablo Fornals,West Ham United,Normal
@@ -3033,7 +2791,6 @@ a62478a2,No,84,Jarrod Bowen,West Ham United,Normal
 5a2b8c26,No,39,Cristiano Ronaldo,Manchester United,Normal
 5a2b8c26,No,64,Edinson Cavani,Manchester United,Normal
 5a2b8c26,No,86,Marcus Rashford,Manchester United,Normal
-eb6c294f,Yes,45+2 ,Aymeric Laporte,Manchester City,Normal
 eb6c294f,No,6,Wilfried Zaha,Crystal Palace,Normal
 eb6c294f,No,88,Conor Gallagher,Crystal Palace,Normal
 e3521093,No,20,Che Adams,Southampton,Normal
@@ -3050,7 +2807,6 @@ c68998b5,No,65,Leandro Trossard,Brighton & Hove Albion,Normal
 49478cd2,No,81,Jorginho,Chelsea,Penalty
 719b57c6,No,5,Gabriel Dos Santos,Arsenal,Normal
 719b57c6,No,18,Emile Smith Rowe,Arsenal,Normal
-b886bec4,Yes,60 ,Paul Pogba,Manchester United,Normal
 b886bec4,No,5,Naby Keïta,Liverpool,Normal
 b886bec4,No,13,Diogo Jota,Liverpool,Normal
 b886bec4,No,38,Mohamed Salah,Liverpool,Normal
@@ -3060,7 +2816,6 @@ b5c25937,Yes,60 ,Mathias Jørgensen,Brentford,Normal
 b5c25937,No,14,Youri Tielemans,Leicester City,Normal
 b5c25937,No,73,James Maddison,Leicester City,Normal
 70c508ee,Yes,72 ,Michail Antonio,West Ham United,Normal
-dc93611c,Yes,81 ,Alexis Mac Allister,Brighton & Hove Albion,Penalty
 dc93611c,No,13,İlkay Gündoğan,Manchester City,Normal
 dc93611c,No,28,Phil Foden,Manchester City,Normal
 dc93611c,No,31,Phil Foden,Manchester City,Normal
@@ -3078,14 +2833,11 @@ d5164fbe,No,57,Maxwel Cornet,Burnley,Normal
 6985d123,No,90+1,Emmanuel Dennis,Watford,Normal
 4d1b6f6f,Yes,56 ,Christian Benteke,Crystal Palace,Normal
 4d1b6f6f,No,65,Callum Wilson,Newcastle United,Normal
-49b3afe3,Yes,90+4 ,Rodrigo,Leeds United,Penalty
 49b3afe3,No,10,Hwang Hee-chan,Wolverhampton Wanderers,Normal
 a6ff9cf9,Yes,8 ,Mason Mount,Chelsea,Normal
 a6ff9cf9,Yes,18 ,Callum Hudson-Odoi,Chelsea,Normal
 a6ff9cf9,Yes,42 ,Reece James,Chelsea,Normal
 a6ff9cf9,Yes,57 ,Ben Chilwell,Chelsea,Normal
-a6ff9cf9,Yes,62 ,Max Aarons,Chelsea,Own Goal
-a6ff9cf9,Yes,85 ,Mason Mount,Chelsea,Penalty
 a6ff9cf9,Yes,90+1 ,Mason Mount,Chelsea,Normal
 a6ff9cf9,No,65,Ben Gibson,Norwich City,Normal
 ac95a75a,Yes,23 ,Thomas Partey,Arsenal,Normal
@@ -3097,8 +2849,6 @@ ac95a75a,No,82,Jacob Ramsey,Aston Villa,Normal
 0f3a1892,No,50,Christian Benteke,Crystal Palace,Normal
 0f3a1892,No,73,Odsonne Édouard,Crystal Palace,Normal
 4bd69343,Yes,2 ,Callum Wilson,Newcastle United,Normal
-4bd69343,Yes,83 ,Jonjo Shelvey,Newcastle United,Normal
-4bd69343,Yes,89 ,Eric Dier,Newcastle United,Own Goal
 4bd69343,No,17,Tanguy Ndombele,Tottenham Hotspur,Normal
 4bd69343,No,22,Harry Kane,Tottenham Hotspur,Normal
 4bd69343,No,45+4,Son Heung-min,Tottenham Hotspur,Normal
@@ -3135,7 +2885,6 @@ b06fd537,Yes,72 ,Jeffrey Schlupp,Crystal Palace,Normal
 b06fd537,No,31,Kelechi Iheanacho,Leicester City,Normal
 b06fd537,No,37,Jamie Vardy,Leicester City,Normal
 7bb0a43c,Yes,27 ,Pierre Højbjerg,Tottenham Hotspur,Normal
-7bb0a43c,Yes,71 ,Matt Targett,Tottenham Hotspur,Own Goal
 7bb0a43c,No,67,Ollie Watkins,Aston Villa,Normal
 be9d8a45,Yes,18 ,Diego Llorente,Leeds United,Normal
 a6466617,Yes,9 ,Trevoh Chalobah,Chelsea,Normal
@@ -3148,7 +2897,6 @@ a6466617,No,77,James Ward-Prowse,Southampton,Normal
 00dcbdaa,No,41,Jeff Hendrick,Newcastle United,Normal
 2129c7e9,Yes,43 ,Anthony Martial,Manchester United,Normal
 2129c7e9,No,65,Andros Townsend,Everton,Normal
-3d7659fc,Yes,45+2 ,Wilfried Zaha,Crystal Palace,Penalty
 3d7659fc,No,90+5,Neal Maupay,Brighton & Hove Albion,Normal
 a2c07e97,Yes,12 ,Emile Smith Rowe,Arsenal,Normal
 a2c07e97,Yes,27 ,Pierre-Emerick Aubameyang,Arsenal,Normal
@@ -3161,7 +2909,6 @@ d99f984c,No,61,Raúl Jiménez,Wolverhampton Wanderers,Normal
 87140543,No,31,Diogo Jota,Liverpool,Normal
 87140543,No,54,Mohamed Salah,Liverpool,Normal
 87140543,No,67,Curtis Jones,Liverpool,Normal
-d516ccbf,Yes,29 ,Andros Townsend,Everton,Penalty
 d516ccbf,Yes,77 ,Abdoulaye Doucouré,Everton,Normal
 70fda3e9,Yes,72 ,Ismaila Sarr,Watford,Normal
 70fda3e9,No,23,Sean Longstaff,Newcastle United,Normal
@@ -3177,14 +2924,12 @@ fc59faf7,No,53,Gabriel Jesus,Manchester City,Normal
 eaf98461,No,49,Thiago Silva,Chelsea,Normal
 eaf98461,No,57,N'Golo Kanté,Chelsea,Normal
 eaf98461,No,90+2,Antonio Rüdiger,Chelsea,Normal
-723f5105,Yes,35 ,Neal Maupay,Brighton & Hove Albion,Penalty
 723f5105,Yes,50 ,Danny Welbeck,Brighton & Hove Albion,Normal
 723f5105,No,61,Jamie Vardy,Leicester City,Normal
 2daea068,Yes,30 ,Saïd Benrahma,West Ham United,Normal
 2daea068,No,35,Cristiano Ronaldo,Manchester United,Normal
 2daea068,No,89,Jesse Lingard,Manchester United,Normal
 57323feb,Yes,66 ,Matty Cash,Aston Villa,Normal
-57323feb,Yes,69 ,Lucas Digne,Aston Villa,Own Goal
 57323feb,Yes,75 ,Leon Bailey,Aston Villa,Normal
 a427debc,No,30,Martin Ødegaard,Arsenal,Normal
 835fa19c,Yes,35 ,Teemu Pukki,Norwich City,Normal
@@ -3203,7 +2948,6 @@ aad7d38a,No,13,Raphinha,Leeds United,Normal
 668b2f97,Yes,65 ,Andros Townsend,Everton,Normal
 668b2f97,Yes,66 ,Demarai Gray,Everton,Normal
 668b2f97,No,53,Ben Mee,Burnley,Normal
-e6a245be,Yes,60 ,Pascal Struijk,Leeds United,Normal
 e6a245be,No,20,Mohamed Salah,Liverpool,Normal
 e6a245be,No,50,Fabinho,Liverpool,Normal
 e6a245be,No,90+2,Sadio Mané,Liverpool,Normal
@@ -3221,7 +2965,6 @@ ddff1858,No,90+5,Michail Antonio,West Ham United,Normal
 19a03697,No,90,Leandro Trossard,Brighton & Hove Albion,Normal
 09db0909,No,74,Francisco Sierralta,Wolverhampton Wanderers,Own Goal
 09db0909,No,83,Hwang Hee-chan,Wolverhampton Wanderers,Normal
-17e86f90,Yes,76 ,Wilfried Zaha,Crystal Palace,Penalty
 17e86f90,Yes,84 ,Odsonne Édouard,Crystal Palace,Normal
 17e86f90,Yes,90+2 ,Odsonne Édouard,Crystal Palace,Normal
 17e86f90,No,58,Japhet Tanganga,Tottenham Hotspur,Normal
@@ -3229,7 +2972,6 @@ ddff1858,No,90+5,Michail Antonio,West Ham United,Normal
 3cd9a733,Yes,42 ,Son Heung-min,Tottenham Hotspur,Normal
 2e5db698,Yes,61 ,Chris Wood,Burnley,Normal
 2e5db698,No,86,Patrick Bamford,Leeds United,Normal
-78aa75e6,Yes,45+5 ,Mohamed Salah,Liverpool,Penalty
 78aa75e6,No,22,Kai Havertz,Chelsea,Normal
 78aa75e6,No,45+3,Reece James,Chelsea,Normal
 ec8b667a,No,41,Demarai Gray,Everton,Normal
@@ -3244,7 +2986,6 @@ a08ef96c,No,7,Ivan Toney,Brentford,Normal
 8e017435,Yes,68 ,Michail Antonio,West Ham United,Normal
 8e017435,No,58,Conor Gallagher,Crystal Palace,Normal
 8e017435,No,70,Conor Gallagher,Crystal Palace,Normal
-78c685cc,Yes,44 ,Teemu Pukki,Norwich City,Penalty
 78c685cc,No,8,Jamie Vardy,Leicester City,Normal
 78c685cc,No,76,Marc Albrighton,Leicester City,Normal
 d4650aa2,Yes,7 ,İlkay Gündoğan,Manchester City,Normal
@@ -3261,7 +3002,6 @@ d4650aa2,No,35,Granit Xhaka,Arsenal,Normal
 1d07228e,No,69,Youri Tielemans,Leicester City,Normal
 93954213,No,15,Romelu Lukaku,Chelsea,Normal
 93954213,No,35,Reece James,Chelsea,Normal
-345b3989,Yes,30 ,Fred,Southampton,Own Goal
 345b3989,No,55,Mason Greenwood,Manchester United,Normal
 26ceb3c9,No,9,Dele Alli,Tottenham Hotspur,Penalty
 072af2f8,Yes,10 ,Shane Duffy,Brighton & Hove Albion,Normal
@@ -3270,13 +3010,11 @@ b9064680,Yes,41 ,Mateusz Klich,Leeds United,Normal
 b9064680,Yes,72 ,Raphinha,Leeds United,Normal
 b9064680,No,30,Dominic Calvert-Lewin,Everton,Penalty
 b9064680,No,50,Demarai Gray,Everton,Normal
-ab6db0d6,Yes,7 ,Tim Krul,Manchester City,Own Goal
 ab6db0d6,Yes,22 ,Jack Grealish,Manchester City,Normal
 ab6db0d6,Yes,64 ,Aymeric Laporte,Manchester City,Normal
 ab6db0d6,Yes,71 ,Raheem Sterling,Manchester City,Normal
 ab6db0d6,Yes,84 ,Riyad Mahrez,Manchester City,Normal
 662d4074,Yes,45+3 ,Danny Ings,Aston Villa,Normal
-662d4074,Yes,62 ,Anwar El Ghazi,Aston Villa,Penalty
 94d9dac0,Yes,18 ,Diogo Jota,Liverpool,Normal
 94d9dac0,Yes,69 ,Sadio Mané,Liverpool,Normal
 ff51efc7,Yes,55 ,Son Heung-min,Tottenham Hotspur,Normal
@@ -3319,7 +3057,6 @@ c2fc07f0,Yes,74 ,Sadio Mané,Liverpool,Normal
 9f6c52f8,Yes,60 ,Nicolas Pépé,Arsenal,Normal
 9ade2b5d,Yes,17 ,Rodrigo,Leeds United,Normal
 9ade2b5d,Yes,42 ,Kalvin Phillips,Leeds United,Normal
-9ade2b5d,Yes,79 ,Patrick Bamford,Leeds United,Penalty
 9ade2b5d,No,90,Hal Robson-Kanu,West Bromwich Albion,Normal
 50ec33b2,Yes,30 ,Pablo Fornals,West Ham United,Normal
 50ec33b2,Yes,33 ,Pablo Fornals,West Ham United,Normal
@@ -3333,14 +3070,11 @@ c2fc07f0,Yes,74 ,Sadio Mané,Liverpool,Normal
 12d3970f,Yes,53 ,Phil Foden,Manchester City,Normal
 12d3970f,Yes,71 ,Sergio Agüero,Manchester City,Normal
 12d3970f,Yes,76 ,Sergio Agüero,Manchester City,Normal
-0d04cd74,Yes,18 ,Jamie Vardy,Leicester City,Penalty
-0d04cd74,Yes,52 ,Jamie Vardy,Leicester City,Penalty
 0d04cd74,No,41,Harry Kane,Tottenham Hotspur,Normal
 0d04cd74,No,76,Kasper Schmeichel,Tottenham Hotspur,Own Goal
 0d04cd74,No,87,Gareth Bale,Tottenham Hotspur,Normal
 0d04cd74,No,90+6,Gareth Bale,Tottenham Hotspur,Normal
 0143966a,Yes,43 ,Bertrand Traoré,Aston Villa,Normal
-0143966a,Yes,52 ,Anwar El Ghazi,Aston Villa,Penalty
 0143966a,No,70,Ben Chilwell,Chelsea,Normal
 0143966a,No,89,César Azpilicueta,Chelsea,Normal
 88927a77,Yes,27 ,Matheus Pereira,West Bromwich Albion,Normal
@@ -3360,7 +3094,6 @@ d4273555,No,20,Sergio Reguilón,Aston Villa,Own Goal
 d4273555,No,39,Ollie Watkins,Aston Villa,Normal
 62adcd41,Yes,45+4 ,Joe Willock,Newcastle United,Normal
 509c9927,Yes,47 ,Antonio Rüdiger,Chelsea,Normal
-509c9927,Yes,66 ,Jorginho,Chelsea,Penalty
 509c9927,No,76,Kelechi Iheanacho,Leicester City,Normal
 3b1cd656,Yes,50 ,Leandro Trossard,Brighton & Hove Albion,Normal
 3b1cd656,Yes,72 ,Adam Webster,Brighton & Hove Albion,Normal
@@ -3394,7 +3127,6 @@ d8018048,No,76,Joe Bryan,Fulham,Normal
 18d42916,No,77,Rodrigo,Leeds United,Normal
 18d42916,No,79,Rodrigo,Leeds United,Normal
 27601c16,Yes,25 ,Emil Krafth,Newcastle United,Normal
-27601c16,Yes,45+6 ,Joelinton,Newcastle United,Penalty
 27601c16,Yes,62 ,Joe Willock,Newcastle United,Normal
 27601c16,No,39,João Cancelo,Manchester City,Normal
 27601c16,No,42,Ferrán Torres,Manchester City,Normal
@@ -3422,7 +3154,6 @@ d8018048,No,76,Joe Bryan,Fulham,Normal
 49369ed5,No,67,Matheus Pereira,West Bromwich Albion,Normal
 57632a35,No,24,Dominic Calvert-Lewin,Everton,Normal
 c80d17ca,Yes,24 ,Bertrand Traoré,Aston Villa,Normal
-c80d17ca,Yes,89 ,Ollie Watkins,Aston Villa,Normal
 c80d17ca,No,52,Bruno Fernandes,Manchester United,Penalty
 c80d17ca,No,56,Mason Greenwood,Manchester United,Normal
 c80d17ca,No,87,Edinson Cavani,Manchester United,Normal
@@ -3448,7 +3179,6 @@ d93b0c17,No,22,Joe Willock,Newcastle United,Normal
 d93b0c17,No,34,Paul Dummett,Newcastle United,Normal
 d93b0c17,No,64,Callum Wilson,Newcastle United,Normal
 d93b0c17,No,73,Callum Wilson,Newcastle United,Normal
-a89e62a7,Yes,19 ,Chris Wood,Burnley,Penalty
 a89e62a7,No,21,Michail Antonio,West Ham United,Normal
 a89e62a7,No,29,Michail Antonio,West Ham United,Normal
 378a8a95,Yes,62 ,Mbaye Diagne,West Bromwich Albion,Normal
@@ -3457,7 +3187,6 @@ a89e62a7,No,29,Michail Antonio,West Ham United,Normal
 8b2e31ef,Yes,61 ,Gareth Bale,Tottenham Hotspur,Normal
 8b2e31ef,Yes,69 ,Gareth Bale,Tottenham Hotspur,Normal
 8b2e31ef,Yes,77 ,Son Heung-min,Tottenham Hotspur,Normal
-af2c27de,Yes,90 ,Fabian Schär,Newcastle United,Normal
 af2c27de,No,5,Mohamed Elneny,Arsenal,Normal
 af2c27de,No,66,Pierre-Emerick Aubameyang,Arsenal,Normal
 2452619d,Yes,19 ,Dominic Calvert-Lewin,Everton,Normal
@@ -3465,17 +3194,13 @@ af2c27de,No,66,Pierre-Emerick Aubameyang,Arsenal,Normal
 2452619d,No,80,Anwar El Ghazi,Aston Villa,Normal
 44d49bd5,Yes,10 ,Kai Havertz,Chelsea,Normal
 44d49bd5,Yes,49 ,Kai Havertz,Chelsea,Normal
-1e2ba709,Yes,14 ,Pascal Groß,Brighton & Hove Albion,Penalty
 1e2ba709,Yes,79 ,Danny Welbeck,Brighton & Hove Albion,Normal
 bf22075a,No,57,Sergio Agüero,Manchester City,Normal
 bf22075a,No,59,Ferrán Torres,Manchester City,Normal
-c0d4f879,Yes,10 ,Jannik Vestergaard,Southampton,Normal
-c0d4f879,Yes,61 ,James Ward-Prowse,Southampton,Penalty
 c0d4f879,No,68,Jonny Evans,Leicester City,Normal
 b30b8887,Yes,50 ,Timothy Castagne,Leicester City,Normal
 b30b8887,Yes,80 ,Kelechi Iheanacho,Leicester City,Normal
 b30b8887,No,12,Wilfried Zaha,Crystal Palace,Normal
-2ab535fa,Yes,9 ,Anwar El Ghazi,Aston Villa,Penalty
 2ab535fa,Yes,90+2 ,Keinan Davis,Aston Villa,Normal
 2ab535fa,No,23,Matheus Pereira,West Bromwich Albion,Penalty
 2ab535fa,No,47,Tyrone Mings,West Bromwich Albion,Own Goal
@@ -3484,7 +3209,6 @@ b30b8887,No,12,Wilfried Zaha,Crystal Palace,Normal
 5656770f,No,44,Chris Wood,Burnley,Normal
 5656770f,No,85,Ashley Westwood,Burnley,Normal
 1ef0a8f2,Yes,19 ,David McGoldrick,Sheffield United,Normal
-ea1579bb,Yes,81 ,Fabián Balbuena,West Ham United,Normal
 ea1579bb,No,43,Timo Werner,Chelsea,Normal
 81e8aaf4,Yes,3 ,Mohamed Salah,Liverpool,Normal
 81e8aaf4,No,90+5,Joe Willock,Newcastle United,Normal
@@ -3493,12 +3217,10 @@ be6edfdf,Yes,23 ,Jamie Vardy,Leicester City,Normal
 be6edfdf,Yes,26 ,Jonny Evans,Leicester City,Normal
 be6edfdf,Yes,36 ,Kelechi Iheanacho,Leicester City,Normal
 ac46a079,Yes,1 ,John McGinn,Aston Villa,Normal
-ac46a079,Yes,57 ,Matty Cash,Aston Villa,Normal
 ac46a079,No,22,Phil Foden,Manchester City,Normal
 ac46a079,No,40,Rodri,Manchester City,Normal
 ac46a079,No,44,John Stones,Manchester City,Normal
 81a7befa,Yes,60 ,Gareth Bale,Tottenham Hotspur,Normal
-81a7befa,Yes,90 ,Son Heung-min,Tottenham Hotspur,Penalty
 81a7befa,No,30,Danny Ings,Southampton,Normal
 07b4e58b,No,90+2,Ben White,Brighton & Hove Albion,Normal
 6c0666e6,Yes,87 ,Diego Llorente,Leeds United,Normal
@@ -3510,17 +3232,14 @@ ac46a079,No,44,John Stones,Manchester City,Normal
 a19ff865,Yes,90+7 ,Eddie Nketiah,Arsenal,Normal
 a19ff865,No,59,Josh Maja,Fulham,Penalty
 07745ff2,Yes,59 ,Willian José,Wolverhampton Wanderers,Normal
-25a3b695,Yes,36 ,Issa Diop,Newcastle United,Own Goal
 25a3b695,Yes,41 ,Joelinton,Newcastle United,Normal
 25a3b695,Yes,82 ,Joe Willock,Newcastle United,Normal
 25a3b695,No,36,Craig Dawson,West Ham United,Normal
 25a3b695,No,73,Issa Diop,West Ham United,Normal
 25a3b695,No,80,Jesse Lingard,West Ham United,Penalty
-ebeb462d,Yes,31 ,Gylfi Sigurðsson,Everton,Penalty
 ebeb462d,Yes,62 ,Gylfi Sigurðsson,Everton,Normal
 ebeb462d,No,27,Harry Kane,Tottenham Hotspur,Normal
 ebeb462d,No,68,Harry Kane,Tottenham Hotspur,Normal
-3dee3681,Yes,32 ,Matheus Pereira,West Bromwich Albion,Penalty
 3dee3681,Yes,35 ,Matt Phillips,West Bromwich Albion,Normal
 3dee3681,Yes,69 ,Callum Robinson,West Bromwich Albion,Normal
 34395b54,No,33,Alexandre Lacazette,Arsenal,Normal
@@ -3580,10 +3299,8 @@ a2d96ab5,No,61,Aleksandar Mitrović,Fulham,Normal
 d798017f,No,58,Benjamin Mendy,Manchester City,Normal
 d798017f,No,74,Gabriel Jesus,Manchester City,Normal
 c4ed64b9,Yes,12 ,Jack Harrison,Leeds United,Normal
-c4ed64b9,Yes,49 ,Phil Jagielka,Leeds United,Own Goal
 c4ed64b9,No,45+2,Ben Osborn,Sheffield United,Normal
 c5d6a493,Yes,27 ,Christian Pulisic,Chelsea,Normal
-c5d6a493,Yes,29 ,Thiago Silva,Chelsea,Normal
 c5d6a493,Yes,71 ,Mason Mount,Chelsea,Normal
 c5d6a493,No,45+2,Matheus Pereira,West Bromwich Albion,Normal
 c5d6a493,No,45+4,Matheus Pereira,West Bromwich Albion,Normal
@@ -3605,16 +3322,13 @@ c592a3d7,No,82,Alexandre Lacazette,Arsenal,Normal
 05e3dd18,No,29,Patrick Bamford,Leeds United,Normal
 05e3dd18,No,58,Raphinha,Leeds United,Normal
 ad3063c2,No,45+2,Diogo Jota,Liverpool,Normal
-05c95367,Yes,53 ,Craig Dawson,Manchester United,Own Goal
 127b8258,Yes,44 ,Martin Ødegaard,Arsenal,Normal
-127b8258,Yes,64 ,Alexandre Lacazette,Arsenal,Penalty
 127b8258,No,33,Érik Lamela,Tottenham Hotspur,Normal
 127b8258,No,76,Érik Lamela,Tottenham Hotspur,Normal
 d3bc5214,Yes,39 ,Kelechi Iheanacho,Leicester City,Normal
 d3bc5214,Yes,64 ,Ayoze Pérez,Leicester City,Normal
 d3bc5214,Yes,69 ,Kelechi Iheanacho,Leicester City,Normal
 d3bc5214,Yes,78 ,Kelechi Iheanacho,Leicester City,Normal
-d3bc5214,Yes,80 ,Ethan Ampadu,Leicester City,Own Goal
 b40eb9c6,Yes,27 ,Che Adams,Southampton,Normal
 b40eb9c6,No,16,Lewis Dunk,Brighton & Hove Albion,Normal
 b40eb9c6,No,56,Leandro Trossard,Brighton & Hove Albion,Normal
@@ -3624,7 +3338,6 @@ b40eb9c6,No,56,Leandro Trossard,Brighton & Hove Albion,Normal
 91cce376,Yes,32 ,Dominic Calvert-Lewin,Everton,Normal
 91cce376,No,13,Chris Wood,Burnley,Normal
 91cce376,No,24,Dwight McNeil,Burnley,Normal
-29954372,Yes,37 ,Luka Milivojević,Crystal Palace,Penalty
 5ac8e391,Yes,90+4 ,Jamaal Lascelles,Newcastle United,Normal
 5ac8e391,No,86,Ciaran Clark,Aston Villa,Own Goal
 ba04db4f,Yes,15 ,Kevin De Bruyne,Manchester City,Normal
@@ -3636,8 +3349,6 @@ ba04db4f,No,25,James Ward-Prowse,Southampton,Penalty
 ba04db4f,No,56,Che Adams,Southampton,Normal
 c3b4d1ba,Yes,21 ,Jesse Lingard,West Ham United,Normal
 c3b4d1ba,Yes,28 ,Craig Dawson,West Ham United,Normal
-7e4a240e,Yes,31 ,Ben Godfrey,Chelsea,Own Goal
-7e4a240e,Yes,65 ,Jorginho,Chelsea,Penalty
 330fc75f,Yes,25 ,Gareth Bale,Tottenham Hotspur,Normal
 330fc75f,Yes,49 ,Gareth Bale,Tottenham Hotspur,Normal
 330fc75f,Yes,52 ,Harry Kane,Tottenham Hotspur,Normal
@@ -3659,8 +3370,6 @@ ee055741,No,65,Richarlison,Everton,Normal
 5e1c69aa,Yes,4 ,Matěj Vydra,Burnley,Normal
 5e1c69aa,No,34,Kelechi Iheanacho,Leicester City,Normal
 3a9c1c4d,Yes,30 ,David McGoldrick,Sheffield United,Normal
-3a9c1c4d,Yes,57 ,Phil Jagielka,Sheffield United,Normal
-7145e0a8,Yes,15 ,Leander Dendoncker,Manchester City,Own Goal
 7145e0a8,Yes,80 ,Gabriel Jesus,Manchester City,Normal
 7145e0a8,Yes,90 ,Riyad Mahrez,Manchester City,Normal
 7145e0a8,Yes,90+3 ,Gabriel Jesus,Manchester City,Normal
@@ -3691,7 +3400,6 @@ ff18265a,Yes,11 ,Kyle Bartley,West Bromwich Albion,Normal
 86f378b6,No,90+5,Christian Benteke,Crystal Palace,Normal
 401e0d48,Yes,30 ,Marcus Rashford,Manchester United,Normal
 401e0d48,Yes,57 ,Daniel James,Manchester United,Normal
-401e0d48,Yes,75 ,Bruno Fernandes,Manchester United,Penalty
 401e0d48,No,36,Allan Saint-Maximin,Newcastle United,Normal
 2dedf408,No,2,Raheem Sterling,Manchester City,Normal
 2c6f8c0e,Yes,48 ,Bertrand Traoré,Aston Villa,Normal
@@ -3706,7 +3414,6 @@ e4ac45fb,No,83,Gylfi Sigurðsson,Everton,Penalty
 072e8501,No,30,Semi Ajayi,West Bromwich Albion,Normal
 9e4c8c99,Yes,33 ,Takumi Minamino,Southampton,Normal
 9e4c8c99,No,54,Mason Mount,Chelsea,Penalty
-ae2d6f15,Yes,64 ,Illan Meslier,Wolverhampton Wanderers,Own Goal
 78270b8a,Yes,37 ,Richarlison,Everton,Normal
 78270b8a,No,32,Phil Foden,Manchester City,Normal
 78270b8a,No,63,Riyad Mahrez,Manchester City,Normal
@@ -3715,13 +3422,11 @@ ae2d6f15,Yes,64 ,Illan Meslier,Wolverhampton Wanderers,Own Goal
 6285d050,No,49,Ola Aina,Fulham,Normal
 dd033287,Yes,31 ,Olivier Giroud,Chelsea,Normal
 dd033287,Yes,39 ,Timo Werner,Chelsea,Normal
-d6167896,Yes,41 ,Declan Rice,West Ham United,Penalty
 d6167896,Yes,58 ,Issa Diop,West Ham United,Normal
 d6167896,Yes,90+6 ,Ryan Fredericks,West Ham United,Normal
 46f84386,No,48,Josh Maja,Fulham,Normal
 46f84386,No,65,Josh Maja,Fulham,Normal
 85624e5e,Yes,13 ,Pierre-Emerick Aubameyang,Arsenal,Normal
-85624e5e,Yes,41 ,Pierre-Emerick Aubameyang,Arsenal,Penalty
 85624e5e,Yes,45 ,Héctor Bellerín,Arsenal,Normal
 85624e5e,Yes,47 ,Pierre-Emerick Aubameyang,Arsenal,Normal
 85624e5e,No,58,Pascal Struijk,Leeds United,Normal
@@ -3731,7 +3436,6 @@ d6167896,Yes,90+6 ,Ryan Fredericks,West Ham United,Normal
 34682a95,Yes,25 ,Danny Ings,Southampton,Normal
 34682a95,No,53,Rúben Neves,Wolverhampton Wanderers,Penalty
 34682a95,No,66,Pedro Neto,Wolverhampton Wanderers,Normal
-5d0cd646,Yes,23 ,Rodri,Manchester City,Penalty
 5d0cd646,Yes,50 ,İlkay Gündoğan,Manchester City,Normal
 5d0cd646,Yes,66 ,İlkay Gündoğan,Manchester City,Normal
 34a4b546,No,5,Jóhann Berg Guðmundsson,Burnley,Normal
@@ -3743,10 +3447,8 @@ d6167896,Yes,90+6 ,Ryan Fredericks,West Ham United,Normal
 666f6961,No,67,Mohamed Salah,Liverpool,Normal
 ff2cee2b,Yes,3 ,Jack Harrison,Leeds United,Normal
 ff2cee2b,Yes,52 ,Patrick Bamford,Leeds United,Normal
-d3467620,Yes,54 ,Antonio Rüdiger,Sheffield United,Own Goal
 d3467620,No,43,Mason Mount,Chelsea,Normal
 d3467620,No,58,Jorginho,Chelsea,Penalty
-e044d71d,Yes,63 ,Mohamed Salah,Liverpool,Penalty
 e044d71d,No,49,İlkay Gündoğan,Manchester City,Normal
 e044d71d,No,73,İlkay Gündoğan,Manchester City,Normal
 e044d71d,No,76,Raheem Sterling,Manchester City,Normal
@@ -3763,7 +3465,6 @@ d18e21ab,No,90+7,Tomáš Souček,West Ham United,Normal
 5313627a,Yes,16 ,Joe Willock,Newcastle United,Normal
 5313627a,Yes,26 ,Miguel Almirón,Newcastle United,Normal
 5313627a,Yes,45+4 ,Miguel Almirón,Newcastle United,Normal
-5313627a,Yes,50 ,Jeff Hendrick,Newcastle United,Normal
 5313627a,No,30,Takumi Minamino,Southampton,Normal
 5313627a,No,48,James Ward-Prowse,Southampton,Normal
 4400251e,Yes,53 ,Jóhann Berg Guðmundsson,Burnley,Normal
@@ -3787,16 +3488,13 @@ ca8297c0,No,21,Jaïro Riedewald,Crystal Palace,Normal
 ca8297c0,No,25,Gary Cahill,Crystal Palace,Normal
 37a9f2fd,Yes,18 ,Aaron Wan-Bissaka,Manchester United,Normal
 37a9f2fd,Yes,25 ,Marcus Rashford,Manchester United,Normal
-37a9f2fd,Yes,34 ,Jan Bednarek,Manchester United,Own Goal
 37a9f2fd,Yes,39 ,Edinson Cavani,Manchester United,Normal
 37a9f2fd,Yes,69 ,Anthony Martial,Manchester United,Normal
 37a9f2fd,Yes,71 ,Scott McTominay,Manchester United,Normal
-37a9f2fd,Yes,87 ,Bruno Fernandes,Manchester United,Penalty
 37a9f2fd,Yes,90 ,Anthony Martial,Manchester United,Normal
 37a9f2fd,Yes,90+3 ,Daniel James,Manchester United,Normal
 37a9f2fd,No,2,Alexandre Jankewitz,Southampton,Normal
 37a9f2fd,No,86,Jan Bednarek,Southampton,Normal
-558fa672,Yes,45+5 ,Rúben Neves,Wolverhampton Wanderers,Penalty
 558fa672,Yes,49 ,João Moutinho,Wolverhampton Wanderers,Normal
 558fa672,No,32,Nicolas Pépé,Arsenal,Normal
 558fa672,No,45+3,David Luiz,Arsenal,Normal
@@ -3862,7 +3560,6 @@ b2143993,Yes,42 ,Bertrand Traoré,Aston Villa,Normal
 2a3855db,No,21,Edinson Cavani,Manchester United,Normal
 2a3855db,No,65,Paul Pogba,Manchester United,Normal
 c9710420,Yes,79 ,Bernardo Silva,Manchester City,Normal
-c9710420,Yes,90 ,İlkay Gündoğan,Manchester City,Penalty
 8467b110,Yes,6 ,Wilfred Ndidi,Leicester City,Normal
 8467b110,Yes,41 ,James Maddison,Leicester City,Normal
 42daddbb,Yes,45+1 ,Jarrod Bowen,West Ham United,Normal
@@ -3881,7 +3578,6 @@ c52b1c4f,No,40,Harry Kane,Tottenham Hotspur,Normal
 c52b1c4f,No,62,Tanguy Ndombele,Tottenham Hotspur,Normal
 85d4ec49,Yes,37 ,James Maddison,Leicester City,Normal
 85d4ec49,Yes,90+5 ,Harvey Barnes,Leicester City,Normal
-714c642d,Yes,44 ,Antonee Robinson,Fulham,Normal
 714c642d,No,78,Mason Mount,Chelsea,Normal
 ade7aac2,No,17,Neal Maupay,Brighton & Hove Albion,Normal
 1b06e352,Yes,9 ,Michail Antonio,West Ham United,Normal
@@ -3897,7 +3593,6 @@ fcad17a1,No,74,Ivan Cavaleiro,Fulham,Normal
 8cbb9119,No,6,Alex Iwobi,Everton,Normal
 8cbb9119,No,77,Michael Keane,Everton,Normal
 2c8aa556,No,71,Paul Pogba,Manchester United,Normal
-18ccfdb9,Yes,73 ,Billy Sharp,Sheffield United,Penalty
 18ccfdb9,No,45,Ryan Fraser,Newcastle United,Normal
 d0482032,Yes,2 ,Danny Ings,Southampton,Normal
 85507602,Yes,90+2 ,Callum Hudson-Odoi,Chelsea,Normal
@@ -3912,19 +3607,15 @@ a56531b0,No,28,Bukayo Saka,Arsenal,Normal
 a56531b0,No,60,Alexandre Lacazette,Arsenal,Normal
 a56531b0,No,64,Alexandre Lacazette,Arsenal,Normal
 abeb80b7,Yes,13 ,Aaron Connolly,Brighton & Hove Albion,Normal
-abeb80b7,Yes,46 ,Neal Maupay,Brighton & Hove Albion,Penalty
 abeb80b7,Yes,70 ,Lewis Dunk,Brighton & Hove Albion,Normal
 abeb80b7,No,19,Romain Saïss,Wolverhampton Wanderers,Normal
 abeb80b7,No,34,Dan Burn,Wolverhampton Wanderers,Own Goal
 abeb80b7,No,44,Rúben Neves,Wolverhampton Wanderers,Penalty
 84a373f5,Yes,4 ,Jeffrey Schlupp,Crystal Palace,Normal
 84a373f5,Yes,45+6 ,Eberechi Eze,Crystal Palace,Normal
-93463aad,Yes,29 ,Harry Kane,Tottenham Hotspur,Penalty
 93463aad,Yes,43 ,Son Heung-min,Tottenham Hotspur,Normal
 93463aad,Yes,50 ,Toby Alderweireld,Tottenham Hotspur,Normal
-93463aad,Yes,90+2 ,Matt Doherty,Tottenham Hotspur,Normal
 0ae3a66d,Yes,40 ,Anthony Martial,Manchester United,Normal
-0ae3a66d,Yes,61 ,Bruno Fernandes,Manchester United,Penalty
 0ae3a66d,No,58,Bertrand Traoré,Aston Villa,Normal
 0cd189c5,No,86,Tomáš Souček,West Ham United,Normal
 a8d659e4,Yes,90+3 ,Marcus Rashford,Manchester United,Normal
@@ -3947,20 +3638,16 @@ daa09f69,No,82,Semi Ajayi,West Bromwich Albion,Normal
 7ba8c6e9,Yes,82 ,Tomáš Souček,West Ham United,Normal
 7ba8c6e9,No,44,Neal Maupay,Brighton & Hove Albion,Normal
 7ba8c6e9,No,70,Lewis Dunk,Brighton & Hove Albion,Normal
-d54f6293,Yes,5 ,Patrick Bamford,Leeds United,Penalty
 c1c40b30,Yes,14 ,İlkay Gündoğan,Manchester City,Normal
 c1c40b30,Yes,55 ,Ferrán Torres,Manchester City,Normal
 870d9436,No,80,Gylfi Sigurðsson,Everton,Normal
-c5de8a0c,Yes,34 ,Alexandre Lacazette,Arsenal,Penalty
 c5de8a0c,Yes,44 ,Granit Xhaka,Arsenal,Normal
 c5de8a0c,Yes,56 ,Bukayo Saka,Arsenal,Normal
 c5de8a0c,No,85,Tammy Abraham,Chelsea,Normal
 537b6ef8,Yes,5 ,Bertrand Traoré,Aston Villa,Normal
-537b6ef8,Yes,45 ,Tyrone Mings,Aston Villa,Normal
 537b6ef8,Yes,66 ,Kortney Hause,Aston Villa,Normal
 537b6ef8,Yes,76 ,Anwar El Ghazi,Aston Villa,Normal
 33c8b5c8,Yes,31 ,Harvey Barnes,Leicester City,Normal
-33c8b5c8,Yes,85 ,Axel Tuanzebe,Leicester City,Own Goal
 33c8b5c8,No,23,Marcus Rashford,Manchester United,Normal
 33c8b5c8,No,79,Bruno Fernandes,Manchester United,Normal
 9a718e42,Yes,10 ,Thiago Silva,Chelsea,Normal
@@ -3969,7 +3656,6 @@ c5de8a0c,No,85,Tammy Abraham,Chelsea,Normal
 4e106790,Yes,35 ,Ashley Barnes,Burnley,Normal
 4e106790,Yes,51 ,Chris Wood,Burnley,Normal
 4e106790,No,89,Fábio Silva,Wolverhampton Wanderers,Penalty
-4bbe55ff,Yes,36 ,Jake Livermore,West Bromwich Albion,Normal
 4bbe55ff,No,5,Anwar El Ghazi,Aston Villa,Normal
 4bbe55ff,No,84,Bertrand Traoré,Aston Villa,Normal
 4bbe55ff,No,88,Anwar El Ghazi,Aston Villa,Penalty
@@ -3978,7 +3664,6 @@ b7ab53b3,Yes,3 ,Scott McTominay,Manchester United,Normal
 b7ab53b3,Yes,20 ,Bruno Fernandes,Manchester United,Normal
 b7ab53b3,Yes,37 ,Victor Lindelöf,Manchester United,Normal
 b7ab53b3,Yes,66 ,Daniel James,Manchester United,Normal
-b7ab53b3,Yes,70 ,Bruno Fernandes,Manchester United,Penalty
 b7ab53b3,No,41,Liam Cooper,Leeds United,Normal
 b7ab53b3,No,73,Stuart Dallas,Leeds United,Normal
 56ffe356,No,45+4,Jamie Vardy,Leicester City,Penalty
@@ -3986,10 +3671,8 @@ b7ab53b3,No,73,Stuart Dallas,Leeds United,Normal
 d1273e90,Yes,87 ,Danny Welbeck,Brighton & Hove Albion,Normal
 d1273e90,No,40,John Lundstram,Sheffield United,Normal
 d1273e90,No,63,Jayden Bogle,Sheffield United,Normal
-3ae84056,Yes,64 ,Callum Wilson,Newcastle United,Penalty
 3ae84056,No,42,Matt Ritchie,Fulham,Own Goal
 3ae84056,No,62,Joachim Andersen,Fulham,Normal
-72fa1993,Yes,22 ,Rob Holding,Everton,Own Goal
 72fa1993,Yes,45 ,Yerry Mina,Everton,Normal
 72fa1993,No,35,Nicolas Pépé,Arsenal,Penalty
 8d4a02ae,No,16,Raheem Sterling,Manchester City,Normal
@@ -4021,14 +3704,12 @@ b52c441b,No,65,Ciaran Clark,Newcastle United,Normal
 b30c816c,No,21,Richarlison,Everton,Normal
 b30c816c,No,72,Mason Holgate,Everton,Normal
 0ceceee4,Yes,52 ,Pierre-Emerick Aubameyang,Arsenal,Normal
-0ceceee4,Yes,62 ,Gabriel Dos Santos,Arsenal,Normal
 0ceceee4,No,18,Theo Walcott,Southampton,Normal
 40b42ca1,Yes,30 ,İlkay Gündoğan,Manchester City,Normal
 40b42ca1,No,43,Rúben Dias,West Bromwich Albion,Own Goal
 20bd0665,Yes,66 ,Daniel Podence,Wolverhampton Wanderers,Normal
 20bd0665,Yes,90+5 ,Pedro Neto,Wolverhampton Wanderers,Normal
 20bd0665,No,49,Olivier Giroud,Chelsea,Normal
-e4dc55d0,Yes,58 ,Granit Xhaka,Arsenal,Normal
 e4dc55d0,No,73,Pierre-Emerick Aubameyang,Burnley,Own Goal
 964e6470,Yes,27 ,James Maddison,Leicester City,Normal
 964e6470,Yes,41 ,Jamie Vardy,Leicester City,Normal
@@ -4040,30 +3721,24 @@ e4dc55d0,No,73,Pierre-Emerick Aubameyang,Burnley,Own Goal
 9bec56c6,Yes,34 ,Che Adams,Southampton,Normal
 9bec56c6,Yes,62 ,Stuart Armstrong,Southampton,Normal
 9bec56c6,Yes,83 ,Nathan Redmond,Southampton,Normal
-4847e3c3,Yes,22 ,Gylfi Sigurðsson,Everton,Penalty
 4a2a6f14,Yes,1 ,Miguel Almirón,Newcastle United,Normal
 4a2a6f14,Yes,82 ,Dwight Gayle,Newcastle United,Normal
 4a2a6f14,No,50,Darnell Furlong,West Bromwich Albion,Normal
-f809a014,Yes,90+5 ,João Moutinho,Wolverhampton Wanderers,Normal
 f809a014,No,85,Douglas Luiz,Aston Villa,Normal
 f809a014,No,90+4,Anwar El Ghazi,Aston Villa,Penalty
-2d36ffad,Yes,6 ,Mateusz Klich,Leeds United,Penalty
 2d36ffad,No,25,Tomáš Souček,West Ham United,Normal
 2d36ffad,No,80,Angelo Ogbonna,West Ham United,Normal
-32356abc,Yes,26 ,Pascal Groß,Brighton & Hove Albion,Penalty
 32356abc,No,45,Jannik Vestergaard,Southampton,Normal
 32356abc,No,81,Danny Ings,Southampton,Penalty
 25249736,Yes,24 ,Mohamed Salah,Liverpool,Normal
 25249736,Yes,58 ,Georginio Wijnaldum,Liverpool,Normal
 25249736,Yes,67 ,Joël Matip,Liverpool,Normal
-25249736,Yes,78 ,Nélson Semedo,Liverpool,Own Goal
 35abfa2f,Yes,13 ,Son Heung-min,Tottenham Hotspur,Normal
 35abfa2f,Yes,45+1 ,Harry Kane,Tottenham Hotspur,Normal
 c1c08638,Yes,26 ,Oliver McBurnie,Sheffield United,Normal
 c1c08638,No,24,Ayoze Pérez,Leicester City,Normal
 c1c08638,No,90,Jamie Vardy,Leicester City,Normal
 ac9d70e3,Yes,30 ,Conor Gallagher,West Bromwich Albion,Normal
-ac9d70e3,Yes,34 ,Matheus Pereira,West Bromwich Albion,Normal
 ac9d70e3,No,8,Darnell Furlong,Crystal Palace,Own Goal
 ac9d70e3,No,55,Wilfried Zaha,Crystal Palace,Normal
 ac9d70e3,No,59,Christian Benteke,Crystal Palace,Normal
@@ -4078,7 +3753,6 @@ c2206b97,No,65,Paul Pogba,Manchester United,Normal
 c2206b97,No,68,Mason Greenwood,Manchester United,Normal
 c2206b97,No,78,Marcus Rashford,Manchester United,Normal
 887dfef6,Yes,5 ,Raheem Sterling,Manchester City,Normal
-887dfef6,Yes,26 ,Kevin De Bruyne,Manchester City,Penalty
 399c7e1c,Yes,3 ,Robbie Brady,Burnley,Normal
 399c7e1c,No,45+3,Dominic Calvert-Lewin,Everton,Normal
 2f67603c,Yes,2 ,Angelo Ogbonna,West Ham United,Normal
@@ -4102,14 +3776,12 @@ bd68404c,Yes,13 ,Conor Gallagher,West Bromwich Albion,Normal
 2069ffbc,Yes,41 ,Benjamin Mendy,Manchester City,Normal
 2069ffbc,Yes,66 ,Ferrán Torres,Manchester City,Normal
 2069ffbc,Yes,69 ,Riyad Mahrez,Manchester City,Normal
-31baf354,Yes,90+3 ,Pascal Groß,Brighton & Hove Albion,Penalty
 31baf354,No,60,Diogo Jota,Liverpool,Normal
 0d5962be,No,88,Callum Wilson,Newcastle United,Normal
 0d5962be,No,89,Joelinton,Newcastle United,Normal
 e5bfd125,Yes,75 ,Pedro Neto,Wolverhampton Wanderers,Normal
 e5bfd125,No,58,Theo Walcott,Southampton,Normal
 1dde1d03,Yes,8 ,Chris Wood,Burnley,Normal
-cc230451,Yes,21 ,Jonny Evans,Liverpool,Own Goal
 cc230451,Yes,41 ,Diogo Jota,Liverpool,Normal
 cc230451,Yes,86 ,Roberto Firmino,Liverpool,Normal
 0dd6b39b,No,51,Nicolas Pépé,Arsenal,Normal
@@ -4119,7 +3791,6 @@ cc230451,Yes,86 ,Roberto Firmino,Liverpool,Normal
 13524225,No,1,Dominic Calvert-Lewin,Everton,Normal
 13524225,No,29,Dominic Calvert-Lewin,Everton,Normal
 13524225,No,35,Abdoulaye Doucouré,Everton,Normal
-50004f43,Yes,56 ,Bruno Fernandes,Manchester United,Penalty
 8a038069,Yes,5 ,Son Heung-min,Tottenham Hotspur,Normal
 8a038069,Yes,65 ,Giovani Lo Celso,Tottenham Hotspur,Normal
 dea0df40,Yes,47 ,Ezri Konsa,Aston Villa,Normal
@@ -4133,7 +3804,6 @@ dbcba6c6,No,65,Tammy Abraham,Chelsea,Normal
 90fd3597,No,75,Ollie Watkins,Aston Villa,Normal
 26382194,Yes,31 ,Gabriel Jesus,Manchester City,Normal
 26382194,No,13,Mohamed Salah,Liverpool,Penalty
-8407be08,Yes,15 ,Jamie Vardy,Leicester City,Penalty
 90c0e34c,No,88,Harry Kane,Tottenham Hotspur,Normal
 f075fddc,Yes,90+1 ,Tomáš Souček,West Ham United,Normal
 089916ee,Yes,23 ,Tammy Abraham,Chelsea,Normal
@@ -4143,7 +3813,6 @@ f075fddc,Yes,90+1 ,Tomáš Souček,West Ham United,Normal
 089916ee,No,9,David McGoldrick,Sheffield United,Normal
 527aee54,Yes,12 ,Scott Dann,Crystal Palace,Normal
 527aee54,Yes,22 ,Eberechi Eze,Crystal Palace,Normal
-527aee54,Yes,42 ,Hélder Costa,Crystal Palace,Own Goal
 527aee54,Yes,70 ,Jordan Ayew,Crystal Palace,Normal
 527aee54,No,27,Patrick Bamford,Leeds United,Normal
 ab9f408d,Yes,19 ,Bernard,Everton,Normal
@@ -4159,21 +3828,17 @@ ab9f408d,No,90+5,Edinson Cavani,Manchester United,Normal
 55d775ec,No,90+1,Youri Tielemans,Leicester City,Penalty
 f2b91282,Yes,26 ,Bobby Reid,Fulham,Normal
 f2b91282,Yes,30 ,Ola Aina,Fulham,Normal
-1d01ff0c,Yes,13 ,Harry Kane,Tottenham Hotspur,Penalty
 1d01ff0c,Yes,73 ,Gareth Bale,Tottenham Hotspur,Normal
 1d01ff0c,No,56,Tariq Lamptey,Brighton & Hove Albion,Normal
 75dd1359,No,69,Pierre-Emerick Aubameyang,Arsenal,Penalty
-448a43ee,Yes,56 ,Callum Wilson,Newcastle United,Penalty
 448a43ee,Yes,84 ,Callum Wilson,Newcastle United,Normal
 448a43ee,No,90+1,Dominic Calvert-Lewin,Everton,Normal
 235264ac,Yes,62 ,Tyrone Mings,Aston Villa,Normal
-235264ac,Yes,90+3 ,Ollie Watkins,Aston Villa,Penalty
 235264ac,Yes,90+7 ,Jack Grealish,Aston Villa,Normal
 235264ac,No,20,Jannik Vestergaard,Southampton,Normal
 235264ac,No,33,James Ward-Prowse,Southampton,Normal
 235264ac,No,45,James Ward-Prowse,Southampton,Normal
 235264ac,No,58,Danny Ings,Southampton,Normal
-56ad8025,Yes,42 ,Mohamed Salah,Liverpool,Penalty
 56ad8025,Yes,85 ,Diogo Jota,Liverpool,Normal
 56ad8025,No,10,Pablo Fornals,West Ham United,Normal
 0f158c5c,No,26,Hakim Ziyech,Chelsea,Normal
@@ -4184,7 +3849,6 @@ e1741638,Yes,18 ,Rayan Aït Nouri,Wolverhampton Wanderers,Normal
 e1741638,Yes,27 ,Daniel Podence,Wolverhampton Wanderers,Normal
 e1741638,No,86,Luka Milivojević,Crystal Palace,Normal
 4931660e,No,76,Son Heung-min,Tottenham Hotspur,Normal
-26452511,Yes,40 ,Jake Livermore,Brighton & Hove Albion,Own Goal
 26452511,No,83,Karlan Grant,West Bromwich Albion,Normal
 bcd3a9b4,No,80,Jamie Vardy,Leicester City,Normal
 76661e3c,Yes,80 ,Raúl Jiménez,Wolverhampton Wanderers,Normal
@@ -4195,7 +3859,6 @@ bcd3a9b4,No,80,Jamie Vardy,Leicester City,Normal
 0bc8d984,Yes,41 ,Roberto Firmino,Liverpool,Normal
 0bc8d984,Yes,64 ,Diogo Jota,Liverpool,Normal
 0bc8d984,No,13,Sander Berge,Sheffield United,Penalty
-8d896969,Yes,88 ,Aboubakar Kamara,Fulham,Normal
 8d896969,Yes,90+5 ,Tom Cairney,Fulham,Normal
 8d896969,No,8,Jaïro Riedewald,Crystal Palace,Normal
 8d896969,No,64,Wilfried Zaha,Crystal Palace,Normal
@@ -4212,12 +3875,9 @@ bcd3a9b4,No,80,Jamie Vardy,Leicester City,Normal
 17f0eec9,No,82,Fabián Balbuena,West Ham United,Normal
 17f0eec9,No,85,Davinson Sánchez,West Ham United,Own Goal
 17f0eec9,No,90+4,Manuel Lanzini,West Ham United,Normal
-e96818bc,Yes,19 ,Wilfried Zaha,Crystal Palace,Penalty
 e96818bc,No,90,Alexis Mac Allister,Brighton & Hove Albion,Normal
 e96818bc,No,90+3,Lewis Dunk,Brighton & Hove Albion,Normal
-5529e7a0,Yes,85 ,Billy Sharp,Sheffield United,Penalty
 5529e7a0,No,77,Ademola Lookman,Fulham,Normal
-0b8239de,Yes,2 ,Luke Shaw,Newcastle United,Own Goal
 0b8239de,No,23,Harry Maguire,Manchester United,Normal
 0b8239de,No,86,Bruno Fernandes,Manchester United,Normal
 0b8239de,No,90,Aaron Wan-Bissaka,Manchester United,Normal
@@ -4231,7 +3891,6 @@ e95b8546,Yes,23 ,Raheem Sterling,Manchester City,Normal
 9bd558f5,No,90+2,Jannik Vestergaard,Southampton,Normal
 6da04e2d,Yes,19 ,Michael Keane,Everton,Normal
 6da04e2d,Yes,81 ,Dominic Calvert-Lewin,Everton,Normal
-6da04e2d,Yes,90 ,Richarlison,Everton,Normal
 6da04e2d,No,3,Sadio Mané,Liverpool,Normal
 6da04e2d,No,72,Mohamed Salah,Liverpool,Normal
 14a7771b,Yes,4 ,Ollie Watkins,Aston Villa,Normal
@@ -4243,8 +3902,6 @@ e95b8546,Yes,23 ,Raheem Sterling,Manchester City,Normal
 14a7771b,Yes,75 ,Jack Grealish,Aston Villa,Normal
 14a7771b,No,33,Mohamed Salah,Liverpool,Normal
 14a7771b,No,60,Mohamed Salah,Liverpool,Normal
-cded7e69,Yes,2 ,Bruno Fernandes,Manchester United,Penalty
-cded7e69,Yes,28 ,Anthony Martial,Manchester United,Normal
 cded7e69,No,4,Tanguy Ndombele,Tottenham Hotspur,Normal
 cded7e69,No,7,Son Heung-min,Tottenham Hotspur,Normal
 cded7e69,No,30,Harry Kane,Tottenham Hotspur,Normal
@@ -4262,7 +3919,6 @@ a29866ec,No,83,Jarrod Bowen,West Ham United,Normal
 39864083,Yes,69 ,Oriol Romeu,Southampton,Normal
 34ba607f,Yes,14 ,Allan Saint-Maximin,Newcastle United,Normal
 34ba607f,Yes,65 ,Callum Wilson,Newcastle United,Normal
-34ba607f,Yes,77 ,Callum Wilson,Newcastle United,Penalty
 34ba607f,No,61,Ashley Westwood,Burnley,Normal
 5ce15b58,Yes,59 ,Rodrigo,Leeds United,Normal
 5ce15b58,No,17,Raheem Sterling,Manchester City,Normal
@@ -4274,8 +3930,6 @@ a29866ec,No,83,Jarrod Bowen,West Ham United,Normal
 3cbb397e,No,90+2,Yves Bissouma,Brighton & Hove Albion,Normal
 d97aa1b5,Yes,50 ,Ben Chilwell,Chelsea,Normal
 d97aa1b5,Yes,66 ,Kurt Zouma,Chelsea,Normal
-d97aa1b5,Yes,78 ,Jorginho,Chelsea,Penalty
-d97aa1b5,Yes,82 ,Jorginho,Chelsea,Penalty
 ebe4e309,Yes,28 ,Sadio Mané,Liverpool,Normal
 ebe4e309,Yes,34 ,Andrew Robertson,Liverpool,Normal
 ebe4e309,Yes,88 ,Diogo Jota,Liverpool,Normal
@@ -4285,7 +3939,6 @@ ebe4e309,No,25,Alexandre Lacazette,Arsenal,Normal
 6b258be0,No,48,Tyrone Mings,Aston Villa,Normal
 a223dd70,Yes,17 ,Jarrod Bowen,West Ham United,Normal
 a223dd70,Yes,57 ,Jarrod Bowen,West Ham United,Normal
-a223dd70,Yes,66 ,Raúl Jiménez,West Ham United,Own Goal
 a223dd70,Yes,90+3 ,Sébastien Haller,West Ham United,Normal
 31c2a061,Yes,4 ,Riyad Mahrez,Manchester City,Normal
 31c2a061,Yes,84 ,Nathan Aké,Manchester City,Normal
@@ -4307,7 +3960,6 @@ d725a16c,No,90+3,Tammy Abraham,Chelsea,Normal
 7387a72e,Yes,26 ,Cheikhou Kouyaté,Crystal Palace,Normal
 7387a72e,No,10,Dominic Calvert-Lewin,Everton,Normal
 7387a72e,No,40,Richarlison,Everton,Penalty
-21495573,Yes,40 ,Neal Maupay,Brighton & Hove Albion,Penalty
 21495573,Yes,90+5 ,Solly March,Brighton & Hove Albion,Normal
 21495573,No,43,Lewis Dunk,Manchester United,Own Goal
 21495573,No,55,Marcus Rashford,Manchester United,Normal
@@ -4319,12 +3971,10 @@ d725a16c,No,90+3,Tammy Abraham,Chelsea,Normal
 98b4b5b6,Yes,63 ,Ezri Konsa,Aston Villa,Normal
 98b4b5b6,No,12,John Egan,Sheffield United,Normal
 465b25a8,Yes,20 ,Harvey Barnes,Leicester City,Normal
-465b25a8,Yes,50 ,Erik Pieters,Leicester City,Own Goal
 465b25a8,Yes,61 ,James Justin,Leicester City,Normal
 465b25a8,Yes,79 ,Dennis Praet,Leicester City,Normal
 465b25a8,No,10,Chris Wood,Burnley,Normal
 465b25a8,No,73,Jimmy Dunne,Burnley,Normal
-c64e5792,Yes,45+1 ,Andreas Christensen,Chelsea,Normal
 c64e5792,No,50,Sadio Mané,Liverpool,Normal
 c64e5792,No,54,Sadio Mané,Liverpool,Normal
 845f6a86,No,4,Neal Maupay,Brighton & Hove Albion,Penalty
@@ -4332,7 +3982,6 @@ c64e5792,No,54,Sadio Mané,Liverpool,Normal
 845f6a86,No,83,Aaron Connolly,Brighton & Hove Albion,Normal
 845f6a86,No,89,Yves Bissouma,Brighton & Hove Albion,Normal
 967efd56,Yes,32 ,Danny Ings,Southampton,Normal
-967efd56,Yes,90 ,Danny Ings,Southampton,Penalty
 967efd56,No,45+2,Son Heung-min,Tottenham Hotspur,Normal
 967efd56,No,47,Son Heung-min,Tottenham Hotspur,Normal
 967efd56,No,64,Son Heung-min,Tottenham Hotspur,Normal
@@ -4346,7 +3995,6 @@ f4835ec2,No,45,Michail Antonio,West Ham United,Normal
 97279323,No,74,Wilfried Zaha,Crystal Palace,Penalty
 97279323,No,85,Wilfried Zaha,Crystal Palace,Normal
 583c2b60,Yes,5 ,Hélder Costa,Leeds United,Normal
-583c2b60,Yes,41 ,Mateusz Klich,Leeds United,Penalty
 583c2b60,Yes,50 ,Patrick Bamford,Leeds United,Normal
 583c2b60,Yes,57 ,Hélder Costa,Leeds United,Normal
 583c2b60,No,34,Aleksandar Mitrović,Fulham,Penalty
@@ -4372,10 +4020,8 @@ fc7f9aa1,No,55,Dominic Calvert-Lewin,Everton,Normal
 7dd01ca9,No,84,Jamie Vardy,Leicester City,Penalty
 78495ced,No,56,Callum Wilson,Newcastle United,Normal
 78495ced,No,87,Jeff Hendrick,Newcastle United,Normal
-21b58926,Yes,4 ,Mohamed Salah,Liverpool,Penalty
 21b58926,Yes,20 ,Virgil van Dijk,Liverpool,Normal
 21b58926,Yes,33 ,Mohamed Salah,Liverpool,Normal
-21b58926,Yes,88 ,Mohamed Salah,Liverpool,Penalty
 21b58926,No,12,Jack Harrison,Leeds United,Normal
 21b58926,No,30,Patrick Bamford,Leeds United,Normal
 21b58926,No,66,Mateusz Klich,Leeds United,Normal
@@ -4384,17 +4030,42 @@ bf52349b,No,8,Alexandre Lacazette,Arsenal,Normal
 bf52349b,No,49,Gabriel Dos Santos,Arsenal,Normal
 bf52349b,No,57,Pierre-Emerick Aubameyang,Arsenal,Normal
 e7e969e9,Yes,85 ,Ethan Pinnock,Brentford,Normal
+f6bfec82,No,26,Erling Haaland,Manchester City,Penalty
+f6bfec82,No,49,Erling Haaland,Manchester City,Normal
+f6bfec82,No,80,Phil Foden,Manchester City,Normal
+ee677172,Yes,17 ,John McGinn,Aston Villa,Normal
+ee677172,Yes,49 ,Moussa Diaby,Aston Villa,Normal
+ee677172,No,83,Emiliano Martínez,Luton Town,Own Goal
+a0c422e9,Yes,26 ,Evan Ferguson,Brighton & Hove Albion,Normal
+a0c422e9,No,65,João Palhinha,Fulham,Normal
+79bf0c7f,Yes,31 ,Diogo Jota,Liverpool,Normal
+79bf0c7f,Yes,35 ,Darwin Núñez,Liverpool,Normal
+79bf0c7f,Yes,77 ,Mohamed Salah,Liverpool,Normal
+868a89be,No,51,Dominic Calvert-Lewin,Everton,Normal
+b84d060a,Yes,36 ,Mario Lemina,Wolverhampton Wanderers,Normal
+b84d060a,Yes,71 ,Hwang Hee-chan,Wolverhampton Wanderers,Normal
+b84d060a,No,22,Callum Wilson,Newcastle United,Normal
+b84d060a,No,45+4,Callum Wilson,Newcastle United,Penalty
+d498f918,Yes,28 ,Eddie Nketiah,Arsenal,Normal
+d498f918,Yes,50 ,Eddie Nketiah,Arsenal,Normal
+d498f918,Yes,58 ,Eddie Nketiah,Arsenal,Normal
+d498f918,Yes,90+6 ,Takehiro Tomiyasu,Arsenal,Normal
+c4c42d3e,Yes,22 ,Antoine Semenyo,Bournemouth,Normal
+c4c42d3e,Yes,76 ,Philip Billing,Bournemouth,Normal
+c4c42d3e,No,11,Charlie Taylor,Burnley,Normal
+91e3b922,No,58,Ethan Pinnock,Brentford,Normal
+91e3b922,No,90+6,Bryan Mbeumo,Brentford,Normal
+6b0aa474,Yes,90+4 ,Jordan Ayew,Crystal Palace,Normal
+6b0aa474,No,53,Joel Ward,Tottenham Hotspur,Own Goal
+6b0aa474,No,66,Son Heung-min,Tottenham Hotspur,Normal
 8c6293a3,Yes,36 ,Son Heung-min,Tottenham Hotspur,Normal
 8c6293a3,Yes,54 ,James Maddison,Tottenham Hotspur,Normal
 7efcc598,Yes,30 ,Douglas Luiz,Aston Villa,Normal
-7efcc598,Yes,51 ,Douglas Luiz,Aston Villa,Penalty
 7efcc598,Yes,74 ,Ollie Watkins,Aston Villa,Normal
 7efcc598,Yes,89 ,Leon Bailey,Aston Villa,Normal
 7efcc598,No,56,Jarrod Bowen,West Ham United,Normal
-d95b42eb,Yes,34 ,Oliver McBurnie,Sheffield United,Penalty
 d95b42eb,No,28,Scott McTominay,Manchester United,Normal
 d95b42eb,No,77,Diogo Dalot,Manchester United,Normal
-a1c336e2,Yes,15 ,Cole Palmer,Chelsea,Penalty
 a1c336e2,Yes,48 ,Mykhailo Mudryk,Chelsea,Normal
 a1c336e2,No,77,Declan Rice,Arsenal,Normal
 a1c336e2,No,84,Leandro Trossard,Arsenal,Normal
@@ -4404,7 +4075,6 @@ d1671efa,No,83,Chiedozie Ogbene,Luton Town,Normal
 d1671efa,No,90+2,Elijah Adebayo,Luton Town,Normal
 b782a834,Yes,7 ,Julián Álvarez,Manchester City,Normal
 b782a834,Yes,19 ,Erling Haaland,Manchester City,Normal
-b782a834,Yes,90+5 ,Manuel Akanji,Manchester City,Normal
 b782a834,No,73,Ansu Fati,Brighton & Hove Albion,Normal
 52781f37,Yes,25 ,Yoane Wissa,Brentford,Normal
 52781f37,Yes,62 ,Bryan Mbeumo,Brentford,Normal
@@ -4415,10 +4085,8 @@ b782a834,No,73,Ansu Fati,Brighton & Hove Albion,Normal
 21625dde,Yes,45+2 ,Sean Longstaff,Newcastle United,Normal
 21625dde,Yes,66 ,Callum Wilson,Newcastle United,Normal
 007b352e,Yes,17 ,Dominic Solanke,Bournemouth,Normal
-007b352e,Yes,54 ,Lewis Cook,Bournemouth,Normal
 007b352e,No,47,Matheus Cunha,Wolverhampton Wanderers,Normal
 007b352e,No,88,Sasa Kalajdzic,Wolverhampton Wanderers,Normal
-e747ddb3,Yes,75 ,Mohamed Salah,Liverpool,Penalty
 e747ddb3,Yes,90+7 ,Mohamed Salah,Liverpool,Normal
 e747ddb3,No,37,Ashley Young,Everton,Normal
 59cd18ae,Yes,86 ,Gabriel Martinelli,Arsenal,Normal
@@ -4427,14 +4095,12 @@ e747ddb3,No,37,Ashley Young,Everton,Normal
 3b1ec657,No,40,Mohamed Salah,Liverpool,Normal
 3b1ec657,No,45+1,Mohamed Salah,Liverpool,Penalty
 3292ed35,Yes,53 ,Hwang Hee-chan,Wolverhampton Wanderers,Normal
-3292ed35,Yes,90+4 ,Mario Lemina,Wolverhampton Wanderers,Normal
 3292ed35,No,55,Pau Torres,Aston Villa,Normal
 017c9ca5,Yes,8 ,Tomáš Souček,West Ham United,Normal
 017c9ca5,Yes,89 ,Kudus Mohammed,West Ham United,Normal
 017c9ca5,No,57,Alexander Isak,Newcastle United,Normal
 017c9ca5,No,62,Alexander Isak,Newcastle United,Normal
 ffc59ea8,Yes,53 ,Bobby Reid,Fulham,Normal
-ffc59ea8,Yes,76 ,Wes Foderingham,Fulham,Own Goal
 ffc59ea8,Yes,90+2 ,Willian,Fulham,Normal
 ffc59ea8,No,68,Antonee Robinson,Sheffield United,Own Goal
 cfd83ca3,Yes,15 ,Wilson Odobert,Burnley,Normal
@@ -4455,11 +4121,9 @@ d021f28f,No,52,Micky van de Ven,Tottenham Hotspur,Normal
 4f7b3f27,No,85,Jacob Bruun Larsen,Burnley,Normal
 c9787e60,No,18,Mykhailo Mudryk,Chelsea,Normal
 c9787e60,No,19,Armando Broja,Chelsea,Normal
-923467c5,Yes,56 ,Moussa Niakhate,Nottingham Forest,Normal
 923467c5,Yes,65 ,Nicolás Domínguez,Nottingham Forest,Normal
 923467c5,No,58,Christian Nørgaard,Brentford,Normal
 ec4145b4,Yes,36 ,Son Heung-min,Tottenham Hotspur,Normal
-ec4145b4,Yes,90+6 ,Joël Matip,Tottenham Hotspur,Own Goal
 ec4145b4,No,26,Curtis Jones,Liverpool,Normal
 ec4145b4,No,45+4,Cody Gakpo,Liverpool,Normal
 ec4145b4,No,69,Diogo Jota,Liverpool,Normal
@@ -4467,7 +4131,6 @@ ef2b7ab9,No,25,Joachim Andersen,Crystal Palace,Normal
 b82be6d7,Yes,24 ,Jarrod Bowen,West Ham United,Normal
 b82be6d7,Yes,37 ,Tomáš Souček,West Ham United,Normal
 a79ff136,Yes,14 ,Miguel Almirón,Newcastle United,Normal
-a79ff136,Yes,76 ,Alexander Isak,Newcastle United,Penalty
 921d5f17,Yes,41 ,Dominic Calvert-Lewin,Everton,Normal
 921d5f17,No,24,Tom Lockyer,Luton Town,Normal
 921d5f17,No,31,Carlton Morris,Luton Town,Normal
@@ -4475,12 +4138,10 @@ a79ff136,Yes,76 ,Alexander Isak,Newcastle United,Penalty
 8de4aca0,No,44,Martin Ødegaard,Arsenal,Penalty
 8de4aca0,No,53,Kai Havertz,Arsenal,Penalty
 8de4aca0,No,90+3,Ben White,Arsenal,Normal
-60ce29cd,Yes,13 ,Rúben Dias,Wolverhampton Wanderers,Own Goal
 60ce29cd,Yes,66 ,Hwang Hee-chan,Wolverhampton Wanderers,Normal
 60ce29cd,No,58,Julián Álvarez,Manchester City,Normal
 2df9a3a1,Yes,14 ,Ollie Watkins,Aston Villa,Normal
 2df9a3a1,Yes,21 ,Ollie Watkins,Aston Villa,Normal
-2df9a3a1,Yes,26 ,Pervis Estupiñán,Aston Villa,Own Goal
 2df9a3a1,Yes,65 ,Ollie Watkins,Aston Villa,Normal
 2df9a3a1,Yes,85 ,Jacob Ramsey,Aston Villa,Normal
 2df9a3a1,Yes,90+7 ,Douglas Luiz,Aston Villa,Normal
@@ -4493,18 +4154,13 @@ cf4fef85,No,61,Anthony Gordon,Newcastle United,Normal
 cf4fef85,No,68,Miguel Almirón,Newcastle United,Normal
 cf4fef85,No,73,Bruno Guimarães,Newcastle United,Normal
 cf4fef85,No,87,Alexander Isak,Newcastle United,Normal
-90adf8b3,Yes,16 ,Mohamed Salah,Liverpool,Penalty
 90adf8b3,Yes,60 ,Darwin Núñez,Liverpool,Normal
 90adf8b3,Yes,85 ,Diogo Jota,Liverpool,Normal
 90adf8b3,No,42,Jarrod Bowen,West Ham United,Normal
-7d2c5e05,Yes,58 ,Malo Gusto,Chelsea,Normal
 7d2c5e05,No,73,Ollie Watkins,Aston Villa,Normal
-5593f16c,Yes,45+2 ,Milos Kerkez,Brighton & Hove Albion,Own Goal
 5593f16c,Yes,46 ,Kaoru Mitoma,Brighton & Hove Albion,Normal
 5593f16c,Yes,77 ,Kaoru Mitoma,Brighton & Hove Albion,Normal
 5593f16c,No,25,Dominic Solanke,Bournemouth,Normal
-08947a10,Yes,26 ,Cristian Romero,Arsenal,Own Goal
-08947a10,Yes,54 ,Bukayo Saka,Arsenal,Penalty
 08947a10,No,42,Son Heung-min,Tottenham Hotspur,Normal
 08947a10,No,55,Son Heung-min,Tottenham Hotspur,Normal
 8e26793d,No,45,Bruno Fernandes,Manchester United,Normal
@@ -4512,17 +4168,14 @@ cf4fef85,No,87,Alexander Isak,Newcastle United,Normal
 96681b93,No,6,Abdoulaye Doucouré,Everton,Normal
 96681b93,No,67,James Tarkowski,Everton,Normal
 96681b93,No,71,Dominic Calvert-Lewin,Everton,Normal
-76a1421e,Yes,65 ,Carlton Morris,Luton Town,Penalty
 76a1421e,No,39,Jean-Ricner Bellegarde,Wolverhampton Wanderers,Normal
 76a1421e,No,50,Pedro Neto,Wolverhampton Wanderers,Normal
 5dc7e234,Yes,7 ,Phil Foden,Manchester City,Normal
 5dc7e234,Yes,14 ,Erling Haaland,Manchester City,Normal
-5dc7e234,Yes,46 ,Rodri,Manchester City,Normal
 ad7ecfad,Yes,61 ,Callum Hudson-Odoi,Nottingham Forest,Normal
 ad7ecfad,No,41,Zeki Amdouni,Burnley,Normal
 ad7ecfad,No,90+4,Lyle Foster,Burnley,Normal
 b1278924,No,69,Leandro Trossard,Arsenal,Normal
-71b7e5e2,Yes,64 ,Callum Wilson,Newcastle United,Penalty
 e56e96e1,Yes,90+8 ,Richarlison,Tottenham Hotspur,Normal
 e56e96e1,Yes,90+10 ,Dejan Kulusevski,Tottenham Hotspur,Normal
 e56e96e1,No,73,Gustavo Hamer,Sheffield United,Normal
@@ -4532,7 +4185,6 @@ ddcf2857,No,20,Danny Welbeck,Brighton & Hove Albion,Normal
 ddcf2857,No,53,Pascal Groß,Brighton & Hove Albion,Normal
 ddcf2857,No,71,João Pedro,Brighton & Hove Albion,Normal
 bc77340e,Yes,87 ,Jhon Durán,Aston Villa,Normal
-bc77340e,Yes,90+8 ,Douglas Luiz,Aston Villa,Penalty
 bc77340e,Yes,90+11 ,Leon Bailey,Aston Villa,Normal
 bc77340e,No,47,Odsonne Édouard,Crystal Palace,Normal
 64c0a6e2,Yes,36 ,James Ward-Prowse,West Ham United,Normal
@@ -4554,7 +4206,6 @@ f9436d32,Yes,84 ,Odsonne Édouard,Crystal Palace,Normal
 f9436d32,No,65,Hwang Hee-chan,Wolverhampton Wanderers,Normal
 f9436d32,No,90+6,Matheus Cunha,Wolverhampton Wanderers,Normal
 bdbc722e,Yes,3 ,Dominik Szoboszlai,Liverpool,Normal
-bdbc722e,Yes,22 ,Matty Cash,Liverpool,Own Goal
 bdbc722e,Yes,55 ,Mohamed Salah,Liverpool,Normal
 4f754e0a,Yes,27 ,Evan Ferguson,Brighton & Hove Albion,Normal
 4f754e0a,Yes,65 ,Evan Ferguson,Brighton & Hove Albion,Normal
@@ -4574,12 +4225,10 @@ e2946b10,No,77,David Brooks,Bournemouth,Normal
 88066bdf,Yes,31 ,Julián Álvarez,Manchester City,Normal
 88066bdf,Yes,45+5 ,Nathan Aké,Manchester City,Normal
 88066bdf,Yes,58 ,Erling Haaland,Manchester City,Normal
-88066bdf,Yes,70 ,Erling Haaland,Manchester City,Penalty
 88066bdf,Yes,90+5 ,Erling Haaland,Manchester City,Normal
 88066bdf,No,33,Tim Ream,Fulham,Normal
 44e89d37,No,48,Anthony Elanga,Nottingham Forest,Normal
 87b46bb9,Yes,33 ,Cameron Archer,Sheffield United,Normal
-87b46bb9,Yes,45+3 ,Jordan Pickford,Sheffield United,Own Goal
 87b46bb9,No,14,Abdoulaye Doucouré,Everton,Normal
 87b46bb9,No,55,Arnaut Danjuma,Everton,Normal
 e929e225,Yes,90+2 ,Mads Juel Andersen,Luton Town,Normal
@@ -4600,14 +4249,12 @@ ba68d60c,Yes,81 ,Pascal Groß,Brighton & Hove Albion,Normal
 ba68d60c,No,19,James Ward-Prowse,West Ham United,Normal
 ba68d60c,No,58,Jarrod Bowen,West Ham United,Normal
 ba68d60c,No,63,Michail Antonio,West Ham United,Normal
-d8f8f8ad,Yes,70 ,Bukayo Saka,Arsenal,Penalty
 d8f8f8ad,Yes,72 ,Eddie Nketiah,Arsenal,Normal
 d8f8f8ad,No,1,Andreas Pereira,Fulham,Normal
 d8f8f8ad,No,83,Calvin Bassey,Fulham,Normal
 d8f8f8ad,No,87,João Palhinha,Fulham,Normal
 70d9b1ab,Yes,17 ,Christian Eriksen,Manchester United,Normal
 70d9b1ab,Yes,52 ,Casemiro,Manchester United,Normal
-70d9b1ab,Yes,76 ,Bruno Fernandes,Manchester United,Penalty
 70d9b1ab,No,2,Taiwo Awoniyi,Nottingham Forest,Normal
 70d9b1ab,No,4,Willy Boly,Nottingham Forest,Normal
 70d9b1ab,No,67,Joe Worrall,Nottingham Forest,Normal
@@ -4623,28 +4270,21 @@ f49c4ad2,No,63,Dejan Kulusevski,Tottenham Hotspur,Normal
 3b5ecd36,No,67,Takehiro Tomiyasu,Arsenal,Normal
 44b9a07c,Yes,7 ,Nayef Aguerd,West Ham United,Normal
 44b9a07c,Yes,53 ,Michail Antonio,West Ham United,Normal
-44b9a07c,Yes,67 ,Nayef Aguerd,West Ham United,Normal
-44b9a07c,Yes,90+5 ,Lucas Paquetá,West Ham United,Penalty
 44b9a07c,No,28,Carney Chukwuemeka,Chelsea,Normal
 959b558d,Yes,18 ,John McGinn,Aston Villa,Normal
-959b558d,Yes,24 ,Douglas Luiz,Aston Villa,Penalty
 959b558d,Yes,51 ,Leon Bailey,Aston Villa,Normal
 959b558d,Yes,75 ,Jhon Durán,Aston Villa,Normal
 0b8f50a5,Yes,31 ,Julián Álvarez,Manchester City,Normal
 4bb62251,Yes,49 ,Pape Matar Sarr,Tottenham Hotspur,Normal
-4bb62251,Yes,83 ,Lisandro Martínez,Tottenham Hotspur,Own Goal
 d7c606ec,Yes,61 ,Hwang Hee-chan,Wolverhampton Wanderers,Normal
-d7c606ec,Yes,90+5 ,Matheus Nunes,Wolverhampton Wanderers,Normal
 d7c606ec,No,15,Kaoru Mitoma,Brighton & Hove Albion,Normal
 d7c606ec,No,46,Pervis Estupiñán,Brighton & Hove Albion,Normal
 d7c606ec,No,51,Solly March,Brighton & Hove Albion,Normal
 d7c606ec,No,55,Solly March,Brighton & Hove Albion,Normal
 80bebdbb,Yes,27 ,Luis Díaz,Liverpool,Normal
 80bebdbb,Yes,36 ,Mohamed Salah,Liverpool,Normal
-80bebdbb,Yes,58 ,Alexis Mac Allister,Liverpool,Normal
 80bebdbb,Yes,62 ,Diogo Jota,Liverpool,Normal
 80bebdbb,No,3,Antoine Semenyo,Bournemouth,Normal
-46be83af,Yes,64 ,Tim Ream,Fulham,Normal
 46be83af,No,44,Yoane Wissa,Brentford,Normal
 46be83af,No,66,Bryan Mbeumo,Brentford,Penalty
 46be83af,No,90+2,Bryan Mbeumo,Brentford,Normal
@@ -4654,7 +4294,6 @@ a0a93f71,No,48,Gustavo Hamer,Sheffield United,Normal
 f1ecda2c,Yes,76 ,Raphaël Varane,Manchester United,Normal
 c18d3207,Yes,37 ,Axel Disasi,Chelsea,Normal
 c18d3207,No,18,Luis Díaz,Liverpool,Normal
-67ed3ba2,Yes,26 ,Bryan Mbeumo,Brentford,Penalty
 67ed3ba2,Yes,36 ,Yoane Wissa,Brentford,Normal
 67ed3ba2,No,11,Cristian Romero,Tottenham Hotspur,Normal
 67ed3ba2,No,45+4,Emerson,Tottenham Hotspur,Normal
@@ -4667,7 +4306,6 @@ c18d3207,No,18,Luis Díaz,Liverpool,Normal
 d6bbf293,Yes,82 ,Dominic Solanke,Bournemouth,Normal
 d6bbf293,No,51,Jarrod Bowen,West Ham United,Normal
 56a137f7,Yes,36 ,Solly March,Brighton & Hove Albion,Normal
-56a137f7,Yes,71 ,João Pedro,Brighton & Hove Albion,Penalty
 56a137f7,Yes,85 ,Simon Adingra,Brighton & Hove Albion,Normal
 56a137f7,Yes,90+5 ,Evan Ferguson,Brighton & Hove Albion,Normal
 56a137f7,No,81,Carlton Morris,Luton Town,Penalty
@@ -4676,7 +4314,6 @@ d6bbf293,No,51,Jarrod Bowen,West Ham United,Normal
 26a7f90c,Yes,26 ,Eddie Nketiah,Arsenal,Normal
 26a7f90c,Yes,32 ,Bukayo Saka,Arsenal,Normal
 26a7f90c,No,82,Taiwo Awoniyi,Nottingham Forest,Normal
-3a6836b4,Yes,90+4 ,Anass Zaroury,Burnley,Normal
 3a6836b4,No,4,Erling Haaland,Manchester City,Normal
 3a6836b4,No,36,Erling Haaland,Manchester City,Normal
 3a6836b4,No,75,Rodri,Manchester City,Normal
@@ -4708,13 +4345,11 @@ a96c9915,No,79,Pablo Fornals,West Ham United,Normal
 64823dc9,Yes,39 ,Jadon Sancho,Manchester United,Normal
 64823dc9,Yes,55 ,Bruno Fernandes,Manchester United,Normal
 64823dc9,No,19,Kenny Tete,Fulham,Normal
-4f7b1a0d,Yes,27 ,Kieran Trippier,Chelsea,Own Goal
 4f7b1a0d,No,9,Anthony Gordon,Newcastle United,Normal
 181fd119,Yes,66 ,Will Hughes,Crystal Palace,Normal
 181fd119,No,31,Taiwo Awoniyi,Nottingham Forest,Normal
 d2f2263d,Yes,6 ,Casemiro,Manchester United,Normal
 d2f2263d,Yes,45+5 ,Anthony Martial,Manchester United,Normal
-d2f2263d,Yes,73 ,Bruno Fernandes,Manchester United,Penalty
 d2f2263d,Yes,78 ,Marcus Rashford,Manchester United,Normal
 d2f2263d,No,89,João Félix,Chelsea,Normal
 d4bee10d,Yes,38 ,Julio César Enciso,Brighton & Hove Albion,Normal
@@ -4732,7 +4367,6 @@ d4bee10d,No,25,Phil Foden,Manchester City,Normal
 ff2b58c3,Yes,34 ,Hwang Hee-chan,Wolverhampton Wanderers,Normal
 ff2b58c3,No,90+9,Yerry Mina,Everton,Normal
 ec496eca,No,9,Casemiro,Manchester United,Normal
-844f2c37,Yes,45+5 ,Aleksandar Mitrović,Fulham,Penalty
 844f2c37,Yes,61 ,Aleksandar Mitrović,Fulham,Normal
 844f2c37,No,34,Odsonne Édouard,Crystal Palace,Normal
 844f2c37,No,83,Joel Ward,Crystal Palace,Normal
@@ -4742,7 +4376,6 @@ ec496eca,No,9,Casemiro,Manchester United,Normal
 28ebbaf2,No,50,Bryan Mbeumo,Brentford,Normal
 28ebbaf2,No,62,Bryan Mbeumo,Brentford,Normal
 28ebbaf2,No,88,Yoane Wissa,Brentford,Normal
-e265430e,Yes,22 ,Deniz Undav,Newcastle United,Own Goal
 e265430e,Yes,45+4 ,Dan Burn,Newcastle United,Normal
 e265430e,Yes,89 ,Callum Wilson,Newcastle United,Normal
 e265430e,Yes,90+1 ,Bruno Guimarães,Newcastle United,Normal
@@ -4773,12 +4406,10 @@ a4ffd11f,Yes,58 ,Eberechi Eze,Crystal Palace,Normal
 362514ee,No,90,Harry Kane,Tottenham Hotspur,Penalty
 d63581e0,Yes,7 ,Luke Ayling,Leeds United,Normal
 d63581e0,Yes,79 ,Rasmus Nissen,Leeds United,Normal
-d63581e0,Yes,90+1 ,Junior Firpo,Leeds United,Normal
 d63581e0,No,31,Callum Wilson,Newcastle United,Penalty
 d63581e0,No,69,Callum Wilson,Newcastle United,Penalty
 23e7953f,Yes,18 ,Taiwo Awoniyi,Nottingham Forest,Normal
 23e7953f,Yes,21 ,Taiwo Awoniyi,Nottingham Forest,Normal
-23e7953f,Yes,44 ,Morgan Gibbs-White,Nottingham Forest,Penalty
 23e7953f,Yes,73 ,Danilo,Nottingham Forest,Normal
 23e7953f,No,25,Carlos Alcaraz,Southampton,Normal
 23e7953f,No,51,Lyanco,Southampton,Normal
@@ -4810,11 +4441,9 @@ bf8d9047,No,90+6,Dwight McNeil,Everton,Normal
 6116824f,No,86,João Félix,Chelsea,Normal
 217a7faf,Yes,9 ,Toti Gomes,Wolverhampton Wanderers,Normal
 0f1e1478,Yes,45+1 ,Harry Kane,Tottenham Hotspur,Normal
-16209587,Yes,90+9 ,Alexis Mac Allister,Brighton & Hove Albion,Penalty
 fccab6ff,Yes,50 ,Nathan Aké,Manchester City,Normal
 fccab6ff,Yes,70 ,Erling Haaland,Manchester City,Normal
 fccab6ff,Yes,85 ,Phil Foden,Manchester City,Normal
-24fb8eca,Yes,39 ,Mohamed Salah,Liverpool,Penalty
 2d551ff5,Yes,18 ,Martin Ødegaard,Arsenal,Normal
 2d551ff5,Yes,31 ,Martin Ødegaard,Arsenal,Normal
 2d551ff5,Yes,34 ,Gabriel Jesus,Arsenal,Normal
@@ -4825,7 +4454,6 @@ fccab6ff,Yes,85 ,Phil Foden,Manchester City,Normal
 95d2cc61,No,54,Alex Iwobi,Everton,Normal
 e07267b3,Yes,3 ,Curtis Jones,Liverpool,Normal
 e07267b3,Yes,5 ,Luis Díaz,Liverpool,Normal
-e07267b3,Yes,15 ,Mohamed Salah,Liverpool,Penalty
 e07267b3,Yes,90+4 ,Diogo Jota,Liverpool,Normal
 e07267b3,No,39,Harry Kane,Tottenham Hotspur,Normal
 e07267b3,No,77,Son Heung-min,Tottenham Hotspur,Normal
@@ -4834,7 +4462,6 @@ d4d0cb2a,Yes,15 ,Carlos Vinícius,Fulham,Normal
 d4d0cb2a,No,3,Erling Haaland,Manchester City,Penalty
 d4d0cb2a,No,36,Julián Álvarez,Manchester City,Normal
 b16063b6,Yes,54 ,Callum Wilson,Newcastle United,Normal
-b16063b6,Yes,79 ,Theo Walcott,Newcastle United,Own Goal
 b16063b6,Yes,81 ,Callum Wilson,Newcastle United,Normal
 b16063b6,No,41,Stuart Armstrong,Southampton,Normal
 0b0733ce,Yes,20 ,Jefferson Lerma,Bournemouth,Normal
@@ -4855,7 +4482,6 @@ b16063b6,No,41,Stuart Armstrong,Southampton,Normal
 4ec72d3b,Yes,15 ,Jordan Ayew,Crystal Palace,Normal
 4ec72d3b,Yes,20 ,Wilfried Zaha,Crystal Palace,Normal
 4ec72d3b,Yes,30 ,Jeffrey Schlupp,Crystal Palace,Normal
-4ec72d3b,Yes,66 ,Eberechi Eze,Crystal Palace,Penalty
 4ec72d3b,No,9,Tomáš Souček,West Ham United,Normal
 4ec72d3b,No,35,Michail Antonio,West Ham United,Normal
 4ec72d3b,No,72,Nayef Aguerd,West Ham United,Normal
@@ -4879,15 +4505,11 @@ f2f795ae,No,18,Cody Gakpo,Liverpool,Normal
 f2f795ae,No,67,Joël Matip,Liverpool,Normal
 071b5820,No,37,César Azpilicueta,Brentford,Own Goal
 071b5820,No,78,Bryan Mbeumo,Brentford,Normal
-76db2de1,Yes,45+3 ,Pascal Groß,Nottingham Forest,Own Goal
 76db2de1,Yes,68 ,Danilo,Nottingham Forest,Normal
-76db2de1,Yes,90+1 ,Morgan Gibbs-White,Nottingham Forest,Penalty
 76db2de1,No,38,Facundo Buonanotte,Brighton & Hove Albion,Normal
 56c70cf7,Yes,20 ,Luis Sinisterra,Leeds United,Normal
 56c70cf7,No,80,Jamie Vardy,Leicester City,Normal
 8b295a84,Yes,21 ,Tyrone Mings,Aston Villa,Normal
-825c78f1,Yes,3 ,Joachim Andersen,Wolverhampton Wanderers,Own Goal
-825c78f1,Yes,90+4 ,Rúben Neves,Wolverhampton Wanderers,Penalty
 dff22d13,Yes,2 ,Jacob Murphy,Newcastle United,Normal
 dff22d13,Yes,6 ,Joelinton,Newcastle United,Normal
 dff22d13,Yes,9 ,Jacob Murphy,Newcastle United,Normal
@@ -4899,7 +4521,6 @@ dff22d13,No,49,Harry Kane,Tottenham Hotspur,Normal
 3306d30f,No,12,Lucas Paquetá,West Ham United,Normal
 3306d30f,No,43,Declan Rice,West Ham United,Normal
 3306d30f,No,72,Pablo Fornals,West Ham United,Normal
-b87e66b4,Yes,37 ,Kelechi Iheanacho,Leicester City,Penalty
 b87e66b4,Yes,75 ,Timothy Castagne,Leicester City,Normal
 b87e66b4,No,13,Matheus Cunha,Wolverhampton Wanderers,Normal
 99bfc321,Yes,47 ,Diogo Jota,Liverpool,Normal
@@ -4928,12 +4549,10 @@ fd3d05f5,No,73,Diogo Jota,Liverpool,Normal
 fd3d05f5,No,90,Darwin Núñez,Liverpool,Normal
 4ca8f9f6,No,32,Antony,Manchester United,Normal
 4ca8f9f6,No,76,Diogo Dalot,Manchester United,Normal
-3120ba0d,Yes,33 ,Saïd Benrahma,West Ham United,Penalty
 3120ba0d,Yes,54 ,Jarrod Bowen,West Ham United,Normal
 3120ba0d,No,7,Gabriel Jesus,Arsenal,Normal
 3120ba0d,No,10,Martin Ødegaard,Arsenal,Normal
 ce8df388,Yes,5 ,John Stones,Manchester City,Normal
-ce8df388,Yes,13 ,Erling Haaland,Manchester City,Penalty
 ce8df388,Yes,25 ,Erling Haaland,Manchester City,Normal
 ce8df388,No,75,Kelechi Iheanacho,Leicester City,Normal
 ecae749b,Yes,35 ,Dwight McNeil,Everton,Normal
@@ -4974,7 +4593,6 @@ b3ad7bd4,Yes,10 ,Son Heung-min,Tottenham Hotspur,Normal
 b3ad7bd4,Yes,79 ,Harry Kane,Tottenham Hotspur,Normal
 b3ad7bd4,No,34,Lewis Dunk,Brighton & Hove Albion,Normal
 aa1fa8dc,Yes,31 ,Matheus Nunes,Wolverhampton Wanderers,Normal
-a5e78e89,Yes,45+1 ,Ivan Toney,Brentford,Penalty
 a5e78e89,No,54,David Raya,Newcastle United,Own Goal
 a5e78e89,No,61,Alexander Isak,Newcastle United,Normal
 72ca7930,No,40,Philip Billing,Bournemouth,Normal
@@ -4991,7 +4609,6 @@ f3e6e475,Yes,27 ,Marcus Rashford,Manchester United,Normal
 4a87012d,No,82,Alexander Isak,Newcastle United,Normal
 4a87012d,No,90,Joelinton,Newcastle United,Normal
 f213214b,Yes,35 ,Harvey Barnes,Leicester City,Normal
-f213214b,Yes,70 ,Kiernan Dewsbury-Hall,Leicester City,Normal
 f213214b,No,24,Ollie Watkins,Aston Villa,Normal
 f213214b,No,87,Bertrand Traoré,Aston Villa,Normal
 95a97dc6,No,27,Evan Ferguson,Brighton & Hove Albion,Normal
@@ -4999,7 +4616,6 @@ f213214b,No,87,Bertrand Traoré,Aston Villa,Normal
 1251d1c0,Yes,20 ,Jack Harrison,Leeds United,Normal
 1251d1c0,Yes,45+1 ,Luis Sinisterra,Leeds United,Normal
 1251d1c0,No,12,Orel Mangala,Nottingham Forest,Normal
-c00d9a22,Yes,58 ,Abdoulaye Doucouré,Everton,Normal
 c00d9a22,Yes,90 ,Michael Keane,Everton,Normal
 c00d9a22,No,68,Harry Kane,Tottenham Hotspur,Penalty
 c00d9a22,No,88,Lucas Moura,Tottenham Hotspur,Normal
@@ -5011,18 +4627,15 @@ c00d9a22,No,88,Lucas Moura,Tottenham Hotspur,Normal
 f64320c3,Yes,50 ,Marcus Tavernier,Bournemouth,Normal
 f64320c3,Yes,79 ,Dominic Solanke,Bournemouth,Normal
 f64320c3,No,16,Andreas Pereira,Fulham,Normal
-ee1878a0,Yes,59 ,Daniel Iversen,Crystal Palace,Own Goal
 ee1878a0,Yes,90+4 ,Jean-Philippe Mateta,Crystal Palace,Normal
 ee1878a0,No,56,Ricardo Pereira,Leicester City,Normal
 ead2251e,Yes,21 ,Kaoru Mitoma,Brighton & Hove Albion,Normal
 ead2251e,Yes,28 ,Danny Welbeck,Brighton & Hove Albion,Normal
-ead2251e,Yes,90 ,Alexis Mac Allister,Brighton & Hove Albion,Penalty
 ead2251e,No,10,Pontus Jansson,Brentford,Normal
 ead2251e,No,22,Ivan Toney,Brentford,Normal
 ead2251e,No,49,Ethan Pinnock,Brentford,Normal
 c14b278c,Yes,38 ,Brennan Johnson,Nottingham Forest,Normal
 c14b278c,No,83,Daniel Podence,Wolverhampton Wanderers,Normal
-2e4383ca,Yes,35 ,Gabriel Jesus,Arsenal,Penalty
 2e4383ca,Yes,47 ,Ben White,Arsenal,Normal
 2e4383ca,Yes,55 ,Gabriel Jesus,Arsenal,Normal
 2e4383ca,Yes,84 ,Granit Xhaka,Arsenal,Normal
@@ -5038,12 +4651,10 @@ c14b278c,No,83,Daniel Podence,Wolverhampton Wanderers,Normal
 98e0de00,Yes,74 ,Bukayo Saka,Arsenal,Normal
 98e0de00,No,63,Jeffrey Schlupp,Crystal Palace,Normal
 9453dba7,Yes,52 ,João Félix,Chelsea,Normal
-9453dba7,Yes,76 ,Kai Havertz,Chelsea,Penalty
 9453dba7,No,69,Abdoulaye Doucouré,Everton,Normal
 9453dba7,No,89,Ellis Simms,Everton,Normal
 bd9ec55d,Yes,46 ,Che Adams,Southampton,Normal
 bd9ec55d,Yes,77 ,Theo Walcott,Southampton,Normal
-bd9ec55d,Yes,90+3 ,James Ward-Prowse,Southampton,Penalty
 bd9ec55d,No,45+1,Pedro Porro,Tottenham Hotspur,Normal
 bd9ec55d,No,65,Harry Kane,Tottenham Hotspur,Normal
 bd9ec55d,No,74,Ivan Perišić,Tottenham Hotspur,Normal
@@ -5051,12 +4662,9 @@ bd9ec55d,No,74,Ivan Perišić,Tottenham Hotspur,Normal
 88981274,Yes,80 ,Jacob Ramsey,Aston Villa,Normal
 88981274,Yes,89 ,Emi Buendía,Aston Villa,Normal
 7647948e,Yes,32 ,Mathias Jensen,Brentford,Normal
-7647948e,Yes,90+2 ,Shandon Baptiste,Brentford,Normal
 7647948e,No,52,Harvey Barnes,Leicester City,Normal
 3cb714a4,Yes,65 ,Jonny Castro,Wolverhampton Wanderers,Normal
 3cb714a4,Yes,73 ,Matheus Cunha,Wolverhampton Wanderers,Normal
-3cb714a4,Yes,84 ,Jonny Castro,Wolverhampton Wanderers,Normal
-3cb714a4,Yes,90+10 ,Matheus Nunes,Wolverhampton Wanderers,Normal
 3cb714a4,No,6,Jack Harrison,Leeds United,Normal
 3cb714a4,No,49,Luke Ayling,Leeds United,Normal
 3cb714a4,No,62,Rasmus Nissen,Leeds United,Normal
@@ -5070,19 +4678,15 @@ a4202b5b,No,90+7,Yoane Wissa,Brentford,Normal
 c416a3de,Yes,26 ,Alexander Isak,Newcastle United,Normal
 c416a3de,Yes,79 ,Miguel Almirón,Newcastle United,Normal
 c416a3de,No,70,Hwang Hee-chan,Wolverhampton Wanderers,Normal
-df6f054e,Yes,26 ,Saïd Benrahma,West Ham United,Penalty
 df6f054e,No,17,Ollie Watkins,Aston Villa,Normal
 d238973c,No,21,Gabriel Dos Santos,Arsenal,Normal
 d238973c,No,26,Gabriel Martinelli,Arsenal,Normal
 d238973c,No,45+2,Martin Ødegaard,Arsenal,Normal
-9cd3ca2c,Yes,34 ,Casemiro,Manchester United,Normal
 d29fe1d9,No,78,Erling Haaland,Manchester City,Penalty
 d065f9cd,Yes,19 ,Harry Kane,Tottenham Hotspur,Normal
-d065f9cd,Yes,35 ,Harry Kane,Tottenham Hotspur,Penalty
 d065f9cd,Yes,62 ,Son Heung-min,Tottenham Hotspur,Normal
 d065f9cd,No,81,Joe Worrall,Nottingham Forest,Normal
 bd5571a1,Yes,39 ,Patson Daka,Leicester City,Normal
-bd5571a1,Yes,87 ,Wout Faes,Leicester City,Normal
 bd5571a1,No,11,Ben Chilwell,Chelsea,Normal
 bd5571a1,No,45+6,Kai Havertz,Chelsea,Normal
 bd5571a1,No,78,Mateo Kovačić,Chelsea,Normal
@@ -5093,7 +4697,6 @@ bd5571a1,No,78,Mateo Kovačić,Chelsea,Normal
 3f653d6f,No,61,Jack Harrison,Brighton & Hove Albion,Own Goal
 d376dff8,Yes,28 ,Philip Billing,Bournemouth,Normal
 3dce3a24,Yes,6 ,Ethan Pinnock,Brentford,Normal
-3dce3a24,Yes,53 ,Ivan Toney,Brentford,Penalty
 3dce3a24,Yes,85 ,Mathias Jensen,Brentford,Normal
 3dce3a24,No,39,Manor Solomon,Fulham,Normal
 3dce3a24,No,90+9,Carlos Vinícius,Fulham,Normal
@@ -5110,12 +4713,10 @@ ec770341,No,10,Demarai Gray,Everton,Penalty
 ec770341,No,29,Abdoulaye Doucouré,Everton,Normal
 4d14422c,Yes,35 ,Carlos Alcaraz,Southampton,Normal
 bf4ac62d,Yes,82 ,Adama Traoré,Wolverhampton Wanderers,Normal
-bee059c4,Yes,18 ,Alexis Mac Allister,Brighton & Hove Albion,Penalty
 bee059c4,Yes,51 ,Joël Veltman,Brighton & Hove Albion,Normal
 bee059c4,Yes,69 ,Kaoru Mitoma,Brighton & Hove Albion,Normal
 bee059c4,Yes,89 ,Danny Welbeck,Brighton & Hove Albion,Normal
 59f9a78f,Yes,53 ,Wesley Fofana,Chelsea,Normal
-433a4487,Yes,27 ,Joachim Andersen,Aston Villa,Own Goal
 433a4487,No,62,Cheick Doucouré,Crystal Palace,Normal
 3e9a33fc,Yes,62 ,Thomas Partey,Arsenal,Normal
 3e9a33fc,Yes,70 ,Ben White,Arsenal,Normal
@@ -5152,7 +4753,6 @@ aae66d3d,Yes,72 ,Son Heung-min,Tottenham Hotspur,Normal
 d6e88163,Yes,25 ,Marcus Rashford,Manchester United,Normal
 d6e88163,Yes,56 ,Marcus Rashford,Manchester United,Normal
 d6e88163,Yes,61 ,Jadon Sancho,Manchester United,Normal
-2f909763,Yes,22 ,Nick Pope,Newcastle United,Normal
 2f909763,No,10,Darwin Núñez,Liverpool,Normal
 2f909763,No,17,Cody Gakpo,Liverpool,Normal
 f6370484,Yes,90+6 ,Vitaly Janelt,Brentford,Normal
@@ -5169,7 +4769,6 @@ e50bfcf8,No,16,Bukayo Saka,Arsenal,Normal
 e50bfcf8,No,61,Oleksandr Zinchenko,Arsenal,Normal
 e50bfcf8,No,90+3,Emiliano Martínez,Arsenal,Own Goal
 e50bfcf8,No,90+8,Gabriel Martinelli,Arsenal,Normal
-b9da01e6,Yes,42 ,Bukayo Saka,Arsenal,Penalty
 b9da01e6,No,24,Kevin De Bruyne,Manchester City,Normal
 b9da01e6,No,72,Jack Grealish,Manchester City,Normal
 b9da01e6,No,82,Erling Haaland,Manchester City,Normal
@@ -5177,7 +4776,6 @@ a895ec23,Yes,36 ,Mohamed Salah,Liverpool,Normal
 a895ec23,Yes,49 ,Cody Gakpo,Liverpool,Normal
 18fcd595,Yes,4 ,Rodri,Manchester City,Normal
 18fcd595,Yes,39 ,İlkay Gündoğan,Manchester City,Normal
-18fcd595,Yes,45+1 ,Riyad Mahrez,Manchester City,Penalty
 18fcd595,No,61,Ollie Watkins,Aston Villa,Normal
 3386146f,No,80,Marcus Rashford,Manchester United,Normal
 3386146f,No,85,Alejandro Garnacho,Manchester United,Normal
@@ -5205,7 +4803,6 @@ ee86dc99,Yes,88 ,Manor Solomon,Fulham,Normal
 80532a54,No,1,Degnand Gnonto,Leeds United,Normal
 80532a54,No,48,Raphaël Varane,Leeds United,Own Goal
 8a923619,Yes,15 ,Harry Kane,Tottenham Hotspur,Normal
-8a923619,Yes,87 ,Cristian Romero,Tottenham Hotspur,Normal
 7c47cb5e,Yes,14 ,Brennan Johnson,Nottingham Forest,Normal
 34e9160c,Yes,3 ,Callum Wilson,Newcastle United,Normal
 34e9160c,No,32,Lucas Paquetá,West Ham United,Normal
@@ -5213,15 +4810,11 @@ ef31dad5,Yes,41 ,Ben Mee,Brentford,Normal
 ef31dad5,Yes,44 ,Bryan Mbeumo,Brentford,Normal
 ef31dad5,Yes,80 ,Mathias Jensen,Brentford,Normal
 dccc53ae,Yes,87 ,Kaoru Mitoma,Brighton & Hove Albion,Normal
-dca5ea6c,Yes,7 ,Bruno Fernandes,Manchester United,Penalty
 dca5ea6c,Yes,62 ,Marcus Rashford,Manchester United,Normal
-dca5ea6c,Yes,70 ,Casemiro,Manchester United,Normal
 dca5ea6c,No,76,Jeffrey Schlupp,Crystal Palace,Normal
-d67a16c8,Yes,5 ,Joël Matip,Wolverhampton Wanderers,Own Goal
 d67a16c8,Yes,12 ,Craig Dawson,Wolverhampton Wanderers,Normal
 d67a16c8,Yes,71 ,Rúben Neves,Wolverhampton Wanderers,Normal
 76a2a22c,Yes,9 ,Ollie Watkins,Aston Villa,Normal
-76a2a22c,Yes,32 ,Harry Souttar,Aston Villa,Own Goal
 76a2a22c,No,12,James Maddison,Leicester City,Normal
 76a2a22c,No,41,Kelechi Iheanacho,Leicester City,Normal
 76a2a22c,No,45+2,Tetê,Leicester City,Normal
@@ -5234,7 +4827,6 @@ d67a16c8,Yes,71 ,Rúben Neves,Wolverhampton Wanderers,Normal
 1b35bc71,No,17,Marcus Rashford,Manchester United,Normal
 1b35bc71,No,59,Lisandro Martínez,Manchester United,Normal
 7337f90a,Yes,40 ,Erling Haaland,Manchester City,Normal
-7337f90a,Yes,50 ,Erling Haaland,Manchester City,Penalty
 7337f90a,Yes,54 ,Erling Haaland,Manchester City,Normal
 db9cdba8,Yes,34 ,Jarrod Bowen,West Ham United,Normal
 db9cdba8,Yes,41 ,Jarrod Bowen,West Ham United,Normal
@@ -5257,7 +4849,6 @@ adf46096,No,43,Bruno Fernandes,Manchester United,Normal
 4fc8b7b2,No,36,Martin Ødegaard,Arsenal,Normal
 f93d11e7,Yes,89 ,Alexander Isak,Newcastle United,Normal
 564d2893,Yes,64 ,Kai Havertz,Chelsea,Normal
-3f992264,Yes,39 ,Ivan Toney,Brentford,Penalty
 3f992264,Yes,75 ,Mathias Jensen,Brentford,Normal
 cfc2a193,Yes,46 ,Solly March,Brighton & Hove Albion,Normal
 cfc2a193,Yes,53 ,Solly March,Brighton & Hove Albion,Normal
@@ -5293,13 +4884,11 @@ cc17c735,No,27,Taiwo Awoniyi,Nottingham Forest,Normal
 63fc7f12,Yes,23 ,Casemiro,Manchester United,Normal
 63fc7f12,Yes,49 ,Luke Shaw,Manchester United,Normal
 63fc7f12,Yes,86 ,Marcus Rashford,Manchester United,Normal
-c62d7632,Yes,90+2 ,Demarai Gray,Everton,Penalty
 c62d7632,No,14,Kaoru Mitoma,Brighton & Hove Albion,Normal
 c62d7632,No,51,Evan Ferguson,Brighton & Hove Albion,Normal
 c62d7632,No,54,Solly March,Brighton & Hove Albion,Normal
 c62d7632,No,57,Pascal Groß,Brighton & Hove Albion,Normal
 12e0894b,No,17,Aleksandar Mitrović,Fulham,Normal
-af6aa183,Yes,19 ,Ibrahima Konaté,Brentford,Own Goal
 af6aa183,Yes,42 ,Yoane Wissa,Brentford,Normal
 af6aa183,Yes,84 ,Bryan Mbeumo,Brentford,Normal
 af6aa183,No,50,Alex Oxlade-Chamberlain,Liverpool,Normal
@@ -5317,12 +4906,9 @@ dab2ed3a,No,19,Jordan Ayew,Crystal Palace,Normal
 dab2ed3a,No,36,Eberechi Eze,Crystal Palace,Normal
 bcfb66ff,Yes,24 ,Erling Haaland,Manchester City,Normal
 bcfb66ff,No,64,Demarai Gray,Everton,Normal
-a15bf99e,Yes,32 ,James Ward-Prowse,Fulham,Own Goal
 a15bf99e,Yes,88 ,João Palhinha,Fulham,Normal
 a15bf99e,No,56,James Ward-Prowse,Southampton,Normal
 8ef80305,No,76,Marcus Rashford,Manchester United,Normal
-c5e4ccf5,Yes,38 ,Wout Faes,Liverpool,Own Goal
-c5e4ccf5,Yes,45 ,Wout Faes,Liverpool,Own Goal
 c5e4ccf5,No,4,Kiernan Dewsbury-Hall,Leicester City,Normal
 56acbbbe,No,18,Ivan Toney,Brentford,Normal
 56acbbbe,No,43,Josh Dasilva,Brentford,Normal
@@ -5346,8 +4932,6 @@ ab7d4465,No,81,Stefan Bajcetic,Liverpool,Normal
 ef424180,Yes,7 ,Yerry Mina,Everton,Normal
 ef424180,No,22,Daniel Podence,Wolverhampton Wanderers,Normal
 ef424180,No,90+5,Rayan Aït Nouri,Wolverhampton Wanderers,Normal
-bbb301a6,Yes,34 ,Tyrick Mitchell,Crystal Palace,Normal
-bbb301a6,Yes,57 ,James Tomkins,Crystal Palace,Normal
 bbb301a6,No,31,Bobby Reid,Fulham,Normal
 bbb301a6,No,71,Tim Ream,Fulham,Normal
 bbb301a6,No,80,Aleksandar Mitrović,Fulham,Normal
@@ -5411,16 +4995,11 @@ af9dc838,No,63,Gabriel Dos Santos,Arsenal,Normal
 831c73fc,No,45,Youri Tielemans,Leicester City,Normal
 831c73fc,No,86,Harvey Barnes,Leicester City,Normal
 982d16a2,Yes,12 ,Gonçalo Guedes,Wolverhampton Wanderers,Normal
-982d16a2,Yes,35 ,Rúben Neves,Wolverhampton Wanderers,Penalty
-982d16a2,Yes,45+5 ,Nélson Semedo,Wolverhampton Wanderers,Normal
 982d16a2,No,10,Adam Lallana,Brighton & Hove Albion,Normal
 982d16a2,No,44,Kaoru Mitoma,Brighton & Hove Albion,Normal
 982d16a2,No,83,Pascal Groß,Brighton & Hove Albion,Normal
 6ef27b3c,Yes,17 ,Julián Álvarez,Manchester City,Normal
-6ef27b3c,Yes,26 ,João Cancelo,Manchester City,Normal
-6ef27b3c,Yes,90+5 ,Erling Haaland,Manchester City,Penalty
 6ef27b3c,No,28,Andreas Pereira,Fulham,Penalty
-63975c3e,Yes,3 ,Rodrigo,Leeds United,Penalty
 63975c3e,Yes,60 ,Sam Greenwood,Leeds United,Normal
 63975c3e,Yes,68 ,Liam Cooper,Leeds United,Normal
 63975c3e,Yes,84 ,Crysencio Summerville,Leeds United,Normal
@@ -5428,7 +5007,6 @@ af9dc838,No,63,Gabriel Dos Santos,Arsenal,Normal
 63975c3e,No,19,Philip Billing,Bournemouth,Normal
 63975c3e,No,48,Dominic Solanke,Bournemouth,Normal
 12251835,Yes,20 ,Morgan Gibbs-White,Nottingham Forest,Normal
-12251835,Yes,90+6 ,Mathias Jørgensen,Nottingham Forest,Own Goal
 12251835,No,45+3,Bryan Mbeumo,Brentford,Penalty
 12251835,No,75,Yoane Wissa,Brentford,Normal
 cd0f59f6,Yes,38 ,Marcus Rashford,Manchester United,Normal
@@ -5446,11 +5024,8 @@ dcb3b971,No,57,Ryan Sessegnon,Tottenham Hotspur,Normal
 dcb3b971,No,73,Ben Davies,Tottenham Hotspur,Normal
 dcb3b971,No,90+2,Rodrigo Bentancur,Tottenham Hotspur,Normal
 ac6abad1,Yes,5 ,Leandro Trossard,Brighton & Hove Albion,Normal
-ac6abad1,Yes,14 ,Ruben Loftus-Cheek,Brighton & Hove Albion,Own Goal
-ac6abad1,Yes,42 ,Trevoh Chalobah,Brighton & Hove Albion,Own Goal
 ac6abad1,Yes,90+2 ,Pascal Groß,Brighton & Hove Albion,Normal
 ac6abad1,No,48,Kai Havertz,Chelsea,Normal
-96f5ee84,Yes,45+6 ,Callum Wilson,Newcastle United,Penalty
 96f5ee84,Yes,56 ,Callum Wilson,Newcastle United,Normal
 96f5ee84,Yes,59 ,Joelinton,Newcastle United,Normal
 96f5ee84,Yes,67 ,Miguel Almirón,Newcastle United,Normal
@@ -5460,7 +5035,6 @@ ac6abad1,No,48,Kai Havertz,Chelsea,Normal
 41e403d3,No,90+7,Diego Costa,Wolverhampton Wanderers,Normal
 96b9ae4e,No,49,Kevin De Bruyne,Manchester City,Normal
 e9d1a18b,Yes,45 ,Kurt Zouma,West Ham United,Normal
-e9d1a18b,Yes,90+2 ,Saïd Benrahma,West Ham United,Penalty
 ae21490f,Yes,54 ,Harry Kane,Tottenham Hotspur,Normal
 ae21490f,No,31,Callum Wilson,Newcastle United,Normal
 ae21490f,No,40,Miguel Almirón,Newcastle United,Normal
@@ -5477,23 +5051,17 @@ d7b30e2b,No,84,Willian,Fulham,Normal
 8774e664,No,79,Jamie Vardy,Leicester City,Normal
 7764ca02,Yes,2 ,Leon Bailey,Aston Villa,Normal
 7764ca02,Yes,7 ,Danny Ings,Aston Villa,Normal
-7764ca02,Yes,14 ,Danny Ings,Aston Villa,Penalty
 7764ca02,Yes,59 ,Ollie Watkins,Aston Villa,Normal
-7ad85c8a,Yes,87 ,Jorginho,Chelsea,Penalty
 7ad85c8a,No,90+4,Casemiro,Manchester United,Normal
 cd5cd3f0,Yes,22 ,Erling Haaland,Manchester City,Normal
-cd5cd3f0,Yes,43 ,Erling Haaland,Manchester City,Penalty
 cd5cd3f0,Yes,75 ,Kevin De Bruyne,Manchester City,Normal
 cd5cd3f0,No,53,Leandro Trossard,Brighton & Hove Albion,Normal
 24d23a55,Yes,11 ,Dominic Calvert-Lewin,Everton,Normal
 24d23a55,Yes,63 ,Anthony Gordon,Everton,Normal
 24d23a55,Yes,84 ,Dwight McNeil,Everton,Normal
 f92b67c2,Yes,55 ,Taiwo Awoniyi,Nottingham Forest,Normal
-6356af5a,Yes,16 ,Robin Koch,Leicester City,Own Goal
 6356af5a,Yes,35 ,Harvey Barnes,Leicester City,Normal
 e6102606,Yes,36 ,Harrison Reed,Fulham,Normal
-e6102606,Yes,68 ,Aleksandar Mitrović,Fulham,Penalty
-e6102606,Yes,83 ,Tyrone Mings,Fulham,Own Goal
 e6102606,No,62,Douglas Luiz,Aston Villa,Normal
 eebe78c1,Yes,47 ,Fred,Manchester United,Normal
 eebe78c1,Yes,69 ,Bruno Fernandes,Manchester United,Normal
@@ -5509,15 +5077,11 @@ dba5c5ec,Yes,22 ,Darwin Núñez,Liverpool,Normal
 7113ce7f,No,65,Mason Mount,Chelsea,Normal
 2f5adfad,Yes,20 ,Romain Perraud,Southampton,Normal
 2f5adfad,No,64,Declan Rice,West Ham United,Normal
-e42493f9,Yes,59 ,Harry Kane,Tottenham Hotspur,Penalty
 e42493f9,Yes,86 ,Pierre Højbjerg,Tottenham Hotspur,Normal
-c9f8e7e9,Yes,56 ,Rúben Neves,Wolverhampton Wanderers,Penalty
 ab7f61dd,Yes,22 ,Issa Diop,Fulham,Normal
-ab7f61dd,Yes,52 ,Aleksandar Mitrović,Fulham,Penalty
 ab7f61dd,No,2,Dominic Solanke,Bournemouth,Normal
 ab7f61dd,No,29,Jefferson Lerma,Bournemouth,Normal
 69409682,Yes,27 ,Ivan Toney,Brentford,Normal
-69409682,Yes,64 ,Ivan Toney,Brentford,Penalty
 fb99ddf9,Yes,15 ,Emmanuel Dennis,Nottingham Forest,Normal
 fb99ddf9,No,22,Ashley Young,Aston Villa,Normal
 5d426690,Yes,5 ,Alex Iwobi,Everton,Normal
@@ -5525,13 +5089,11 @@ fb99ddf9,No,22,Ashley Young,Aston Villa,Normal
 5d426690,No,44,Cristiano Ronaldo,Manchester United,Normal
 84a48413,Yes,1 ,Gabriel Martinelli,Arsenal,Normal
 84a48413,Yes,45+5 ,Bukayo Saka,Arsenal,Normal
-84a48413,Yes,76 ,Bukayo Saka,Arsenal,Penalty
 84a48413,No,34,Darwin Núñez,Liverpool,Normal
 84a48413,No,53,Roberto Firmino,Liverpool,Normal
 f9563020,Yes,24 ,Odsonne Édouard,Crystal Palace,Normal
 f9563020,Yes,76 ,Eberechi Eze,Crystal Palace,Normal
 f9563020,No,10,Pascal Struijk,Leeds United,Normal
-42e38f9d,Yes,29 ,Jarrod Bowen,West Ham United,Penalty
 42e38f9d,Yes,62 ,Gianluca Scamacca,West Ham United,Normal
 42e38f9d,Yes,90+1 ,Michail Antonio,West Ham United,Normal
 42e38f9d,No,5,Andreas Pereira,Fulham,Normal
@@ -5547,7 +5109,6 @@ c83cb314,Yes,89 ,Armando Broja,Chelsea,Normal
 7dd42d3f,Yes,28 ,Jacob Murphy,Newcastle United,Normal
 7dd42d3f,Yes,56 ,Bruno Guimarães,Newcastle United,Normal
 7dd42d3f,Yes,82 ,Miguel Almirón,Newcastle United,Normal
-7dd42d3f,Yes,90 ,Ethan Pinnock,Newcastle United,Own Goal
 7dd42d3f,No,54,Ivan Toney,Brentford,Penalty
 7db2a40a,Yes,67 ,Philip Billing,Bournemouth,Normal
 7db2a40a,Yes,71 ,Ryan Christie,Bournemouth,Normal
@@ -5556,7 +5117,6 @@ a7976021,Yes,25 ,James Maddison,Leicester City,Normal
 a7976021,Yes,27 ,Harvey Barnes,Leicester City,Normal
 a7976021,Yes,35 ,James Maddison,Leicester City,Normal
 a7976021,Yes,73 ,Patson Daka,Leicester City,Normal
-627d2279,Yes,48 ,Luis Sinisterra,Leeds United,Normal
 886e6108,Yes,8 ,Phil Foden,Manchester City,Normal
 886e6108,Yes,34 ,Erling Haaland,Manchester City,Normal
 886e6108,Yes,37 ,Erling Haaland,Manchester City,Normal
@@ -5568,7 +5128,6 @@ a7976021,Yes,73 ,Patson Daka,Leicester City,Normal
 886e6108,No,90+1,Anthony Martial,Manchester United,Penalty
 89ff6cd8,Yes,29 ,Gianluca Scamacca,West Ham United,Normal
 89ff6cd8,Yes,54 ,Jarrod Bowen,West Ham United,Normal
-dcde1172,Yes,8 ,Nathaniel Chalobah,Fulham,Normal
 dcde1172,Yes,88 ,Bobby Reid,Fulham,Normal
 dcde1172,No,11,Callum Wilson,Newcastle United,Normal
 dcde1172,No,33,Miguel Almirón,Newcastle United,Normal
@@ -5576,7 +5135,6 @@ dcde1172,No,43,Sean Longstaff,Newcastle United,Normal
 dcde1172,No,57,Miguel Almirón,Newcastle United,Normal
 aadd2e80,Yes,33 ,Roberto Firmino,Liverpool,Normal
 aadd2e80,Yes,54 ,Roberto Firmino,Liverpool,Normal
-aadd2e80,Yes,63 ,Adam Webster,Liverpool,Own Goal
 aadd2e80,No,4,Leandro Trossard,Brighton & Hove Albion,Normal
 aadd2e80,No,17,Leandro Trossard,Brighton & Hove Albion,Normal
 aadd2e80,No,83,Leandro Trossard,Brighton & Hove Albion,Normal
@@ -5603,9 +5161,7 @@ fd5626e6,No,49,Fabio Vieira,Arsenal,Normal
 99e44c16,Yes,86 ,Son Heung-min,Tottenham Hotspur,Normal
 99e44c16,No,6,Youri Tielemans,Leicester City,Penalty
 99e44c16,No,41,James Maddison,Leicester City,Normal
-177da679,Yes,67 ,Alexander Isak,Newcastle United,Penalty
 177da679,No,62,Philip Billing,Bournemouth,Normal
-96b5cc15,Yes,33 ,Nathan Collins,Wolverhampton Wanderers,Normal
 96b5cc15,No,1,Jack Grealish,Manchester City,Normal
 96b5cc15,No,16,Erling Haaland,Manchester City,Normal
 96b5cc15,No,69,Phil Foden,Manchester City,Normal
@@ -5619,10 +5175,8 @@ d0d07e66,No,60,Harrison Reed,Fulham,Normal
 61ddafa5,Yes,66 ,Marcus Rashford,Manchester United,Normal
 61ddafa5,Yes,75 ,Marcus Rashford,Manchester United,Normal
 61ddafa5,No,60,Bukayo Saka,Arsenal,Normal
-42d5b3b1,Yes,10 ,Luke Thomas,Brighton & Hove Albion,Own Goal
 42d5b3b1,Yes,15 ,Moisés Caicedo,Brighton & Hove Albion,Normal
 42d5b3b1,Yes,64 ,Leandro Trossard,Brighton & Hove Albion,Normal
-42d5b3b1,Yes,71 ,Alexis Mac Allister,Brighton & Hove Albion,Penalty
 42d5b3b1,Yes,90+7 ,Alexis Mac Allister,Brighton & Hove Albion,Normal
 42d5b3b1,No,1,Kelechi Iheanacho,Leicester City,Normal
 42d5b3b1,No,33,Patson Daka,Leicester City,Normal
@@ -5634,7 +5188,6 @@ d7642197,No,62,Michail Antonio,West Ham United,Normal
 a497b725,Yes,40 ,Pierre Højbjerg,Tottenham Hotspur,Normal
 a497b725,Yes,75 ,Harry Kane,Tottenham Hotspur,Normal
 a497b725,No,83,Aleksandar Mitrović,Fulham,Normal
-88f9aad9,Yes,30 ,Ivan Toney,Brentford,Penalty
 88f9aad9,Yes,43 ,Ivan Toney,Brentford,Normal
 88f9aad9,Yes,58 ,Ivan Toney,Brentford,Normal
 88f9aad9,Yes,80 ,Bryan Mbeumo,Brentford,Normal
@@ -5643,7 +5196,6 @@ a497b725,No,83,Aleksandar Mitrović,Fulham,Normal
 88f9aad9,No,79,Marc Roca,Leeds United,Normal
 13f50518,Yes,45+1 ,Daniel Podence,Wolverhampton Wanderers,Normal
 05f32555,Yes,33 ,Cheikhou Kouyaté,Nottingham Forest,Normal
-05f32555,Yes,45+2 ,Brennan Johnson,Nottingham Forest,Penalty
 05f32555,No,51,Philip Billing,Bournemouth,Normal
 05f32555,No,63,Dominic Solanke,Bournemouth,Normal
 05f32555,No,87,Jaidon Anthony,Bournemouth,Normal
@@ -5670,7 +5222,6 @@ afd303a8,No,23,Raheem Sterling,Chelsea,Normal
 e1d6440f,Yes,59 ,Wilfried Zaha,Crystal Palace,Normal
 e1d6440f,No,88,Yoane Wissa,Brentford,Normal
 361f4461,Yes,48 ,Aleksandar Mitrović,Fulham,Normal
-361f4461,Yes,55 ,Lewis Dunk,Fulham,Own Goal
 361f4461,No,60,Alexis Mac Allister,Brighton & Hove Albion,Penalty
 3c364307,No,5,Harry Kane,Tottenham Hotspur,Normal
 3c364307,No,81,Harry Kane,Tottenham Hotspur,Normal
@@ -5685,13 +5236,11 @@ de515487,Yes,6 ,Harvey Elliott,Liverpool,Normal
 de515487,Yes,28 ,Trent Alexander-Arnold,Liverpool,Normal
 de515487,Yes,31 ,Roberto Firmino,Liverpool,Normal
 de515487,Yes,45 ,Virgil van Dijk,Liverpool,Normal
-de515487,Yes,46 ,Chris Mepham,Liverpool,Own Goal
 de515487,Yes,62 ,Roberto Firmino,Liverpool,Normal
 de515487,Yes,80 ,Fabio Carvalho,Liverpool,Normal
 de515487,Yes,85 ,Luis Díaz,Liverpool,Normal
 db59fc65,Yes,84 ,Vitaly Janelt,Brentford,Normal
 db59fc65,No,24,Anthony Gordon,Everton,Normal
-b737a3a7,Yes,28 ,Conor Gallagher,Chelsea,Normal
 b737a3a7,Yes,47 ,Raheem Sterling,Chelsea,Normal
 b737a3a7,Yes,63 ,Raheem Sterling,Chelsea,Normal
 b737a3a7,No,66,Harvey Barnes,Leicester City,Normal
@@ -5736,7 +5285,6 @@ a107c037,No,71,Ivan Toney,Brentford,Normal
 02efd4d1,No,68,Che Adams,Southampton,Normal
 02efd4d1,No,84,Che Adams,Southampton,Normal
 5cc3bd0e,Yes,64 ,Harry Kane,Tottenham Hotspur,Normal
-b3c6f709,Yes,57 ,Darwin Núñez,Liverpool,Normal
 b3c6f709,Yes,61 ,Luis Díaz,Liverpool,Normal
 b3c6f709,No,32,Wilfried Zaha,Crystal Palace,Normal
 01e57bf5,Yes,19 ,Kalidou Koulibaly,Chelsea,Normal
@@ -5761,13 +5309,11 @@ b1ebeda5,Yes,45+2 ,Taiwo Awoniyi,Nottingham Forest,Normal
 311d705c,Yes,19 ,İlkay Gündoğan,Manchester City,Normal
 311d705c,Yes,31 ,Kevin De Bruyne,Manchester City,Normal
 311d705c,Yes,37 ,Phil Foden,Manchester City,Normal
-311d705c,Yes,79 ,Jefferson Lerma,Manchester City,Own Goal
 8cd71c65,Yes,31 ,Danny Ings,Aston Villa,Normal
 8cd71c65,Yes,85 ,Emi Buendía,Aston Villa,Normal
 8cd71c65,No,87,Lucas Digne,Everton,Own Goal
 ece62baf,No,36,Erling Haaland,Manchester City,Penalty
 ece62baf,No,65,Erling Haaland,Manchester City,Normal
-8251694e,Yes,68 ,Alexis Mac Allister,Manchester United,Own Goal
 8251694e,No,30,Pascal Groß,Brighton & Hove Albion,Normal
 8251694e,No,39,Pascal Groß,Brighton & Hove Albion,Normal
 3249ba27,Yes,33 ,Timothy Castagne,Leicester City,Normal
@@ -5778,17 +5324,14 @@ ece62baf,No,65,Erling Haaland,Manchester City,Normal
 877e3193,Yes,2 ,Jefferson Lerma,Bournemouth,Normal
 877e3193,Yes,80 ,Kieffer Moore,Bournemouth,Normal
 82702941,Yes,24 ,Rodrigo,Leeds United,Normal
-82702941,Yes,74 ,Rayan Aït Nouri,Leeds United,Own Goal
 82702941,No,6,Daniel Podence,Wolverhampton Wanderers,Normal
 1ac96eb4,Yes,58 ,Fabian Schär,Newcastle United,Normal
 1ac96eb4,Yes,78 ,Callum Wilson,Newcastle United,Normal
 09d8a999,Yes,21 ,Ryan Sessegnon,Tottenham Hotspur,Normal
 09d8a999,Yes,31 ,Eric Dier,Tottenham Hotspur,Normal
-09d8a999,Yes,61 ,Mohammed Salisu,Tottenham Hotspur,Own Goal
 09d8a999,Yes,63 ,Dejan Kulusevski,Tottenham Hotspur,Normal
 09d8a999,No,12,James Ward-Prowse,Southampton,Normal
 6713c1dc,Yes,32 ,Aleksandar Mitrović,Fulham,Normal
-6713c1dc,Yes,72 ,Aleksandar Mitrović,Fulham,Penalty
 6713c1dc,No,64,Darwin Núñez,Liverpool,Normal
 6713c1dc,No,80,Mohamed Salah,Liverpool,Normal
 e62f6e78,No,20,Gabriel Martinelli,Arsenal,Normal
