@@ -250,7 +250,7 @@ class CrawlmatchSpider(scrapy.Spider):
             else:   away_squad['is_sub'] = 'No'
             yield away_squad
 #----------------------------------------------------------------Goals--------------------------------------------------
-        home_goals = response.xpath('//div[@class="event" and @id="a"]/div//text()').extract()
+        home_goals = response.xpath('//div[@class="event" and @id="a"]/div[./div[@class = "event_icon goal"]]//text()').extract()
         home_goals = [goal\
                             .replace('&rsquor;','')\
                             .replace('\xa0','')\
