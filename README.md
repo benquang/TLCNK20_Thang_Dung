@@ -1,5 +1,5 @@
 # Data Process
-Data Source: fbreb, sofifa
+Data Source: <a href="https://github.com/benquang/TLCNK20_Thang_Dung/tree/master/data_processing/fbref">fbreb</a>fbreb, sofifa <br>
 Quá trình xử lý data về các statistics các maches qua 5 mùa (2018-2023) được thực hiện thông qua các bước:
 - prepare.ipynb: sửa tên các attribute, định dạng kiểu dữ liệu, chọn lọc các attribute cần thiết,... (kết quả được lưu trong fbref_modified và sofifa_modified) 
 - analysis.ipynb: thay đổi các statistics, kết hợp các statistics giữa fbref và sofifa (kết quả được lưu trong merge)
