@@ -32,7 +32,8 @@ class CrawlmatchSpider(scrapy.Spider):
     }
     def parse(self, response):
         for url in self.start_urls:
-            yield response.follow(url = url,callback = self.parse_on_seasons,
+            yield response.follow(url = url,
+                                  callback = self.parse_on_seasons,
                                   meta = {'current_url':url}
                                 )
     def parse_on_seasons(self,response):
