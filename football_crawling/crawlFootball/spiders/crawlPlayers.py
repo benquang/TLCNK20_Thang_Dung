@@ -19,15 +19,6 @@ class CrawlplayersSpider(scrapy.Spider):
     }
     start_urls = ["https://sofifa.com"]
     start_url = "https://www.sofifa.com"
-    # leauges = ['13',#Premier Leauge
-    #           '16',#Leauge 1
-    #           '19',#Bundesliga
-    #           '31',#Seria A
-    #           '53'#La Liga
-    #           ]
-    # numOfVersions = 10
-    # version = 230053
-    leauges = ['13']#Premier Leauge
 
     numOfVersions = 11
     
