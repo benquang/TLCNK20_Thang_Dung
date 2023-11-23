@@ -57,12 +57,14 @@ class CrawlplayersSpider(scrapy.Spider):
 
 
     def parse_on_pages(self,response):
-        players = response.css('td[class="col-name"] a[role="tooltip"][data-tip-pos = "top"]::attr(href)').extract()
+        players = response.css('td[class="col-name"] a[role="tooltip"]
+                                  [data-tip-pos = "top"]::attr(href)').extract()
         for player in players:
             yield response.follow(self.start_url+player,callback = self.parse_on_players,
                                   meta = {'current_url':self.start_url+player}
                                   )
-        next_page_url = response.xpath('//a[@class="bp3-button bp3-intent-primary pjax" and ./span/text() = "Next"]/@href').get()
+        next_page_url = response.xpath('//a[@class="bp3-button bp3-intent-primary pjax" 
+                                        and ./span/text() = "Next"]/@href').get()
         # if (next_page_url!=''):
         if (next_page_url is not None):
             yield response.follow(self.start_url+next_page_url,callback = self.parse_on_pages,
