@@ -32,7 +32,8 @@ class CrawlmatchSpider(scrapy.Spider):
     }
     def parse(self, response):
         for url in self.start_urls:
-            yield response.follow(url = url,callback = self.parse_on_seasons,
+            yield response.follow(url = url,
+                                  callback = self.parse_on_seasons,
                                   meta = {'current_url':url}
                                 )
     def parse_on_seasons(self,response):
@@ -40,19 +41,22 @@ class CrawlmatchSpider(scrapy.Spider):
         for i in range(0,self.numOfSeason):
             response.meta['current_url'] = start_url
             season = self.season - i
-            season_url = str(season) + "-" + str(season+1)+'/schedule/' #2022-2023/schedule
-            response.meta['season'] = str(season) + "/" + str(season+1) #Get season for csv file
-            response.meta['current_url'] += season_url  #https://fbref.com/en/comps/9/2022-2023/schedule
+            season_url = str(season) + "-" + str(season+1)+'/schedule/' 
+            response.meta['season'] = str(season) + "/" + str(season+1) 
+            response.meta['current_url'] += season_url 
             current_url = response.meta['current_url']
             yield response.follow(url = current_url,callback = self.parse_on_matches,
                                   meta = response.meta
                                   )
     def parse_on_matches(self,response):
-        matches = response.xpath('//td[@class= "center " and @data-stat="score"]/a/@href').extract()
+        matches = response.xpath('//td[@class= "center " 
+                                  and @data-stat="score"]/a/@href').extract()
         for match in matches:
             current_url = "https://fbref.com" + match
             response.meta['current_url'] = current_url
-            yield response.follow(url = current_url,callback = self.parse_on_match_stats,meta = response.meta)
+            yield response.follow(url = current_url,
+                                  callback = self.parse_on_match_stats,
+                                  meta = response.meta)
     def parse_on_match_stats(self,response):
         function = Functions()
         home_stats = fbref_MatchStats() 

@@ -19,15 +19,6 @@ class CrawlplayersSpider(scrapy.Spider):
     }
     start_urls = ["https://sofifa.com"]
     start_url = "https://www.sofifa.com"
-    # leauges = ['13',#Premier Leauge
-    #           '16',#Leauge 1
-    #           '19',#Bundesliga
-    #           '31',#Seria A
-    #           '53'#La Liga
-    #           ]
-    # numOfVersions = 10
-    # version = 230053
-    leauges = ['13']#Premier Leauge
 
     numOfVersions = 11
     
@@ -66,12 +57,14 @@ class CrawlplayersSpider(scrapy.Spider):
 
 
     def parse_on_pages(self,response):
-        players = response.css('td[class="col-name"] a[role="tooltip"][data-tip-pos = "top"]::attr(href)').extract()
+        players = response.css('td[class="col-name"] a[role="tooltip"]
+                                  [data-tip-pos = "top"]::attr(href)').extract()
         for player in players:
             yield response.follow(self.start_url+player,callback = self.parse_on_players,
                                   meta = {'current_url':self.start_url+player}
                                   )
-        next_page_url = response.xpath('//a[@class="bp3-button bp3-intent-primary pjax" and ./span/text() = "Next"]/@href').get()
+        next_page_url = response.xpath('//a[@class="bp3-button bp3-intent-primary pjax" 
+                                        and ./span/text() = "Next"]/@href').get()
         # if (next_page_url!=''):
         if (next_page_url is not None):
             yield response.follow(self.start_url+next_page_url,callback = self.parse_on_pages,
@@ -82,17 +75,21 @@ class CrawlplayersSpider(scrapy.Spider):
         functions = Functions()
         player = Player()
         
-        player['update_date'] = response.xpath('//div[@class="dropdown"][2]/a/span/text()').extract()
-        all_positions = response.xpath('//div[@class = "meta ellipsis"]/span/text()').extract()
+        player['update_date'] = response.xpath('//div[@class="dropdown"][2]
+                                                /a/span/text()').extract()
+        all_positions = response.xpath('//div[@class = "meta ellipsis"]
+                                        /span/text()').extract()
         player['all_positions'] =''
         for i,position in enumerate(all_positions):
             player['all_positions'] += position
             if i!=len(all_positions)-1:
                 player['all_positions'] += ' '
         
-        player['player_full_name'] = response.css("div[class= info] h1::text").extract()
+        player['player_full_name'] = response.css("div[class= info] 
+                                                   h1::text").extract()
         player['player_name'] = response.css("h1::text").get()
-        player['nationality'] = response.css('div[class = "meta ellipsis"] a::attr(title)').get()
+        player['nationality'] = response.css('div[class = "meta ellipsis"] 
+                                              a::attr(title)').get()
         infos = response.xpath('//div[@class="info"]/div/text()').extract()
         infos = infos[-1]
         infos = functions.ExtractInfosString(infos)
@@ -103,25 +100,40 @@ class CrawlplayersSpider(scrapy.Spider):
         ratings = response.xpath('//div[./div[@class="sub"]]/span/text()').extract()
         player['overall_rating'] = ratings[0]
         player['potential'] = ratings[1]
-        player['value'] = response.xpath('//div[./div[@class="sub"]/text()="Value"]/text()').get()
-        player['wage'] = response.xpath('//div[./div[@class="sub"]/text()="Wage"]/text()').get()
+        player['value'] = response.xpath('//div[./div[@class="sub"]
+                                          /text()="Value"]/text()').get()
+        player['wage'] = response.xpath('//div[./div[@class="sub"]
+                                          /text()="Wage"]/text()').get()
 
         #Profile
-        player['preferred_foot'] = response.xpath('//li[@class = "ellipsis" and ./label/text()="Preferred foot"]/text()').get()
-        player['skill_moves'] = response.xpath('//li[@class = "ellipsis" and ./label/text()="Skill moves"]/text()').get()[0]
-        player['weak_foot'] = response.xpath('//li[@class = "ellipsis" and ./label/text()="Weak foot"]/text()').get()[0]
-        player['reputation'] = response.xpath('//li[@class = "ellipsis" and ./label/text()="International reputation"]/text()').get()[0]
+        player['preferred_foot'] = response.xpath('//li[@class = "ellipsis" 
+                                                   and ./label/text()="Preferred foot"]
+                                                   /text()').get()
+        player['skill_moves'] = response.xpath('//li[@class = "ellipsis" 
+                                                and ./label/text()="Skill moves"]
+                                                /text()').get()[0]
+        player['weak_foot'] = response.xpath('//li[@class = "ellipsis" 
+                                            and ./label/text()="Weak foot"]
+                                            /text()').get()[0]
+        player['reputation'] = response.xpath('//li[@class = "ellipsis" 
+                                            and ./label/text()="International reputation"]
+                                            /text()').get()[0]
         
-        workRates = response.xpath('//li[@class = "ellipsis" and ./label/text()="Work rate"]/span/text()').get()
+        workRates = response.xpath('//li[@class = "ellipsis" 
+                                            and ./label/text()="Work rate"]/span/text()').get()
         workRates = functions.ExtractWorkRates(workRates)
         player['attacking_work_rate'] = workRates[0]
         player['defensive_work_rate'] = workRates[1]
-        player['body_type'] = response.xpath('//li[@class = "ellipsis" and ./label/text()="Body type"]/span/text()').get()
-        player['real_face'] = response.xpath('//li[@class = "ellipsis" and ./label/text()="Real face"]/span/text()').get()
-        player['sofifa_id'] = response.xpath('//li[@class = "ellipsis" and ./label/text()="ID"]/text()').get()
+        player['body_type'] = response.xpath('//li[@class = "ellipsis" 
+                                                and ./label/text()="Body type"]/span/text()').get()
+        player['real_face'] = response.xpath('//li[@class = "ellipsis" 
+                                                and ./label/text()="Real face"]/span/text()').get()
+        player['sofifa_id'] = response.xpath('//li[@class = "ellipsis" 
+                                                and ./label/text()="ID"]/text()').get()
 
         #Specialities //div[@class = "card" and ./h5/text()="Player specialities"]/ul/li/a/text()
-        specialities = response.xpath('//div[@class = "card" and ./h5/text()="Player specialities"]/ul/li/a/text()').extract()
+        specialities = response.xpath('//div[@class = "card" 
+                                        and ./h5/text()="Player specialities"]/ul/li/a/text()').extract()
         player['specialities'] = ''
         for speciality in specialities:
             player['specialities']+=speciality
@@ -130,17 +142,24 @@ class CrawlplayersSpider(scrapy.Spider):
         player['team1'] = teams[0]
         player['team1'] = player['team1'][1:]
         player['team1_rating'] = response.xpath('//ul[@class = "ellipsis pl"]/li[1]/span/text()').get()
-        player['team1_position'] = response.xpath('(//ul[@class = "ellipsis pl"]/li[./label/text()="Position"]/span/text())[1]').get()
-        player['team1_kitnum']=response.xpath('(//ul[@class = "ellipsis pl"]/li[./label/text()="Kit number"]/text())[1]').get()
-        player['team1_loaned_from']=response.xpath('(//ul[@class = "ellipsis pl"]/li[./label/text()="Loaned from"]/a/text())[1]').get()
-        player['team1_joined'] = response.xpath('(//ul[@class = "ellipsis pl"]/li[./label/text()="Joined"]/text())[1]').get()
-        player['team1_contract'] = response.xpath('(//ul[@class = "ellipsis pl"]/li[./label/text()="Contract valid until"]/text())[1]').get()
+        player['team1_position'] = response.xpath('(//ul[@class = "ellipsis pl"]/li[./label/text()="Position"]
+                                                    /span/text())[1]').get()
+        player['team1_kitnum']=response.xpath('(//ul[@class = "ellipsis pl"]/li[./label/text()="Kit number"]
+                                                /text())[1]').get()
+        player['team1_loaned_from']=response.xpath('(//ul[@class = "ellipsis pl"]/li[./label/text()="Loaned from"]
+                                                /a/text())[1]').get()
+        player['team1_joined'] = response.xpath('(//ul[@class = "ellipsis pl"]/li[./label/text()="Joined"]
+                                                /text())[1]').get()
+        player['team1_contract'] = response.xpath('(//ul[@class = "ellipsis pl"]/li[./label/text()="Contract valid until"]
+                                                /text())[1]').get()
         if (len(teams)>1):
             player['team2'] = teams[1]
             player['team2'] = player['team2'][1:]
             player['team2_rating'] = response.xpath('//ul[@class = "ellipsis pl"]/li[1]/span/text()').extract()[1]
-            player['team2_position'] = response.xpath('(//ul[@class = "ellipsis pl"]/li[./label/text()="Position"]/span/text())[2]').get()
-            player['team2_kitnum']=response.xpath('(//ul[@class = "ellipsis pl"]/li[./label/text()="Kit number"]/text())[2]').get()
+            player['team2_position'] = response.xpath('(//ul[@class = "ellipsis pl"]/li[./label/text()="Position"]
+                                                        /span/text())[2]').get()
+            player['team2_kitnum']=response.xpath('(//ul[@class = "ellipsis pl"]/li[./label/text()="Kit number"]
+                                                    /text())[2]').get()
         
         updateDate = response.css('span[class="bp3-button-text"]::text').extract()[1]
         updateDate = functions.ConvertUpdateDate(updateDate)
