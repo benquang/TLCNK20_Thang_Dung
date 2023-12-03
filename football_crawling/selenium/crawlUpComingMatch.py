@@ -156,17 +156,15 @@ def kafka_producer():
             bootstrap_servers = 'localhost:9092',
             value_serializer=lambda v: json.dumps(v).encode('utf-8-sig')
         )
-    topic = "topic_is_in_here"
     with open('data.csv', 'r',encoding='utf-8-sig') as f:
         csv_reader = csv.reader(f)
         for row in csv_reader:
-            headers = [("new_topic",bytes(topic,encoding='utf-8-sig'))]
-            producer.send('testtopic',row,headers=headers)
+            producer.send('UpComingMatch_Topic',row)
             producer.flush() # Đợi cho tất cả message cho queue được gửi đi
             print(row)
 
 def main():
-    crawlUpComingMatch()
+    # crawlUpComingMatch()
     kafka_producer()
 
 if __name__ == "__main__":
