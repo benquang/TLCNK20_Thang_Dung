@@ -154,11 +154,12 @@ def crawlUpComingMatch():
 def kafka_producer():
     producer = KafkaProducer(
             bootstrap_servers = 'localhost:9092',
-            value_serializer=lambda v: json.dumps(v).encode('utf-8-sig')
+            value_serializer=lambda v: json.dumps(v).encode('utf-8')
         )
-    with open('data.csv', 'r',encoding='utf-8-sig') as f:
-        csv_reader = csv.reader(f)
-        for row in csv_reader:
+    with open('data.csv', 'r',encoding='utf-8') as f:
+        for row in f:
+            row = row.strip()
+            row=row.strip('\n')
             producer.send('UpComingMatch_Topic',row)
             producer.flush() # Đợi cho tất cả message cho queue được gửi đi
             print(row)
