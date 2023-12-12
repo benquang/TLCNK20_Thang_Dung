@@ -12,32 +12,32 @@ import json
 import csv
 def crawlUpComingMatch():
     data = {
-        'match_date': [],
-        'league': [],
-        'home_team': [],
-        'away_team': [],
-        'home_player1': [],
-        'home_player2': [],
-        'home_player3': [],
-        'home_player4': [],
-        'home_player5': [],
-        'home_player6': [],
-        'home_player7': [],
-        'home_player8': [],
-        'home_player9': [],
-        'home_player10': [],
-        'home_player11': [],
-        'away_player1': [],
-        'away_player2': [],
-        'away_player3': [],
-        'away_player4': [],
-        'away_player5': [],
-        'away_player6': [],
-        'away_player7': [],
-        'away_player8': [],
-        'away_player9': [],
-        'away_player10': [],
-        'away_player11': []
+        'Match_Date': [],
+        'League': [],
+        'Home_Team': [],
+        'Away_Team': [],
+        'Home_Player1': [],
+        'Home_Player2': [],
+        'Home_Player3': [],
+        'Home_Player4': [],
+        'Home_Player5': [],
+        'Home_Player6': [],
+        'Home_Player7': [],
+        'Home_Player8': [],
+        'Home_Player9': [],
+        'Home_Player10': [],
+        'Home_Player11': [],
+        'Away_Player1': [],
+        'Away_Player2': [],
+        'Away_Player3': [],
+        'Away_Player4': [],
+        'Away_Player5': [],
+        'Away_Player6': [],
+        'Away_Player7': [],
+        'Away_Player8': [],
+        'Away_Player9': [],
+        'Away_Player10': [],
+        'Away_Player11': []
     }
 
     df = pd.DataFrame(data)
@@ -90,65 +90,58 @@ def crawlUpComingMatch():
                 print(away_player_names)
                 
                 row_data = data = {
-                    'match_date': date,
-                    'league': 'Premier Leauge',
-                    'home_team': home_team,
-                    'away_team': away_team,
-                    'home_player1': [home_player_names[0]],
-                    'home_player2': [home_player_names[1]],
-                    'home_player3': [home_player_names[2]],
-                    'home_player4': [home_player_names[3]],
-                    'home_player5': [home_player_names[4]],
-                    'home_player6': [home_player_names[5]],
-                    'home_player7': [home_player_names[6]],
-                    'home_player8': [home_player_names[7]],
-                    'home_player9': [home_player_names[8]],
-                    'home_player10': [home_player_names[9]],
-                    'home_player11': [home_player_names[10]],
-                    'away_player1': [away_player_names[0]],
-                    'away_player2': [away_player_names[1]],
-                    'away_player3': [away_player_names[2]],
-                    'away_player4': [away_player_names[3]],
-                    'away_player5': [away_player_names[4]],
-                    'away_player6': [away_player_names[5]],
-                    'away_player7': [away_player_names[6]],
-                    'away_player8': [away_player_names[7]],
-                    'away_player9': [away_player_names[8]],
-                    'away_player10': [away_player_names[9]],
-                    'away_player11': [away_player_names[10]],
-                    'home_kit1': [home_kits[0]],
-                    'home_kit2': [home_kits[1]],
-                    'home_kit3': [home_kits[2]],
-                    'home_kit4': [home_kits[3]],
-                    'home_kit5': [home_kits[4]],
-                    'home_kit6': [home_kits[5]],
-                    'home_kit7': [home_kits[6]],
-                    'home_kit8': [home_kits[7]],
-                    'home_kit9': [home_kits[8]],
-                    'home_kit10': [home_kits[9]],
-                    'home_kit11': [home_kits[10]],
-                    'away_kit1': [away_kits[0]],
-                    'away_kit2': [away_kits[1]],
-                    'away_kit3': [away_kits[2]],
-                    'away_kit4': [away_kits[3]],
-                    'away_kit5': [away_kits[4]],
-                    'away_kit6': [away_kits[5]],
-                    'away_kit7': [away_kits[6]],
-                    'away_kit8': [away_kits[7]],
-                    'away_kit9': [away_kits[8]],
-                    'away_kit10': [away_kits[9]],
-                    'away_kit11': [away_kits[10]],
+                    'Match_Date': date,
+                    'League': 'Premier League',
+                    'Home_Team': home_team,
+                    'Away_Team': away_team,
+                    'Home_Player1': [home_player_names[0]],
+                    'Home_Player2': [home_player_names[1]],
+                    'Home_Player3': [home_player_names[2]],
+                    'Home_Player4': [home_player_names[3]],
+                    'Home_Player5': [home_player_names[4]],
+                    'Home_Player6': [home_player_names[5]],
+                    'Home_Player7': [home_player_names[6]],
+                    'Home_Player8': [home_player_names[7]],
+                    'Home_Player9': [home_player_names[8]],
+                    'Home_Player10': [home_player_names[9]],
+                    'Home_Player11': [home_player_names[10]],
+                    'Away_Player1': [away_player_names[0]],
+                    'Away_Player2': [away_player_names[1]],
+                    'Away_Player3': [away_player_names[2]],
+                    'Away_Player4': [away_player_names[3]],
+                    'Away_Player5': [away_player_names[4]],
+                    'Away_Player6': [away_player_names[5]],
+                    'Away_Player7': [away_player_names[6]],
+                    'Away_Player8': [away_player_names[7]],
+                    'Away_Player9': [away_player_names[8]],
+                    'Away_Player10': [away_player_names[9]],
+                    'Away_Player11': [away_player_names[10]],
+                    'Home_Kit1': [home_kits[0]],
+                    'Home_Kit2': [home_kits[1]],
+                    'Home_Kit3': [home_kits[2]],
+                    'Home_Kit4': [home_kits[3]],
+                    'Home_Kit5': [home_kits[4]],
+                    'Home_Kit6': [home_kits[5]],
+                    'Home_Kit7': [home_kits[6]],
+                    'Home_Kit8': [home_kits[7]],
+                    'Home_Kit9': [home_kits[8]],
+                    'Home_Kit10': [home_kits[9]],
+                    'Home_Kit11': [home_kits[10]],
+                    'Away_Kit1': [away_kits[0]],
+                    'Away_Kit2': [away_kits[1]],
+                    'Away_Kit3': [away_kits[2]],
+                    'Away_Kit4': [away_kits[3]],
+                    'Away_Kit5': [away_kits[4]],
+                    'Away_Kit6': [away_kits[5]],
+                    'Away_Kit7': [away_kits[6]],
+                    'Away_Kit8': [away_kits[7]],
+                    'Away_Kit9': [away_kits[8]],
+                    'Away_Kit10': [away_kits[9]],
+                    'Away_Kit11': [away_kits[10]],
                 }
                 df = pd.concat([df, pd.DataFrame(row_data, index=[0])], ignore_index=True)
     finally:
-        #Header:
-            #match_date,league,home_team,away_team,home_player1,home_player2,home_player3,home_player4,home_player5,
-            # home_player6,home_player7,home_player8,home_player9,home_player10,home_player11,away_player1,away_player2,
-            # away_player3,away_player4,away_player5,away_player6,away_player7,away_player8,away_player9,away_player10,
-            # away_player11,home_kit1,home_kit2,home_kit3,home_kit4,home_kit5,home_kit6,home_kit7,home_kit8,home_kit9,
-            # home_kit10,home_kit11,away_kit1,away_kit2,away_kit3,away_kit4,away_kit5,away_kit6,away_kit7,away_kit8,
-            # away_kit9,away_kit10,away_kit11
-        df.to_csv('data.csv', index=False, encoding='utf-8-sig',header=False)
+        df.to_csv('data.csv', index=False, encoding='utf-8-sig',header=True)
         driver.quit()
 
 def kafka_producer():
@@ -156,7 +149,7 @@ def kafka_producer():
             bootstrap_servers = 'localhost:9092',
             value_serializer=lambda v: json.dumps(v).encode('utf-8')
         )
-    with open('data.csv', 'r',encoding='utf-8') as f:
+    with open('data.csv', 'r',encoding='utf-8-sig') as f:
         for row in f:
             row = row.strip()
             row=row.strip('\n')
@@ -165,8 +158,8 @@ def kafka_producer():
             print(row)
 
 def main():
-    # crawlUpComingMatch()
-    kafka_producer()
+    crawlUpComingMatch()
+    # kafka_producer()
 
 if __name__ == "__main__":
     main()

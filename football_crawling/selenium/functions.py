@@ -10,5 +10,5 @@ class CustomFuncs:
         # Add the current year to the date object
         date_obj = date_obj.replace(year=current_year)
         # Format the date as "dd/mm/yyyy"
-        formatted_date = date_obj.strftime("%d/%m/%Y")
+        formatted_date = date_obj.strftime("%Y-%m-%d")
         return formatted_date

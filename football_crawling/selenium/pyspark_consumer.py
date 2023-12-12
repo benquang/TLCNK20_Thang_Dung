@@ -95,7 +95,18 @@ if __name__ == "__main__":
             .option("path", "./output/csv") \
             .trigger(processingTime='3 seconds')\
             .option("encoding", "UTF-8")\
+            .option("header", "true")\
             .start()
+    # query = df.writeStream\
+    #         .format("csv")\
+    #         .outputMode("append")\
+    #         .option("checkpointLocation", "hdfs://localhost:9000/output/checkpoint") \
+    #         .option("path", "hdfs://localhost:9000/output/csv") \
+    #         .trigger(processingTime='3 seconds')\
+    #         .option("encoding", "UTF-8")\
+    #         .option("header", "true")\
+    #         .start()
+    
 
 
     query.awaitTermination()
