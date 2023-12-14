@@ -1,0 +1,224 @@
+Sofifa_Id,Team1,Team2,Player_Name,All_Positions,Age,Overall_Rating,Potential,Value,Team1_Position
+264453,Tottenham Hotspur,,M. van de Ven,CB LB,22,78,85,26500000.0,LCB
+231943,Tottenham Hotspur,,Richarlison,ST LW RW,26,80,83,28000000.0,SUB
+247394,Tottenham Hotspur,Sweden,D. Kulusevski,RW,23,81,85,37000000.0,RW
+243576,Tottenham Hotspur,,Pedro Porro,RB RWB,23,81,84,32500000.0,RB
+226226,Tottenham Hotspur,Argentina,G. Lo Celso,CAM ST,27,81,82,29500000.0,SUB
+240091,Tottenham Hotspur,Italy,G. Vicario,GK,26,82,85,30500000.0,GK
+232488,Tottenham Hotspur,Argentina,C. Romero,CB,25,82,86,38000000.0,RCB
+227535,Tottenham Hotspur,,R. Bentancur,CM CDM,26,82,85,39500000.0,SUB
+220697,Tottenham Hotspur,England,J. Maddison,CAM RM CM,26,84,85,49500000.0,LCM
+213648,Tottenham Hotspur,Denmark,P. Højbjerg,CDM CM,27,84,85,43000000.0,SUB
+200104,Tottenham Hotspur,,H. Son,LW,30,87,87,77000000.0,ST
+236499,Aston Villa,,Douglas Luiz,CDM CM,25,79,83,22000000.0,RDM
+229906,Aston Villa,,L. Bailey,RM ST RW,25,79,80,21000000.0,RM
+227678,Aston Villa,,E. Konsa,CB,25,79,82,20500000.0,RCB
+238067,Aston Villa,Italy,N. Zaniolo,RM CF,23,80,84,30000000.0,SUB
+236987,Aston Villa,France,B. Kamara,CDM CM,23,80,85,29000000.0,LDM
+221697,Aston Villa,,O. Watkins,ST,27,80,81,24500000.0,LS
+219693,Aston Villa,,Diego Carlos,CB,30,81,81,21000000.0,SUB
+216393,Aston Villa,Belgium,Y. Tielemans,CM CDM,26,82,84,37500000.0,SUB
+241464,Aston Villa,Spain,Pau Torres,CB,26,83,86,42000000.0,LCB
+241852,Aston Villa,France,M. Diaby,RM LM,23,84,88,60500000.0,RS
+202811,Aston Villa,Argentina,E. Martínez,GK,30,85,85,36000000.0,GK
+252302,Sheffield United,,Y. Larouci,LWB LB,22,69,77,3000000.0,SUB
+212100,Sheffield United,,M. Lowe,LWB LB,26,72,75,2800000.0,LWB
+258930,Sheffield United,,C. Archer,ST,21,73,79,4900000.0,LS
+254470,Sheffield United,,L. Thomas,LB LWB,22,73,77,4099999.9999999995,SUB
+244591,Sheffield United,,J. Bogle,RWB RB,22,73,79,4600000.0,SUB
+230005,Sheffield United,,T. Davies,CM CDM,25,74,76,5500000.0,SUB
+204936,Republic of Ireland,Sheffield United,J. Egan,CB,30,74,74,3500000.0,CB
+262929,Sheffield United,,Vinicius Souza,CDM CM CB,24,75,82,10500000.0,RCM
+236524,Sheffield United,,A. Ahmedhodžić,CB,24,75,83,11500000.0,RCB
+234741,Sheffield United,,G. Hamer,CM CDM CAM,26,75,77,7000000.0,LCM
+193182,Sheffield United,,W. Foderingham,GK,32,75,75,2800000.0,GK
+254796,Chelsea,,N. Madueke,RW RM,21,77,85,23500000.0,SUB
+259197,Chelsea,,N. Jackson,ST,22,78,85,29000000.0,ST
+242578,Chelsea,,B. Badiashile,CB,22,78,85,26500000.0,SUB
+238216,Chelsea,England,C. Gallagher,CM CDM,23,78,83,21000000.0,RDM
+239231,Chelsea,,Cucurella,LB CB LWB,24,79,83,23500000.0,SUB
+229942,Chelsea,France,A. Disasi,CB,25,79,84,23000000.0,RCB
+228789,Chelsea,,Robert Sánchez,GK,25,79,82,18000000.0,GK
+256079,Chelsea,,M. Caicedo,CDM CM,21,80,85,29500000.0,LDM
+229984,Chelsea,England,B. Chilwell,LB LWB,26,81,84,31000000.0,SUB
+247090,Chelsea,Argentina,E. Fernández,CM CDM,22,83,89,58000000.0,CAM
+202652,Chelsea,,R. Sterling,LW RW ST,28,83,83,36500000.0,RM
+240740,Nottingham Forest,,C. Hudson-Odoi,LW RW,22,75,80,8500000.0,SUB
+273106,Nottingham Forest,,Danilo,CDM CM,22,76,82,11000000.0,LCM
+251530,Nottingham Forest,,Nuno Tavares,LB LM,23,76,81,10500000.0,SUB
+234078,Nottingham Forest,Belgium,O. Mangala,CM CDM,25,76,80,10500000.0,SUB
+237819,Nottingham Forest,,N. Domínguez,CDM CM,25,77,83,15000000.0,SUB
+236015,Nottingham Forest,,M. Gibbs-White,CAM CF LW,23,77,83,16500000.0,LW
+230978,Nottingham Forest,,T. Awoniyi,ST,25,77,80,14000000.0,ST
+225859,Nottingham Forest,,M. Niakhaté,CB,27,77,79,11000000.0,SUB
+197853,Nottingham Forest,,S. Aurier,RB RWB,30,78,78,12000000.0,RWB
+231340,Nottingham Forest,Argentina,G. Montiel,RB RWB,26,79,81,20000000.0,SUB
+235173,Nottingham Forest,,I. Sangaré,CDM CM,25,81,84,31000000.0,SUB
+211990,Nottingham Forest,,O. Vlachodimos,GK,29,81,83,21500000.0,SUB
+246191,Manchester City,Argentina,J. Álvarez,ST CF CAM,23,80,86,33500000.0,CAM
+251517,Manchester City,Croatia,J. Gvardiol,CB LB,21,82,88,44500000.0,LB
+237692,Manchester City,England,P. Foden,LW RW,23,85,90,81500000.0,RW
+206517,Manchester City,England,J. Grealish,LW LM,27,85,85,57500000.0,LW
+203574,Manchester City,England,J. Stones,CB RB,29,85,86,49500000.0,RCB
+218667,Manchester City,Portugal,Bernardo Silva,CM RW,28,88,88,91500000.0,SUB
+210257,Manchester City,,Ederson,GK,29,88,89,70000000.0,GK
+239818,Manchester City,Portugal,Rúben Dias,CB,26,89,90,106500000.0,LCB
+231866,Manchester City,Spain,Rodri,CDM CM,27,89,90,105500000.0,RCM
+239085,Manchester City,Norway,E. Haaland,ST,22,91,94,185000000.0,ST
+192985,Manchester City,Belgium,K. De Bruyne,CM CAM,32,91,91,103000000.0,SUB
+248808,Scotland,Brentford,A. Hickey,RB RWB LB,21,76,82,11500000.0,RWB
+248484,Republic of Ireland,Brentford,N. Collins,CB RB,22,76,83,14000000.0,RCB
+241508,Denmark,Brentford,M. Damsgaard,CAM LW CM,22,76,83,15000000.0,LW
+235167,Brentford,,V. Janelt,CDM CM,25,76,80,9500000.0,LCM
+234824,Brentford,,Y. Wissa,LW ST,26,77,77,11500000.0,ST
+210697,Denmark,Brentford,C. Nørgaard,CDM,29,77,77,9000000.0,CDM
+243014,Brentford,,B. Mbeumo,RW ST,23,78,81,19000000.0,RW
+224494,Brentford,,R. Henry,LB LWB,25,78,79,15500000.0,SUB
+238717,Brentford,,E. Pinnock,CB,30,79,79,14500000.0,LCB
+189682,Brentford,,B. Mee,CB,33,79,79,8500000.0,SUB
+211738,Brentford,Netherlands,M. Flekken,GK,30,82,82,20500000.0,GK
+237329,Newcastle United,,J. Willock,CM,23,78,83,21000000.0,SUB
+234742,Newcastle United,,H. Barnes,LW LM,25,80,83,28000000.0,SUB
+233731,Newcastle United,Sweden,A. Isak,ST LW,23,81,86,39500000.0,ST
+230977,Newcastle United,,M. Almirón,RW RM,29,81,81,25500000.0,RW
+223334,Newcastle United,,Joelinton,CM LW,26,82,83,35500000.0,LCM
+196978,Newcastle United,England,C. Wilson,ST,31,82,82,25500000.0,SUB
+251809,Newcastle United,Netherlands,S. Botman,CB,23,83,87,47000000.0,LCB
+247851,Newcastle United,,Bruno Guimarães,CM CDM,25,84,87,55500000.0,CM
+203841,Newcastle United,England,N. Pope,GK,31,84,84,22500000.0,GK
+186345,Newcastle United,England,K. Trippier,RB,32,85,85,37500000.0,RB
+241096,Newcastle United,Italy,S. Tonali,CDM CM,23,86,89,84000000.0,RCM
+261299,Bournemouth,,A. Scott,CM CAM,19,72,84,5500000.0,SUB
+258781,Ukraine,Bournemouth,I. Zabarnyi,CB,20,73,81,6000000.0,RCB
+260908,Hungary,Bournemouth,M. Kerkez,LB,19,75,85,11500000.0,LWB
+237477,Bournemouth,,M. Tavernier,LM RM CAM,24,75,79,8000000.0,SUB
+225539,Bournemouth,,D. Solanke,ST,25,75,78,7500000.0,ST
+240787,Bournemouth,,H. Traorè,LM LW CAM,23,76,80,11000000.0,SUB
+236506,Bournemouth,,M. Senesi,CB,26,76,78,8000000.0,RCB
+236920,Bournemouth,,J. Kluivert,RM LM,24,77,82,16000000.0,LM
+220714,Denmark,Bournemouth,P. Billing,CM CAM,27,77,78,12000000.0,SUB
+233500,Bournemouth,,L. Sinisterra,LM RM CAM,24,78,82,20000000.0,SUB
+232999,United States,Bournemouth,T. Adams,CDM CM,24,78,80,16500000.0,CDM
+246104,Liverpool,,R. Gravenberch,CM,21,79,87,39500000.0,SUB
+253072,Liverpool,,D. Núñez,ST LW,24,82,88,48500000.0,SUB
+236772,Liverpool,Hungary,D. Szoboszlai,CAM,22,82,86,44500000.0,RCM
+242516,Liverpool,Netherlands,C. Gakpo,CF LW,24,83,88,55500000.0,CF
+241084,Liverpool,,L. Díaz,LW LM,26,84,85,49500000.0,LW
+224458,Liverpool,Portugal,Diogo Jota,CF LW,26,85,87,67500000.0,SUB
+231281,Liverpool,England,T. Alexander-Arnold,RB,24,86,88,81000000.0,RB
+216267,Liverpool,Scotland,A. Robertson,LB,29,86,86,59500000.0,LB
+212831,Liverpool,,Alisson,GK,30,89,90,77500000.0,GK
+209331,Liverpool,,M. Salah,RW,31,89,89,85500000.0,RW
+203376,Liverpool,Netherlands,V. van Dijk,CB,31,89,89,70500000.0,LCB
+251805,Arsenal,Netherlands,J. Timber,CB RB,22,79,86,33000000.0,SUB
+235790,Arsenal,Germany,K. Havertz,CAM RW ST,24,82,87,46000000.0,LCM
+243715,Arsenal,,W. Saliba,CB,22,83,89,53000000.0,RCB
+251566,Arsenal,,Gabriel Martinelli,LW LM,22,84,88,61500000.0,LW
+233934,Arsenal,England,A. Ramsdale,GK,25,84,87,43000000.0,GK
+232580,Arsenal,,Gabriel,CB,25,84,86,47000000.0,LCB
+230666,Arsenal,,Gabriel Jesus,ST RW,26,84,85,50500000.0,SUB
+234378,Arsenal,England,D. Rice,CDM CM,24,85,87,63000000.0,CDM
+209989,Arsenal,Ghana,T. Partey,CDM CM,30,85,85,45000000.0,SUB
+246669,Arsenal,England,B. Saka,RW RM,21,86,90,99000000.0,RW
+222665,Arsenal,Norway,M. Ødegaard,CAM CM,24,87,90,109000000.0,RCM
+259608,Republic of Ireland,Brighton & Hove Albion,E. Ferguson,ST,18,74,86,10000000.0,LS
+258498,Brighton & Hove Albion,,B. Verbruggen,GK,20,75,85,10500000.0,SUB
+253004,Brighton & Hove Albion,,Ansu Fati,LW ST,20,78,88,31000000.0,SUB
+218339,Brighton & Hove Albion,,M. Dahoud,CM CDM,27,78,78,15000000.0,LDM
+208004,Brighton & Hove Albion,,J. Veltman,RB CB,31,78,78,10000000.0,RB
+207616,Brighton & Hove Albion,,A. Webster,CB,28,78,79,13500000.0,RCB
+190765,Germany,Brighton & Hove Albion,P. Groß,CM CDM RB,32,78,78,11000000.0,SUB
+206594,Brighton & Hove Albion,,S. March,RM,28,79,79,17500000.0,RM
+255565,Brighton & Hove Albion,,K. Mitoma,LM,26,80,81,25000000.0,LM
+237942,Brighton & Hove Albion,,P. Estupiñán,LB,25,80,82,24500000.0,LB
+199915,Brighton & Hove Albion,,L. Dunk,CB,31,81,81,17500000.0,LCB
+258607,Wolverhampton Wanderers,,Toti Gomes,CB LB,24,74,81,8000000.0,SUB
+242641,Wolverhampton Wanderers,,R. Aït-Nouri,LB LWB,22,75,82,11000000.0,LB
+235456,Wolverhampton Wanderers,,J. Bellegarde,CM CDM,25,75,79,8000000.0,SUB
+273463,Wolverhampton Wanderers,,João Gomes,CDM CM,22,76,84,16000000.0,RCM
+245336,Wolverhampton Wanderers,,M. Kilman,CB,26,76,80,9000000.0,LCB
+239901,Wolverhampton Wanderers,,S. Kalajdžić,ST,25,77,79,13500000.0,SUB
+238616,Wolverhampton Wanderers,,Pedro Neto,LM RW ST,23,77,81,15000000.0,LM
+237658,Wolverhampton Wanderers,,S. Bueno,CB,24,77,82,14500000.0,SUB
+240243,Wolverhampton Wanderers,,Matheus Cunha,ST CAM LM,24,78,83,21500000.0,CAM
+227928,Wolverhampton Wanderers,Portugal,Nélson Semedo,RB RWB,29,78,78,12500000.0,RB
+212811,Wolverhampton Wanderers,,M. Lemina,CDM CM,29,78,78,12000000.0,LCM
+198950,Wolverhampton Wanderers,,Pablo Sarabia,RM CAM,31,78,78,11500000.0,RM
+212442,Wolverhampton Wanderers,Portugal,José Sá,GK,30,79,79,11500000.0,GK
+244470,West Ham United,Czech Republic,V. Coufal,RB,30,78,78,12000000.0,RB
+242000,West Ham United,,K. Mavropanos,CB RB,25,78,82,17500000.0,SUB
+220621,West Ham United,,S. Benrahma,LM CAM,27,78,78,15000000.0,LM
+205569,West Ham United,,J. Ward-Prowse,CM,28,78,78,14000000.0,RDM
+245155,West Ham United,Ghana,M. Kudus,RW CAM,22,79,86,35500000.0,SUB
+244749,West Ham United,Morocco,N. Aguerd,CB,27,79,81,18500000.0,LCB
+236792,West Ham United,Czech Republic,T. Souček,CDM CM,28,79,80,17000000.0,SUB
+224371,West Ham United,,J. Bowen,RM RW,26,79,80,20500000.0,RM
+204311,West Ham United,,K. Zouma,CB,28,79,81,17500000.0,RCB
+235844,West Ham United,Mexico,E. Álvarez,CDM CB,25,81,84,31000000.0,LDM
+233927,West Ham United,,Lucas Paquetá,CAM CM,25,81,84,34000000.0,CAM
+236461,Crystal Palace,,J. Mateta,ST,26,75,77,7000000.0,SUB
+233866,Crystal Palace,,O. Edouard,ST,25,75,78,7500000.0,ST
+240947,Crystal Palace,,T. Mitchell,LB,23,76,81,10500000.0,LB
+228295,Crystal Palace,,R. Holding,CB,27,76,77,7500000.0,SUB
+200759,Crystal Palace,,J. Schlupp,CDM CM,30,76,76,6500000.0,LM
+213991,Crystal Palace,,J. Lerma,CDM CM,28,77,77,9500000.0,LDM
+241159,England,Crystal Palace,M. Guéhi,CB,22,78,85,26500000.0,SUB
+242619,Crystal Palace,,C. Doucouré,CDM CM,23,78,83,19500000.0,RDM
+224221,Denmark,Crystal Palace,J. Andersen,CB,27,78,80,15000000.0,SUB
+235794,England,Crystal Palace,E. Eze,CAM CM LW,25,79,84,26000000.0,SUB
+233306,Crystal Palace,,D. Henderson,GK,26,79,82,17500000.0,SUB
+241436,Fulham,,C. Bassey,CB LB,23,74,82,8500000.0,SUB
+229348,Fulham,United States,A. Robinson,LB LWB,25,76,77,8000000.0,LB
+216266,Fulham,,K. Tete,RB,27,76,77,8000000.0,RB
+213655,Fulham,,A. Iwobi,RM CM,27,76,76,8000000.0,SUB
+236699,Fulham,,S. Lukić,CM CDM,26,77,78,12500000.0,SUB
+222501,Fulham,Belgium,T. Castagne,RB LB RW,27,77,78,11000000.0,SUB
+222104,Fulham,,T. Adarabioyo,CB,25,77,82,14000000.0,SUB
+208450,Fulham,,Andreas Pereira,CAM,27,77,78,12000000.0,CAM
+231633,Fulham,,I. Diop,CB,26,78,81,16500000.0,RCB
+192563,Fulham,,B. Leno,GK,31,81,81,13500000.0,GK
+229391,Fulham,Portugal,Palhinha,CDM CM,27,83,84,37000000.0,LDM
+262642,Burnley,,Z. Amdouni,ST CAM,22,74,83,9500000.0,CAM
+260843,Burnley,Morocco,A. Zaroury,LM ST,22,74,83,9500000.0,SUB
+222724,Burnley,,B. Manuel,RM RW,26,74,75,5000000.0,SUB
+233164,Burnley,,A. Murić,GK,24,75,82,9500000.0,SUB
+242660,Burnley,,J. Beyer,CB,23,75,82,10500000.0,LCB
+228092,Norway,Burnley,S. Berge,CM,25,75,79,8000000.0,SUB
+225147,Wales,Burnley,C. Roberts,RB RWB,27,75,75,5500000.0,RB
+220659,Burnley,,J. Brownhill,CM CAM CDM,27,75,76,6500000.0,LDM
+228151,Republic of Ireland,Burnley,J. Cullen,CDM CM,27,76,78,8000000.0,CDM
+198719,Burnley,,N. Redmond,RM LM ST,29,77,77,10500000.0,SUB
+253150,Burnley,,M. Trésor,LM CAM,24,78,82,20000000.0,SUB
+234574,Manchester United,Portugal,Diogo Dalot,RB,24,80,84,28000000.0,LB
+229880,Manchester United,,A. Wan-Bissaka,RB,25,80,83,25500000.0,RB
+224158,Manchester United,Morocco,S. Amrabat,CDM CM,26,80,83,25000000.0,SUB
+255475,Manchester United,,Antony,RW RM,23,81,87,40500000.0,RW
+233049,Manchester United,,J. Sancho,LW LM,23,82,86,43500000.0,SUB
+190460,Manchester United,Denmark,C. Eriksen,CM CDM,31,83,83,30000000.0,LCM
+239301,Manchester United,Argentina,L. Martínez,CB,25,84,87,49500000.0,LCB
+231677,Manchester United,England,M. Rashford,LW LM ST,25,85,88,71500000.0,LW
+226753,Manchester United,,A. Onana,GK,27,85,86,46000000.0,GK
+212198,Manchester United,Portugal,Bruno Fernandes,CAM CM,28,88,88,92000000.0,CAM
+200145,Manchester United,,Casemiro,CDM,31,89,89,72000000.0,RCM
+257057,Everton,Belgium,A. Onana,CDM CM,21,76,83,14500000.0,LCM
+243282,Everton,,D. McNeil,LM RM,23,76,81,11500000.0,RM
+232080,Everton,,J. Harrison,LM RM,26,76,77,9000000.0,SUB
+221479,Everton,,D. Calvert-Lewin,ST,26,77,80,14000000.0,SUB
+211575,Everton,,André Gomes,CDM CM,29,77,77,9000000.0,SUB
+208135,Everton,,A. Doucouré,CM CDM,30,77,77,10000000.0,RCM
+207599,Everton,,M. Keane,CB,30,77,77,8500000.0,SUB
+202695,Everton,,J. Tarkowski,CB,30,79,79,14500000.0,RCB
+251892,Everton,,Beto,ST,25,81,83,33000000.0,ST
+236276,Everton,,A. Danjuma,ST LM,26,81,82,31000000.0,LM
+204935,Everton,England,J. Pickford,GK,29,82,84,25000000.0,GK
+233510,Luton Town,,T. Chong,RM CM CF,23,71,76,2800000.0,LCM
+252483,Luton Town,,A. Doughty,LWB RWB,23,72,78,3500000.0,SUB
+229375,Luton Town,,E. Adebayo,ST,25,72,77,3500000.0,RS
+213152,Luton Town,,C. Morris,ST,27,72,72,2500000.0,LS
+253052,Luton Town,,I. Kaboré,RWB RB RM,22,73,83,6500000.0,RWB
+188400,Belgium,Luton Town,T. Kaminski,GK,30,73,74,2300000.0,SUB
+243608,Luton Town,,R. Giles,LWB LB,23,74,79,6000000.0,LWB
+241928,Luton Town,,A. Sambi Lokonga,CDM CM,23,74,80,6000000.0,SUB
+222994,Luton Town,,M. Nakamba,CDM CM,29,74,74,3600000.0,CDM
+211363,Wales,Luton Town,T. Lockyer,CB,28,74,74,3600000.0,SUB
+199189,Luton Town,,R. Barkley,CAM CM,29,74,74,4099999.9999999995,RCM
