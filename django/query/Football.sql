@@ -1,7 +1,8 @@
 DROP database if exists Football;
 CREATE DATABASE if not exists Football;
-USE football;
+USE Football;
 CREATE TABLE Matchs_Dataset_Model (
+    id INT AUTO_INCREMENT PRIMARY KEY,
     Match_Id NVARCHAR(100),
     Match_Date DATE,
     Home_Team NVARCHAR(100),
@@ -97,6 +98,7 @@ CREATE TABLE Matchs_Dataset_Model (
 );
 
 CREATE TABLE Fbref_Matchgoals_Modified (
+    id INT AUTO_INCREMENT PRIMARY KEY,
     Match_Id NVARCHAR(100),
     Team NVARCHAR(100),
     Minute FLOAT,
@@ -106,6 +108,7 @@ CREATE TABLE Fbref_Matchgoals_Modified (
 );
 
 CREATE TABLE Fbref_Matchinfos_Modified (
+    id INT AUTO_INCREMENT PRIMARY KEY,
     Match_Id NVARCHAR(100),
     League NVARCHAR(100),
     Season NVARCHAR(100),
@@ -121,6 +124,7 @@ CREATE TABLE Fbref_Matchinfos_Modified (
 );
 
 CREATE TABLE Fbref_Matchplayerstats_Modified (
+    id INT AUTO_INCREMENT PRIMARY KEY,
     Match_Id NVARCHAR(100),
     Team NVARCHAR(100),
     Player_Name NVARCHAR(100),
@@ -131,7 +135,7 @@ CREATE TABLE Fbref_Matchplayerstats_Modified (
     Minutes FLOAT,
     Gls FLOAT,
     Ast FLOAT,
-    PK FLOAT,
+    `PK` FLOAT,
     PK_Att FLOAT,
     Sh FLOAT,
     SoT FLOAT,
@@ -157,6 +161,7 @@ CREATE TABLE Fbref_Matchplayerstats_Modified (
 );
 
 CREATE TABLE Fbref_Matchsquad_Modified (
+    id INT AUTO_INCREMENT PRIMARY KEY,
     Match_Id NVARCHAR(100),
     Team NVARCHAR(100),
     Is_Home_Team nvarchar(100),
@@ -165,6 +170,7 @@ CREATE TABLE Fbref_Matchsquad_Modified (
     Is_Sub NVARCHAR(100)
 );
 CREATE TABLE Fbref_Matchstats_Modified (
+    id INT AUTO_INCREMENT PRIMARY KEY,
     Match_Id NVARCHAR(100),
     Team NVARCHAR(100),
     Is_Home_Team nvarchar(100),
@@ -211,6 +217,7 @@ CREATE TABLE Fbref_Matchstats_Modified (
     Score FLOAT
 );
 CREATE TABLE Matchsquad_Players (
+    id INT AUTO_INCREMENT PRIMARY KEY,
     Match_Id NVARCHAR(100),
     Match_Date DATE,
     Team NVARCHAR(100),
@@ -223,6 +230,7 @@ CREATE TABLE Matchsquad_Players (
     Player_Update_Date DATE
 );
 CREATE TABLE Sofifa_Players_Attr_Modified (
+    id INT AUTO_INCREMENT PRIMARY KEY,
     Acceleration FLOAT,
     Age INT,
     Aggression FLOAT,
@@ -296,6 +304,7 @@ CREATE TABLE Sofifa_Players_Attr_Modified (
 );
 
 CREATE TABLE Sofifa_Players_Infos_Modified (
+    id INT AUTO_INCREMENT PRIMARY KEY,
     Player_Id NVARCHAR(100),
     Birthday DATE,
     Player_Full_Name NVARCHAR(100),
@@ -305,3 +314,29 @@ CREATE TABLE Sofifa_Players_Infos_Modified (
     Height FLOAT,
     Weight FLOAT
 );
+
+create view view_Scores_and_Fixtures as
+select ROW_NUMBER() OVER (ORDER BY table1.Match_Id) AS id,
+        table1.Match_Id,
+		table1.League,
+		table1.Season, 
+		table1.Match_Week, 
+		table1.Home_Team, 
+		table1.Away_Team, 
+		table1.Match_Date, 
+		table1.Venue_Time, 
+		table1.Attendance, 
+		table1.Stadium, 
+		table1.Officials, 
+		table1.Link,
+		table1.Score as Home_Score,
+        table2.Score as Away_Score 
+from (select matchinfos.*,matchstats.Score
+		from fbref_matchinfos_modified matchinfos
+		join fbref_matchstats_modified matchstats on matchinfos.Match_Id = matchstats.Match_Id 
+		where matchstats.Is_Home_Team ="Yes") table1 
+join (select matchinfos.*,matchstats.Score
+		from fbref_matchinfos_modified matchinfos
+		join fbref_matchstats_modified matchstats on matchinfos.Match_Id = matchstats.Match_Id 
+		where matchstats.Is_Home_Team ="No") table2 on table1.Match_Id = table2.Match_Idview_scores_and_fixtures
+        
