@@ -159,7 +159,7 @@ def kafka_producer():
 
 def main():
     crawlUpComingMatch()
-    # kafka_producer()
+    kafka_producer()
 
 if __name__ == "__main__":
     main()
