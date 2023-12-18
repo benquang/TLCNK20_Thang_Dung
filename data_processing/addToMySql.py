@@ -71,7 +71,11 @@ dataframes_dict = {
 
 def process_dataframe(df_name, file_path):
     df = pd.read_csv(file_path)
+    # If want to replace all data, use if_exists="replace"
     df.to_sql(df_name, engine, if_exists="replace", index=True,index_label="id")
+    # If want to append data, use if_exists="append"
+    # df.to_sql(df_name, engine, if_exists="append", index=True,index_label="id")
+    
 
 # Create a ThreadPoolExecutor with the desired number of threads
 executor = ThreadPoolExecutor(max_workers=4)

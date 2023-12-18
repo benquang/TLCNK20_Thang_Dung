@@ -7,5 +7,4 @@ urlpatterns = [
     path('<str:league>/<str:season>/scores_and_fixtures/', views.Scores_And_Fixtures_List.as_view(), name='scores_and_fixtures'),
     path('scores_and_fixtures/',views.Scores_And_Fixtures_List.as_view(),name='scores_and_fixtures'),
     path('match/<str:match_id>/', views.Matchs_Detail_Infos_View.as_view(), name='match_detail'),
-
 ]
