@@ -150,6 +150,7 @@ def kafka_producer():
             value_serializer=lambda v: json.dumps(v).encode('utf-8')
         )
     with open('data.csv', 'r',encoding='utf-8-sig') as f:
+        next(f)
         for row in f:
             row = row.strip()
             row=row.strip('\n')
