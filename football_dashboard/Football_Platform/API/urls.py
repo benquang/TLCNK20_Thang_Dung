@@ -22,4 +22,7 @@ urlpatterns = [
          views.Matchs_Detail_Infos_View.as_view(), name='match_detail'),
      path('match_future/<str:match_id>/', 
          views.Match_Future.as_view(), name='match_future'),
+     path('team_optimization/<str:team>/', 
+         views.Team_Optimization_View.as_view(), name='team_optimization'),
+        
 ]
