@@ -204,8 +204,21 @@ class Match_Future(APIView):
             matchs_model = MatchsDatasetModel.objects.all().filter(match_id=match_id)
             matchs_model_serializer = Matchs_Dataset_Serializer(matchs_model, many=True)
 
-            all_matchs_model = MatchsDatasetModel.objects.all().order_by('-match_date')
-            all_matchs_model_serializer = Matchs_Dataset_Serializer(all_matchs_model, many=True)
+            team1 = matchs_infos_serializer.data[0]["home_team"]
+            team2 = matchs_infos_serializer.data[0]["away_team"]
+
+            team_optimization1 = TeamOptimization.objects.all().filter(team1=team1) | TeamOptimization.objects.all().filter(team2=team1)
+            team_optimization2 = TeamOptimization.objects.all().filter(team1=team2) | TeamOptimization.objects.all().filter(team2=team2)
+            
+            team_optimization1_serializer = Team_Optimization_Serializer(team_optimization1, many=True)
+            team_optimization2_serializer = Team_Optimization_Serializer(team_optimization2, many=True)
+
+            all_matchs_model1 = MatchsDatasetModel.objects.all().filter(home_team=team1) | MatchsDatasetModel.objects.all().filter(away_team=team1)
+            all_matchs_model1_serializer = Matchs_Dataset_Serializer(all_matchs_model1[1:5], many=True)
+
+            all_matchs_model2 = MatchsDatasetModel.objects.all().filter(home_team=team2) | MatchsDatasetModel.objects.all().filter(away_team=team2)
+            all_matchs_model2_serializer = Matchs_Dataset_Serializer(all_matchs_model2[1:5], many=True)
+
             data = {
                 "matchs_infos":matchs_infos_serializer.data,
                 "match_goals":match_goals_serializer.data,
@@ -215,7 +228,11 @@ class Match_Future(APIView):
                 "matchs_model":matchs_model_serializer.data,
                 "match_future":match_predict_serializer.data,
 
-                "all_match_model":all_matchs_model_serializer.data
+                "opti1":team_optimization1_serializer.data,
+                "opti2":team_optimization2_serializer.data,
+
+                "all_model_1":all_matchs_model1_serializer.data,
+                "all_model_2":all_matchs_model2_serializer.data
             }
             return JsonResponse(data, safe=False)
         else:
@@ -234,6 +251,30 @@ class Matchs_By_Team_Order_Desc(APIView):
 
             data = {
                 "matchs_model":matchs_model_serializer.data
+            }
+            return JsonResponse(data, safe=False)
+        else:
+            matchs_infos = FbrefMatchinfosModified.objects.all()
+            matchs_infos_serializer = FbrefMatchinfosModified_Serializer(matchs_infos, many=True)
+        return JsonResponse(matchs_infos_serializer.data, safe=False)
+    
+class Team_Optimization_View(APIView):
+    def get(self, request, team = None):
+        if team:
+            #team = "Tottenham Hotspur,Fulham"
+            team_list = team.split(",")
+            team1 = team_list[0]
+            team2 = team_list[1]
+
+            team_optimization1 = TeamOptimization.objects.all().filter(team1=team1) | TeamOptimization.objects.all().filter(team2=team1)
+            team_optimization2 = TeamOptimization.objects.all().filter(team1=team2) | TeamOptimization.objects.all().filter(team2=team2)
+            
+            team_optimization1_serializer = Team_Optimization_Serializer(team_optimization1, many=True)
+            team_optimization2_serializer = Team_Optimization_Serializer(team_optimization2, many=True)
+
+            data = {
+                team1:team_optimization1_serializer.data,
+                team2:team_optimization2_serializer.data
             }
             return JsonResponse(data, safe=False)
         else:

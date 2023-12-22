@@ -480,3 +480,20 @@ class FutureMatches(models.Model):
     class Meta:
         managed = False
         db_table = 'future_matches'
+
+
+class TeamOptimization(models.Model):
+    sofifa_id = models.CharField(db_column='Sofifa_Id', max_length=100, db_collation='utf8mb3_general_ci', blank=True, null=True)  # Field name made lowercase.
+    team1 = models.CharField(db_column='Team1', max_length=100, db_collation='utf8mb3_general_ci', blank=True, null=True)  # Field name made lowercase.
+    team2 = models.CharField(db_column='Team2', max_length=100, db_collation='utf8mb3_general_ci', blank=True, null=True)  # Field name made lowercase.
+    player_name = models.CharField(db_column='Player_Name', max_length=100, db_collation='utf8mb3_general_ci', blank=True, null=True)  # Field name made lowercase.
+    all_positions = models.CharField(db_column='All_Positions', max_length=100, db_collation='utf8mb3_general_ci', blank=True, null=True)  # Field name made lowercase.
+    age = models.IntegerField(db_column='Age', blank=True, null=True)  # Field name made lowercase.
+    overall_rating = models.FloatField(db_column='Overall_Rating', blank=True, null=True)  # Field name made lowercase.
+    potential = models.FloatField(db_column='Potential', blank=True, null=True)  # Field name made lowercase.
+    value = models.CharField(db_column='Value', max_length=100, db_collation='utf8mb3_general_ci', blank=True, null=True)  # Field name made lowercase.
+    team1_position = models.CharField(db_column='Team1_Position', max_length=100, db_collation='utf8mb3_general_ci', blank=True, null=True)  # Field name made lowercase.
+
+    class Meta:
+        managed = False
+        db_table = 'team_optimization'

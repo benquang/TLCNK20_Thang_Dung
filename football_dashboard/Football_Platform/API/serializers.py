@@ -54,3 +54,8 @@ class Future_Matches_Serializer(serializers.ModelSerializer):
     class Meta:
         model = FutureMatches
         fields = '__all__'
+
+class Team_Optimization_Serializer(serializers.ModelSerializer):
+    class Meta:
+        model = TeamOptimization
+        fields = '__all__'

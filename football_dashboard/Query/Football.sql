@@ -412,6 +412,20 @@ CREATE TABLE future_matches (
     Result NVARCHAR(100)
 );
 
+CREATE TABLE team_optimization (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    Sofifa_Id nvarchar(100),
+    Team1 NVARCHAR(100),
+    Team2 NVARCHAR(100),
+    Player_Name NVARCHAR(100),
+    All_Positions NVARCHAR(100),
+    Age INT,
+    Overall_Rating FLOAT,
+    Potential FLOAT,
+    `Value` NVARCHAR(100),
+    Team1_Position NVARCHAR(100)
+);
+
 create view view_Scores_and_Fixtures as
 select ROW_NUMBER() OVER (ORDER BY table1.Match_Id) AS id,
         table1.Match_Id,
